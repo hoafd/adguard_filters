@@ -1,4 +1,4 @@
-! --- MẠNG XÃ HỘI & CÁ NHÂN (GIỮ ỔN ĐỊNH, KHÔNG THẢ CỬA ROOT DOMAIN) ---
+! --- MẠNG XÃ HỘI & CÁ NHÂN ---
 @@||www.facebook.com^
 @@||m.facebook.com^
 @@||graph.facebook.com^
@@ -7,8 +7,9 @@
 @@||zdn.vn^
 
 ! --- GOOGLE & YOUTUBE (FIX LỊCH SỬ & KẾT NỐI - ĐÃ LOẠI BỎ ADS) ---
-@@||safebrowsing.google.com^
-@@||ifconfig.me^
+@@||safebrowsing.google.com^$important
+@@||ifconfig.me^$important
+@@||accounts.google.com^$important
 @@||youtube.com^
 @@||youtu.be^
 @@||youtube-nocookie.com^
@@ -22,7 +23,6 @@
 @@||youtubei.googleapis.com^
 
 ! --- HẠ TẦNG APP & ANDROID (FIX LỖI CHẤM THAN WIFI) ---
-! Đã gỡ bỏ @@||googleapis.com^ vì quá rộng, chứa nhiều tracker.
 @@||connectivitycheck.gstatic.com^$important
 @@||android.apis.google.com^$important
 @@||clients3.google.com^$important
@@ -43,18 +43,21 @@
 @@||shopeemobile.com^
 @@||shp.ee^
 @@||thegioididong.com^
+@@||shopee.com^
+@@||shope.ee^
+@@||vn.shp.ee^
+@@||deo.shopeemobile.com^
+@@||cv.shopee.vn^
 
 ! --- MICROSOFT & HỆ THỐNG ---
 @@||login.microsoftonline.com^
 @@||login.live.com^
 @@||windowsupdate.com^
 @@||delivery.mp.microsoft.com^
-@@||tailscale.com^
-@@||ts.net^
 
 ! --- SAMSUNG TV & SMART HUB (QUAN TRỌNG ĐỂ KHÔNG MẤT KẾT NỐI) ---
 ! Đã gỡ @@||samsung.com^ để chặn tracker. Mở khóa account để đăng nhập.
-@@||account.samsung.com^
+@@||account.samsung.com^$important
 @@||samsungcloudsolution.com^$important
 @@||samsungcloudsolution.net^$important
 @@||samsungcloud.com^
@@ -71,7 +74,7 @@
 @@||static.tv360.vn^$important
 @@||coccoc.com^$important
 @@||safe-browsing-api.coccoc.com^$important
-@@||hoathinh3d.bz^$important
+@@||hoathinh3d.bz^
 @@||phimmoichill.now^
 @@||noip.com^$important
 @@||hoafd.ddns.net^$important
@@ -79,11 +82,5 @@
 @@||entitlements.jwplayer.com^
 @@||prd.jwpltx.com^
 @@||tailscale.com^$important
-@@||shopee.vn^
-@@||shopee.com^
-@@||shopeemobile.com^
-@@||shope.ee^
-@@||vn.shp.ee^
-@@||log.shopee.vn^
-@@||deo.shopeemobile.com^
-@@||cv.shopee.vn^
+@@||ts.net^$important
+@@||cellphones.api.useinsider.com^$important

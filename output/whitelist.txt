@@ -1,6 +1,6 @@
 ! Title: My Final Whitelist
-! Updated: 2026-02-28 17:34:58
-! Rules in this file: 11702
+! Updated: 2026-02-28 17:46:50
+! Rules in this file: 11703
 !
 ! --- YOUR FILTER LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -556,8 +556,9 @@
 @@||accntu.re^
 @@||acconpit.com^
 @@||accorcio.it^
-@@||account.samsung.com^
+@@||account.samsung.com^$important
 @@||accountingde.pt^
+@@||accounts.google.com^$important
 @@||accounts.youtube.com^
 @@||accu.li^
 @@||accu.ps^
@@ -1831,6 +1832,7 @@
 @@||cebol.me^
 @@||ceittp.com^
 @@||celfam.us^
+@@||cellphones.api.useinsider.com^$important
 @@||centi.ai^
 @@||centre.is^
 @@||centurylinke.com^
@@ -3935,7 +3937,7 @@
 @@||hoafd.ddns.net^$important
 @@||hoakhanh.life^
 @@||hoaminh.live^
-@@||hoathinh3d.bz^$important
+@@||hoathinh3d.bz^
 @@||hocmai.link^
 @@||hodroffs.com^
 @@||hoeg.it^
@@ -4100,7 +4102,7 @@
 @@||iembelleze.com^
 @@||ierp.co.nz^
 @@||if.fm^
-@@||ifconfig.me^
+@@||ifconfig.me^$important
 @@||iffii.com^
 @@||ifix.gd^
 @@||ift.cx^
@@ -5476,7 +5478,6 @@
 @@||lockn.link^
 @@||log.je^
 @@||log.qa^
-@@||log.shopee.vn^
 @@||login.aliexpress.com^$important
 @@||login.live.com^$important
 @@||login.maraset.site^
@@ -7650,7 +7651,7 @@
 @@||safe-browsing-api.coccoc.com^$important
 @@||safe.mn^
 @@||safeads.com.br^
-@@||safebrowsing.google.com^
+@@||safebrowsing.google.com^$important
 @@||safeelink.com^
 @@||safelink.pengembangsebelah.com^
 @@||safelink.vn^
@@ -9655,7 +9656,7 @@
 @@||trypcp.net.cutestat.com^
 @@||trypcp.net^
 @@||tryurl.io^
-@@||ts.net^
+@@||ts.net^$important
 @@||tsbk.tw^
 @@||tshm.fr^
 @@||tsl.sh^
