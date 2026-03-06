@@ -1,0 +1,39 @@
+name: Yearly Git History Cleanup
+
+on:
+  schedule:
+    # Chạy vào 00:00 ngày 01 tháng 01 hàng năm
+    - cron: '0 0 1 1 *'
+  
+  workflow_dispatch: # Cho phép ní tự tay bấm dọn dẹp bất cứ lúc nào
+
+permissions:
+  contents: write
+
+jobs:
+  reset-history:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        # (Đã bỏ fetch-depth: 0 để chạy nhanh hơn vì không cần lịch sử cũ)
+
+      - name: Reset Git History
+        run: |
+          # 1. Cấu hình định danh chuẩn của GitHub Bot
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 2. Tạo một nhánh mới tinh không có lịch sử cũ
+          git checkout --orphan latest_branch
+
+          # 3. Thêm tất cả các tệp hiện tại vào nhánh mới này
+          git add -A
+
+          # 4. Tạo commit đầu tiên cho "kỷ nguyên mới"
+          git commit -m "Annual Cleanup: Reset history to optimize storage [skip ci]"
+
+          # 5. Ép GitHub nhận nhánh mới này làm lịch sử chính của nhánh 'main'
+          # Cách này an toàn hơn việc xóa nhánh local rất nhiều
+          git push -f origin latest_branch:main
+          

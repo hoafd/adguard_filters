@@ -1,0 +1,15 @@
+{
+  "whitelist": [
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-urlshortener.txt",
+    "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt",
+    "https://raw.githubusercontent.com/DandelionSprout/AdGuard-Home-Whitelist/master/whitelist.txt",
+    "https://raw.githubusercontent.com/hoafd/adguard_filters/refs/heads/main/my-rules/allow.txt"
+  ],
+  "blocklist": [
+    "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+    "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/tif.txt",
+    "https://abpvn.com/filter/abpvn-B6pQHn.txt?adguard",
+    "https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/filters/security/filter_11_MaliciousURLBlocklist/filter.txt"
+  ]
+}
