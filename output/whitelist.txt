@@ -1,11 +1,12 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-06 13:11:22
-! Rules: 11593
+! Updated: 2026-03-07 02:30:45
+! Rules: 11619
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
 ! > Blocklist Part 1: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/filter_001.txt
 ! > Blocklist Part 2: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/filter_002.txt
+! > Blocklist Part 3: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/filter_003.txt
 !
 ! --- SOURCES ---
 ! [WHITELIST]
@@ -420,6 +421,7 @@
 @@||8u.cz^
 @@||8u.pw^
 @@||9-aclk.net^
+@@||90003cfd.cfd^
 @@||900r.ir^
 @@||925.seiu.org^
 @@||92url.com^
@@ -595,6 +597,7 @@
 @@||adbaw.com^
 @@||adbl.co^
 @@||adbly.co^
+@@||adcryp.to^
 @@||add-l.ink^
 @@||add.lat^
 @@||add2wallet.link^
@@ -633,6 +636,7 @@
 @@||adol.us^
 @@||adorama.rfvk.net^
 @@||adosiz.io^
+@@||adosiz.net^
 @@||adpanel.com^
 @@||adpaylink.com^
 @@||adr.ec^
@@ -884,6 +888,7 @@
 @@||anrdoezrs.net^
 @@||answ.xyz^
 @@||antinawala.team^
+@@||antonellapouncedcrewels.com^
 @@||anx.io^
 @@||any.gs^
 @@||anyimage.io^
@@ -1067,6 +1072,7 @@
 @@||atpz.ir^
 @@||atqiv.org^
 @@||atres.red^
+@@||atropinestatuarylandleaper.com^
 @@||att.ovh^
 @@||attestation.xboxlive.com^$important
 @@||attlinks.com^
@@ -2314,6 +2320,7 @@
 @@||curlm.in^
 @@||curlmin.com^
 @@||curriculumsystem.org^
+@@||curryfielddistribution.com^
 @@||curt.wiz.co^
 @@||curturl.net^
 @@||curty.in^
@@ -2677,6 +2684,7 @@
 @@||dpo.st^
 @@||dprox.co^
 @@||dps.media^
+@@||dpuplet.net^
 @@||dqr4.org^
 @@||dr-lisa.life^
 @@||drafthound.link^
@@ -2926,6 +2934,7 @@
 @@||enlac.ee^
 @@||enlaces.entrelasgestiones.com^
 @@||enlacify.com^
+@@||enraptureminims.com^
 @@||enshom.link^
 @@||enter.bestbody.com.au^
 @@||enter.id.vn^
@@ -3646,6 +3655,7 @@
 @@||golinkfy.io^
 @@||golinks.cloud^
 @@||golnk.eu^
+@@||golnkz.com^
 @@||goly.me^
 @@||gomakethings.com^
 @@||gomobupps.com^
@@ -3898,6 +3908,7 @@
 @@||hjkl.fr^
 @@||hjl.me^
 @@||hjsrs.com^
+@@||hk6vdj4z.click^
 @@||hko.nu^
 @@||hkproduction.fr^
 @@||hl7.me^
@@ -4204,6 +4215,7 @@
 @@||intest.ink^
 @@||intrescom.org^
 @@||intro.sentrystrategy.com^
+@@||intrudeimpolitetortoise.com^
 @@||intuit.me^
 @@||intwitspin.motorcycles^
 @@||intx.ltd^
@@ -4337,6 +4349,7 @@
 @@||jalurvip.co^
 @@||jalurwild.win^
 @@||jame.sn^
+@@||jameeltips.us^
 @@||jamesastaten.live^
 @@||jamp.to^
 @@||jangup.kr^
@@ -4350,6 +4363,7 @@
 @@||jasn.ca^
 @@||javadocs.org^
 @@||jaw.gg^
+@@||jayan-uvl.com^
 @@||jaygo.xyz^
 @@||jb.gg^
 @@||jbiv.com^
@@ -5909,6 +5923,7 @@
 @@||momo.dm^
 @@||momo.vn^$important
 @@||mondoagram.com^
+@@||monetiza.co^
 @@||monghaiba.life^
 @@||monghaibon.live^
 @@||monghaihai.life^
@@ -6574,6 +6589,7 @@
 @@||oua.be^
 @@||oui.li^
 @@||ouiasso.com^
+@@||oundhertobeconsist.org^
 @@||ouo.io^
 @@||ouo.press^
 @@||ouoi.in^
@@ -6634,6 +6650,7 @@
 @@||pagetie.com^
 @@||pairedinparadise.live^
 @@||paksa.click^
+@@||palpatecricketmajesty.com^
 @@||pamethelabel.info^
 @@||panaceainc.co^
 @@||pandastyle.live^
@@ -6865,6 +6882,8 @@
 @@||pp.cr^
 @@||pp24.nl^
 @@||ppa.as^
+@@||ppcent.org^
+@@||ppcnqq.com^
 @@||ppcprotect.com^
 @@||ppcsecure.com^
 @@||ppcshield.io^
@@ -7246,6 +7265,7 @@
 @@||rdee.us^
 @@||rdr.gr^
 @@||rdr.wargaming.net^
+@@||rdrclk.com^
 @@||rdrct.site^
 @@||rdre.me^
 @@||rds.ovh^
@@ -7381,12 +7401,14 @@
 @@||reurl.in^
 @@||reut.rs^
 @@||rev.cm^
+@@||revbid.net^
 @@||revisit.work^
 @@||revlk.com^
 @@||revly.click^
 @@||revr.ec^
 @@||revrocket.eq-aibridge.com^
 @@||rewardtk.com^
+@@||reyeshehadtwobri.com^
 @@||rfed.ws^
 @@||rfj.tips^
 @@||rfknow.org^
@@ -8512,6 +8534,7 @@
 @@||sndn.link^
 @@||sng.agency^
 @@||sngkt.in^
+@@||snhjsbs.shop^
 @@||sni.cdn.manager-magazin.de.c.footprint.net^$important
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||sni.ps^
@@ -9764,6 +9787,7 @@
 @@||uldox.com^
 @@||ulink.adjust.com^
 @@||ulnk.app^
+@@||ultimateaderaser.com^
 @@||ultra.bo^
 @@||ultrashort.me^
 @@||ulvis.net^
@@ -10250,6 +10274,7 @@
 @@||vai.onl^
 @@||vaila.me^
 @@||valv.im^
+@@||vampyrejibmen.com^
 @@||vancedshorts.com^
 @@||vanderbi.lt^
 @@||vanier.co^
@@ -10447,6 +10472,7 @@
 @@||w.wiki^
 @@||w09.ru^
 @@||w0o.de^
+@@||w0of-woof.com^
 @@||w1p.fr^
 @@||w2link.com^
 @@||w33.li^
@@ -10630,6 +10656,7 @@
 @@||worldpay.live^
 @@||worldweather.wmo.int^$important
 @@||worrysolve.com^
+@@||wounofoarausooy.net^
 @@||wow.doctor^
 @@||wow.link^
 @@||wowly.co.in^
