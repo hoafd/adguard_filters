@@ -1,12 +1,11 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-07 02:30:45
-! Rules: 11619
+! Updated: 2026-03-07 13:01:11
+! Rules: 11621
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
 ! > Blocklist Part 1: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/filter_001.txt
 ! > Blocklist Part 2: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/filter_002.txt
-! > Blocklist Part 3: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/filter_003.txt
 !
 ! --- SOURCES ---
 ! [WHITELIST]
@@ -54,6 +53,7 @@
 @@||0a.sk^
 @@||0a0.uk^
 @@||0bs.de^
+@@||0i.is^
 @@||0ln.eu^
 @@||0ln.io^
 @@||0o.lv^
@@ -309,6 +309,7 @@
 @@||4b.is^
 @@||4bio.cc^
 @@||4d2.link^
+@@||4e.fi^
 @@||4eq.ir^
 @@||4etch.com^
 @@||4ev.link^
