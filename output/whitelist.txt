@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-10 13:16:53
-! Rules: 11693
+! Updated: 2026-03-11 02:35:24
+! Rules: 11699
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -9798,6 +9798,7 @@
 @@||u2l.io^
 @@||u2s.ca^
 @@||u301.com^
+@@||u3vw.shop^
 @@||u4r.net^
 @@||u4y.ch^
 @@||u6e.de^
@@ -10739,6 +10740,7 @@
 @@||wp.me^
 @@||wp1.co^
 @@||wpbeg.in^
+@@||wplinks.online^
 @@||wpshort.com^
 @@||wptrckr.com^
 @@||wq.lt^
@@ -10897,9 +10899,11 @@
 @@||xtr.bz^
 @@||xtre.me^
 @@||xua.me^
+@@||xub.me^
 @@||xuc88.club^
 @@||xuo.us^
 @@||xurl.at^
+@@||xurl.jp^
 @@||xurl.pk^
 @@||xurl302.top^
 @@||xut.io^
@@ -10913,6 +10917,7 @@
 @@||xxxdwz.com^
 @@||xxxdwz.pro^
 @@||xxxl.ink^
+@@||xy.ar^
 @@||xzb.cc^
 @@||y.ahoo.it^
 @@||y.prfd.aero^
@@ -11003,6 +11008,7 @@
 @@||yourls.ch^
 @@||yourls.i2m.solutions^
 @@||yourls.lu^
+@@||yourls.net^
 @@||yourls.newstargeted.com^
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
