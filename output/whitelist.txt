@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-14 13:06:54
-! Rules: 11699
+! Updated: 2026-03-15 03:15:59
+! Rules: 11698
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -3316,7 +3316,6 @@
 @@||g.asia^
 @@||g.co^
 @@||g.live.com^$important
-@@||g.page^
 @@||g00.me^
 @@||g02.biz^
 @@||g22jaya.me^
