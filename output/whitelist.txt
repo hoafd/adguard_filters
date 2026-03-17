@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-16 13:42:04
-! Rules: 11671
+! Updated: 2026-03-17 02:41:44
+! Rules: 11668
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -4293,7 +4293,6 @@
 @@||itlinks.me^
 @@||itly.in^
 @@||itm.im^
-@@||itop.so^
 @@||itp24.com^
 @@||itrk.it^
 @@||its-4-u.com^
@@ -5371,7 +5370,6 @@
 @@||live.com^$important
 @@||livemu.sc^
 @@||livemybio.com^
-@@||liveparle.com^
 @@||livestre.am^
 @@||lixy.me^
 @@||liy.ke^
@@ -8919,7 +8917,6 @@
 @@||t.ionos.de^
 @@||t.iotex.me^
 @@||t.lever-analytics.com^
-@@||t.libren.ms^
 @@||t.lt02.net^
 @@||t.ly^
 @@||t.mmtrkr.com^
