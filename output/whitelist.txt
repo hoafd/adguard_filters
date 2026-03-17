@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-17 02:41:44
-! Rules: 11668
+! Updated: 2026-03-17 13:26:48
+! Rules: 11661
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1754,7 +1754,6 @@
 @@||caro.sl^
 @@||cart.mn^
 @@||cartisbikur.com^
-@@||casa.netsons.org^
 @@||casashort.live^
 @@||cash4share.com^
 @@||cashncut.com^
@@ -5591,7 +5590,6 @@
 @@||m.icares.app^
 @@||m.me^
 @@||m.msi5.com^
-@@||m.myfc.co^
 @@||m.n*.e-nocibe.fr^
 @@||m.presto.app^
 @@||m.smartsignals.io^
@@ -5949,7 +5947,6 @@
 @@||monitor.fraudblocker.com^
 @@||monitor.lunio.ai^
 @@||monly.id^
-@@||monopolygodices.xyz^
 @@||monster.cat^
 @@||monurl.ca^
 @@||moo.im^
@@ -6076,7 +6073,6 @@
 @@||mycortolink.it^
 @@||mycts.app^
 @@||mycts.info^
-@@||mycuttly.com^
 @@||mydealz.digidip.net^
 @@||myecofactory.it^
 @@||myerl.vercel.app^
@@ -6229,7 +6225,6 @@
 @@||network.bazaarvoice.com^
 @@||neural17.cdnwebcloud.com^
 @@||nev.lt^
-@@||nevox.app^
 @@||neweden.live^
 @@||newhotlink.com^
 @@||newpowerlink.com^
@@ -6276,7 +6271,6 @@
 @@||nimje.org^
 @@||nin.link^
 @@||nine.plugins.plexapp.com^$important
-@@||nineurl.com^
 @@||ninjapath.vercel.app^
 @@||ninjaurl.me^
 @@||nipnit.com^
@@ -6968,7 +6962,6 @@
 @@||propub.li^
 @@||pros.is^
 @@||pros.si^
-@@||prosescepatkilat.link^
 @@||proshare.ir^
 @@||protogen.live^
 @@||provte.cloud^
