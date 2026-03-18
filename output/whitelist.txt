@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-18 02:48:38
-! Rules: 11650
+! Updated: 2026-03-18 13:28:00
+! Rules: 11640
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -4683,6 +4683,7 @@
 @@||kutt.mariodian.com^
 @@||kutt.schantli.cloud^
 @@||kutt.this.team^
+@@||kutt.to^
 @@||kutt.ural-agro.com^
 @@||kuttify.com^
 @@||kuttix.juniorisep.com^
@@ -4993,7 +4994,6 @@
 @@||link.wizzair.com^
 @@||link.yammbo.com^
 @@||link.zhdk.ch^
-@@||link.zodia.studio^
 @@||link1.li^
 @@||link1s.com^
 @@||link1s.net^
@@ -9200,7 +9200,6 @@
 @@||tiny.sm^
 @@||tiny.tw^
 @@||tiny.us^
-@@||tiny.zodia.studio^
 @@||tiny123.com^
 @@||tiny1z.com^
 @@||tiny4t.com^
@@ -10015,7 +10014,6 @@
 @@||urlb.io^
 @@||urlb.link^
 @@||urlbae.com^
-@@||urlbind.com^
 @@||urlbit.co^
 @@||urlbit.io^
 @@||urlbit.online^
@@ -10092,7 +10090,6 @@
 @@||urllimit.com^
 @@||urllink.link^
 @@||urllink.me^
-@@||urllinker.com^
 @@||urllix.com^
 @@||urlllll.com^
 @@||urllover.com^
@@ -10111,7 +10108,6 @@
 @@||urlq.com^
 @@||urlr.me^
 @@||urlra.com^
-@@||urlro.com^
 @@||urlroot.com^
 @@||urlroxx.com^
 @@||urlrw.com^
@@ -10380,7 +10376,6 @@
 @@||vip123.biz^
 @@||vipcair.click^
 @@||vipjus.click^
-@@||viplink.us^
 @@||vipp.link^
 @@||viprupiah138.net^
 @@||vipshort.in^
@@ -10392,7 +10387,6 @@
 @@||viraln.co^
 @@||viralpep.com^
 @@||virl.com^
-@@||virl.me^
 @@||visionia.site^
 @@||visit.my^
 @@||visit.st^
@@ -10439,7 +10433,6 @@
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
 @@||vod-l3c-eu-north-2.media.dssott.com^$important
 @@||vodafone.uk^
-@@||vof.me^
 @@||vog.me^
 @@||vogue.cm^
 @@||voicetu.be^
@@ -10624,7 +10617,6 @@
 @@||wibu.me^
 @@||wideo.fr^
 @@||widget-cdn.rpxnow.com^$important
-@@||wifeview.com^
 @@||wig.ht^
 @@||wigb.us^
 @@||wikipedia.org^$important
@@ -11021,7 +11013,6 @@
 @@||zapurl.me^
 @@||zapurl.net^
 @@||zapurls.com^
-@@||zaq.be^
 @@||zarnecka.com^
 @@||zass.to^
 @@||zaya.io^
@@ -11163,7 +11154,6 @@
 @@||zz.sd^
 @@||zz3.co^
 @@||zzb.bz^
-@@||zzlinks.com^
 @@||zzu.info^
 [Adblock Plus]
 adfox.ru
