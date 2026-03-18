@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-17 13:26:48
-! Rules: 11661
+! Updated: 2026-03-18 02:48:38
+! Rules: 11650
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -7461,7 +7461,6 @@
 @@||rmsc.io^
 @@||rmuti.me^
 @@||rmv.io^
-@@||rndrlink.com^
 @@||rngts.com^
 @@||rnm.me^
 @@||ro.blox.com^
@@ -7877,7 +7876,6 @@
 @@||shavel.ink^
 @@||shavelinks.com^
 @@||shct.io^
-@@||shelbyknox.com^
 @@||shentharindu.com^
 @@||shero.link^
 @@||shervas.com^
@@ -8169,7 +8167,6 @@
 @@||shortrl.com^
 @@||shortrr.xyz^
 @@||shorts.codes^
-@@||shortsfly.me^
 @@||shortshare.app^
 @@||shortslinks.com^
 @@||shortslinks.site^
@@ -8211,7 +8208,6 @@
 @@||shorturlmagic.link^
 @@||shorturls.co.uk^
 @@||shorturls.me^
-@@||shorturls.one^
 @@||shorturls.pro^
 @@||shorturlss.com^
 @@||shorturlx.com^
@@ -8558,11 +8554,9 @@
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||sni.ps^
 @@||snip.im^
-@@||snip.link^
 @@||snip.ly^
 @@||snip.ng^
 @@||snipify.net^
-@@||snipio.co^
 @@||snipitx.com^
 @@||snipix.tech^
 @@||sniplify.me^
@@ -9000,7 +8994,6 @@
 @@||tawon4d.pro^
 @@||taxace.net^
 @@||taxspeaker.tax^
-@@||taythi.life^
 @@||tb.cn.hn^
 @@||tbb.tw^
 @@||tbfurl.com^
@@ -9224,7 +9217,6 @@
 @@||tinyfy.me^
 @@||tinygo.co^
 @@||tinygo.net^
-@@||tinygo.pro^
 @@||tinyi.sh^
 @@||tinyl.co^
 @@||tinyl.ink^
@@ -9346,7 +9338,6 @@
 @@||tnyurl.one^
 @@||tnyurl.pro^
 @@||tnyweb.com^
-@@||tnyz.at^
 @@||to-text.net^
 @@||to.lk^
 @@||to.ly^
@@ -9384,7 +9375,6 @@
 @@||toolsfox.com^
 @@||toolspivot.com^
 @@||toolssagar.com^
-@@||topdogeducation.com^
 @@||topkale.me^
 @@||toplistt.com^
 @@||topsitus.com^
@@ -9415,7 +9405,6 @@
 @@||tpm.ac^
 @@||tpmr.com^
 @@||tprk.us^
-@@||tpshortlinks.site^
 @@||tpt.one^
 @@||tr.apsis.one^
 @@||tr.ee^
@@ -9551,7 +9540,6 @@
 @@||trib.in^
 @@||tribn.ir^
 @@||trick.ly^
-@@||trieuview.life^
 @@||triggerbee.com^
 @@||trim-me.de^
 @@||trim-me.io^
@@ -11608,6 +11596,7 @@ zdbb.net
 ||sstats.adobe.com^
 ||sstats.bitdefender.com^
 ||static.addtoany.com^
+||static2.manualslib.com^
 ||stats.lt^
 ||streamplay.to^
 ||stripe.network^
