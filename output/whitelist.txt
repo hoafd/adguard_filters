@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-18 13:28:00
-! Rules: 11640
+! Updated: 2026-03-19 02:49:46
+! Rules: 11642
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -3242,6 +3242,7 @@
 @@||free-url.vercel.app^
 @@||freebiolink.com^
 @@||freedirector.io^
+@@||freegamesjiliwin63.online^
 @@||freeshorten.com^
 @@||freeshorturl.com^
 @@||freeshorturls.com^
@@ -6671,6 +6672,7 @@
 @@||parky.tv^
 @@||partnerlinks.io^
 @@||partners*.stacksocial.com^
+@@||partners.webmasterplan.com^
 @@||pasir.me^
 @@||passion-radio.net^
 @@||past.is^
