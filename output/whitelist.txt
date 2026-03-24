@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-24 02:42:00
-! Rules: 11607
+! Updated: 2026-03-24 13:27:16
+! Rules: 11611
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -769,6 +769,7 @@
 @@||alias.live^
 @@||aliasurlshortener.com^
 @@||alibuy.live^
+@@||alice-w.com^
 @@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
@@ -3712,6 +3713,7 @@
 @@||gourl.me^
 @@||gourl.onl^
 @@||gourl.us^
+@@||gov.tw^
 @@||gov.vn^$important
 @@||govhub.me^
 @@||gowat.ch^
@@ -6113,6 +6115,7 @@
 @@||myt.ms^
 @@||mytat.me^
 @@||mytbg.life^
+@@||mytci.net^
 @@||mytd.cc^
 @@||mytools.graphic.com.gh^
 @@||mytrib.com^
@@ -10714,6 +10717,7 @@
 @@||x.co^
 @@||x.gd^
 @@||x.nu^
+@@||x.se^
 @@||x10.mx^
 @@||x11.pw^
 @@||x1a.eu^
