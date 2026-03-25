@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-24 13:27:16
-! Rules: 11611
+! Updated: 2026-03-25 02:47:20
+! Rules: 11612
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1835,6 +1835,7 @@
 @@||cfre.in^
 @@||cga.marketing^
 @@||cga.social^
+@@||cgatx.com^
 @@||cgrp.io^
 @@||cgvoice.live^
 @@||ch-get.info^
