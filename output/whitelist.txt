@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-30 13:49:18
-! Rules: 11617
+! Updated: 2026-03-31 02:55:26
+! Rules: 11618
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1554,6 +1554,7 @@
 @@||boudoirads.cc^
 @@||boybu.com^
 @@||bp.cool^
+@@||bpjames.com^
 @@||bpk.id^
 @@||bpkrlinks.com^
 @@||bpl.kr^
