@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-03-31 02:55:26
-! Rules: 11618
+! Updated: 2026-03-31 13:48:43
+! Rules: 11619
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -4624,6 +4624,7 @@
 @@||krazy.la^
 @@||krazylinks.com^
 @@||krdit.be^
+@@||krdtss.com^
 @@||krete.info^
 @@||kristal777.us^
 @@||kro.kr^
