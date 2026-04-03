@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-04-02 13:42:18
-! Rules: 11606
+! Updated: 2026-04-03 02:54:12
+! Rules: 11603
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1498,7 +1498,6 @@
 @@||bo.st^
 @@||boa.la^
 @@||board.jdownloader.org^
-@@||boclinkvip.com^
 @@||boclinkvn.net^
 @@||bofh.us^
 @@||bofo.ly^
@@ -1568,7 +1567,6 @@
 @@||brevix-url-shortener.vercel.app^
 @@||brevly.co^
 @@||brg.mobi^
-@@||brianrecommends.net^
 @@||bridg.ee^
 @@||bridge.dev^
 @@||brief.ly^
@@ -2056,7 +2054,6 @@
 @@||clipitx.com^
 @@||cliplink.co^
 @@||cliplinkly.com^
-@@||clipme.me^
 @@||clipmy.link^
 @@||clipperlink.com^
 @@||clipurl.com^
