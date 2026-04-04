@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-04-04 02:44:41
-! Rules: 11775
+! Updated: 2026-04-04 13:10:34
+! Rules: 11772
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -51,7 +51,6 @@
 @@||072.sh^
 @@||078.me^
 @@||08url.com^
-@@||0987.win^
 @@||0a.sk^
 @@||0a0.uk^
 @@||0bs.de^
@@ -60,7 +59,6 @@
 @@||0ln.io^
 @@||0o.lv^
 @@||0oj.cn^
-@@||0penclick.org^
 @@||0rl.cc^
 @@||0rz.tw^
 @@||0s0.com^
@@ -1667,7 +1665,6 @@
 @@||bumpnt.com^
 @@||bung.ie^
 @@||buomto.life^
-@@||buoydeparturediscontent.com^
 @@||burl.me^
 @@||burnurl.com^
 @@||buu.lat^
@@ -3816,6 +3813,7 @@
 @@||gtrv.info^
 @@||guce.advertising.com^
 @@||gudang.me^
+@@||guelist.com^
 @@||guenstiger.de^
 @@||gurl.pro^
 @@||gurl.to^
@@ -5162,7 +5160,6 @@
 @@||linkk.ing^
 @@||linkkece.com^
 @@||linkkita.me^
-@@||linkkkit.cc^
 @@||linkkl.com^
 @@||linkko.fikydex.com^
 @@||linkku-bp.com^
