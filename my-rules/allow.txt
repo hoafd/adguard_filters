@@ -1,0 +1,106 @@
+! --- [ WHITELIST TỔNG HỢP: CHO PHÉP & CÂN NHẮC ] ---
+! Mạng xã hội & Liên lạc
+@@||facebook.com^$important
+@@||m.facebook.com^$important
+@@||graph.facebook.com^$important
+@@||zalo.me^$important
+@@||zaloapp.com^$important
+@@||zdn.vn^$important
+@@||dit.whatsapp.net^$important
+
+! Hệ thống Google & YouTube
+@@||safebrowsing.google.com^$important
+@@||accounts.google.com^$important
+@@||google.com^$important
+@@||youtube.com^$important
+@@||youtu.be^$important
+@@||googlevideo.com^$important
+@@||ytimg.com^$important
+@@||ggpht.com^$important
+@@||s.youtube.com^$important
+@@||youtube.googleapis.com^$important
+@@||youtubei.googleapis.com^$important
+
+! Hạ tầng Android & Kết nối
+@@||connectivitycheck.gstatic.com^$important
+@@||android.apis.google.com^$important
+@@||clients3.google.com^$important
+@@||mtalk.google.com^$important
+@@||ifconfig.me^$important
+@@||beacons.gcp.gvt2.com^$important
+@@||beacons.gvt2.com^$important
+@@||beacons2.gvt2.com^$important
+@@||beacons3.gvt2.com^$important
+@@||beacons4.gvt2.com^$important
+@@||beacons5.gvt2.com^$important
+@@||beacons5.gvt3.com^$important
+@@||e2c76.gcp.gvt2.com^$important
+
+! Ngân hàng & Dịch vụ công VN
+@@||gov.vn^$important
+@@||chinhphu.vn^$important
+@@||napas.com.vn^$important
+@@||vnpay.vn^$important
+@@||momo.vn^$important
+@@||zalopay.vn^$important
+@@||qos-talk.123c.vn^$important
+
+! Mua sắm (Fix lỗi giao diện/ảnh)
+@@||shopee.vn^$important
+@@||shopee.com^$important
+@@||shopeemobile.com^$important
+@@||shope.ee^$important
+@@||vn.shp.ee^$important
+@@||lazada.vn^$important
+@@||tiki.vn^$important
+
+! Microsoft & Samsung (Cloud/Login/Telemetry)
+@@||login.microsoftonline.com^$important
+@@||login.live.com^$important
+@@||windowsupdate.com^$important
+@@||account.samsung.com^$important
+@@||samsungcloud.com^$important
+@@||smartthings.com^$important
+@@||sdk.pushmessage.samsung.com^$important
+@@||orsdls.di.runestone.samsung.com^$important
+@@||api.runestone.samsung.com^$important
+@@||diagmon-serviceapi.samsungdm.com^$important
+@@||poll.gras.samsungdm.com^$important
+@@||msedge.net^$important
+@@||fp.msedge.net^$important
+@@||inputsuggestions.msdxcdn.microsoft.com^$important
+@@||t-ring-fallback-s2.msedge.net^$important
+@@||t-ring-fallback.msedge.net^$important
+@@||dual-s-ring.msedge.net^$important
+@@||41c218ce1218b91d2f2b824d717f4e4f.azr.footprintdns.com^$important
+@@||fc2b22074618b635c179c739637a0f54.azr.footprintdns.com^$important
+
+! Giải trí & Trình duyệt
+@@||fptplay.vn^$important
+@@||vietteltelecom.vn^$important
+@@||static.tv360.vn^$important
+@@||coccoc.com^$important
+@@||hoathinh3d.bz^$important
+@@||phimmoichill.now^$important
+
+! Hệ thống cá nhân & Công cụ mạng
+@@||noip.com^$important
+@@||hoafd.ddns.net^$important
+@@||tailscale.com^$important
+@@||ts.net^$important
+
+! Games & Tracking Log (Hoyoverse, Riot, TikTok)
+@@||minor-api-os.hoyoverse.com^$important
+@@||sdk-os-static.hoyoverse.com^$important
+@@||abtest-api-data-sg.hoyoverse.com^$important
+@@||sg-public-data-api.hoyoverse.com^$important
+@@||apm-log-upload-os.hoyoverse.com^$important
+@@||ys-log-upload-os.hoyoverse.com^$important
+@@||sdk-log-upload-os.hoyoverse.com^$important
+@@||api.mosspf.net^$important
+@@||telemetry.sgp.pvp.net^$important
+@@||api16-access-ttp.tiktokpangle-b.us^$important
+@@||gslb.shalltry.com^$important
+@@||liteapi.ekatox.com^$important
+@@||api.hisavana.com^$important
+@@||dev.visualwebsiteoptimizer.com^$important

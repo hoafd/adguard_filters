@@ -1,0 +1,56 @@
+name: Update Filter List
+
+on:
+  schedule:
+    # Chạy tự động mỗi 12 tiếng một lần (vào lúc 0:00 và 12:00 UTC)
+    - cron: '0 */12 * * *'
+    
+  workflow_dispatch:      # Cho phép chạy thủ công bằng nút bấm trên GitHub
+  
+  push:
+    paths:                # Tự chạy khi có thay đổi ở các file cấu hình hoặc code
+      - 'config/**'
+      - 'my-rules/**'
+      - 'generator.py'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      # Bước 1: Chạy script tạo bộ lọc
+      - name: Run Generator Script
+        run: |
+          python generator.py
+
+      # Bước 2: Commit và đẩy dữ liệu lên Repo
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        if: success() 
+        with:
+          commit_message: "Auto-update filter list [skip ci]"
+          branch: main
+          # CHỈ ĐỊNH ĐÚNG: Chỉ theo dõi thư mục output vì backup đã bị xóa
+          file_pattern: 'output/*.txt'
+          # Tùy chọn: Thêm các tùy chọn để tránh lỗi nếu không có thay đổi
+          commit_options: '--no-verify'
+          repository: .
+          
