@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-08-19 01:39:13
-! Rules: 11706
+! Updated: 2026-08-19 12:57:04
+! Rules: 11713
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -10673,6 +10673,7 @@
 @@||wildc.at^
 @@||wildflowerlinks.org^
 @@||willgo.link^
+@@||wimsedas.xyz^
 @@||win.gs^
 @@||win10.ipv6.microsoft.com^$important
 @@||winc.shop^
@@ -10790,6 +10791,7 @@
 @@||wy.si^
 @@||wyyw.de^
 @@||wz.my^
+@@||x-d.me^
 @@||x-shrtn.com^
 @@||x.bestcheck.de^
 @@||x.bndspn.com^
@@ -10841,6 +10843,7 @@
 @@||xib.me^
 @@||xify.co^
 @@||xinghua.plus^
+@@||xip.li^
 @@||xiqi.us^
 @@||xkms.xboxlive.com^$important
 @@||xl8.eu^
@@ -10897,6 +10900,7 @@
 @@||xth.me^
 @@||xtr.bz^
 @@||xtre.me^
+@@||xua.me^
 @@||xub.me^
 @@||xuo.us^
 @@||xurl.app^
@@ -11004,6 +11008,7 @@
 @@||youris.pro^
 @@||yourl.ir^
 @@||yourl.jp^
+@@||yourls.best^
 @@||yourls.ch^
 @@||yourls.i2m.solutions^
 @@||yourls.info^
@@ -11077,6 +11082,7 @@
 @@||zapurls.com^
 @@||zaq.be^
 @@||zarnecka.com^
+@@||zat.ink^
 @@||zaya.io^
 @@||zbitly.com^
 @@||zc.vg^
@@ -11157,6 +11163,7 @@
 @@||zom.ink^
 @@||zom.io^
 @@||zonearcad.xyz^
+@@||zoneurl.net^
 @@||zoodl.com^
 @@||zop.gr^
 @@||zopen.to^
