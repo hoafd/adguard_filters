@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-08-29 06:41:33
-! Rules: 11716
+! Updated: 2026-08-29 16:33:41
+! Rules: 11717
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -467,6 +467,7 @@
 @@||a.gg^
 @@||a.manager-magazin.de^$important
 @@||a.nf^
+@@||a.partner-versicherung.de^
 @@||a.pg2.ir^
 @@||a.qar.sa^
 @@||a.slashdotmedia.com^
