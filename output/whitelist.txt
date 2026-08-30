@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-08-30 04:54:37
-! Rules: 11717
+! Updated: 2026-08-30 16:29:11
+! Rules: 11719
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -2012,6 +2012,7 @@
 @@||click.email.newegg.com^
 @@||click.email.sonos.com^
 @@||click.emcom.bankofamerica.com^
+@@||click.esky.com^
 @@||click.fidelityinvestments.com^
 @@||click.figma.com^
 @@||click.holidayinnclubemail.com^
@@ -9523,6 +9524,7 @@
 @@||tracking.bol.com^
 @@||tracking.cashkaro.com^
 @@||tracking.delupe.net^
+@@||tracking.emaillabs.net.pl^
 @@||tracking.ftmo.com^
 @@||tracking.inflection.io^
 @@||tracking.mailerswift.app^
