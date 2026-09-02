@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-02 03:59:31
-! Rules: 11670
+! Updated: 2026-09-02 16:22:34
+! Rules: 11669
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -420,7 +420,6 @@
 @@||888b.pw^
 @@||888df.com^
 @@||88nb.cc^
-@@||88win.link^
 @@||89bet69.cc^
 @@||89bet69.net^
 @@||89q.sk^
@@ -570,7 +569,6 @@
 @@||accu.li^
 @@||accu.ps^
 @@||accutics.com^
-@@||acekrem.com^
 @@||acemlnb.com^
 @@||acer.co^
 @@||acer.link^
@@ -583,7 +581,6 @@
 @@||aclk.co^
 @@||aclk.io^
 @@||aclk.org^
-@@||acort.link^
 @@||acort.me^
 @@||acorta.click^
 @@||acortar.link^
@@ -668,7 +665,6 @@
 @@||adsplusmetrics.com^
 @@||adsplustracker.com^
 @@||adsv.svc.litv.tv^
-@@||aduke.bio^
 @@||adurly.cc^
 @@||adv.li^
 @@||adv.pe^
@@ -725,7 +721,6 @@
 @@||aim2.cc^
 @@||aimetath.com^
 @@||aimqr.com^
-@@||aintok.com^
 @@||ainurl.pro^
 @@||aiolink.my.id^
 @@||aiproxies.com^
@@ -787,7 +782,6 @@
 @@||aliasurlshortener.com^
 @@||alibuy.live^
 @@||alice-w.com^
-@@||alicedeals.com^
 @@||alie.kr^
 @@||alien-traffic.com^
 @@||alientraffic.com^
@@ -2223,6 +2217,7 @@
 @@||coop.uk^
 @@||coopurl.com^
 @@||cop.vn^
+@@||core-ui.dev^
 @@||core.airforce^
 @@||corecodebiolink.com.br^
 @@||coreprob.coreprobation.org^
@@ -4859,6 +4854,7 @@
 @@||li2li.ir^
 @@||lia.nz^
 @@||lialink.net^
+@@||lib-net.dev^
 @@||lib.ac^
 @@||lib.cx^
 @@||libertify.net^
@@ -8724,6 +8720,7 @@
 @@||starturl.com^
 @@||starz.tv^
 @@||static*.cleverpush.com^
+@@||static-lib.dev^
 @@||static.monactive.net^
 @@||static.tv360.vn^$important
 @@||staticiv.com^
@@ -9772,6 +9769,7 @@
 @@||ugp.io^
 @@||ugurly.vercel.app^
 @@||uh.ht^
+@@||ui-wp.dev^
 @@||ui.la^
 @@||ui.skype.com^$important
 @@||ui8.ru^
@@ -10690,6 +10688,7 @@
 @@||wowurl.com^
 @@||woxx.link^
 @@||wozencraft.boats^
+@@||wp-lib.dev^
 @@||wp.com^$important
 @@||wp.me^
 @@||wp1.co^
