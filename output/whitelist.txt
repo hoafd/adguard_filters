@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-03 03:58:49
-! Rules: 11669
+! Updated: 2026-09-03 16:13:38
+! Rules: 11659
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -370,7 +370,9 @@
 @@||669969.xyz^
 @@||669988.xyz^
 @@||66biolinks.com^
+@@||67.ink^
 @@||676.su^
+@@||67url.com^
 @@||69run.fun^
 @@||6b.cz^
 @@||6bit.in^
@@ -911,7 +913,6 @@
 @@||apb2.de^
 @@||apbiosuccess.com^
 @@||apcargocourier.com^
-@@||apelink.info^
 @@||apertibumn.org^
 @@||apexhost.gg^
 @@||api*.cleverpush.com^
@@ -1040,11 +1041,9 @@
 @@||asharq.biz^
 @@||asharq.co^
 @@||ashiap.me^
-@@||asiagacor-77.com^
 @@||asics.tv^
 @@||asin.cc^
 @@||ask.je^
-@@||asmoah.com^
 @@||aspen.li^
 @@||aspireinstallations.live^
 @@||aspnetcdn.com^$important
@@ -1198,13 +1197,11 @@
 @@||bagi.link^
 @@||bagneed.com^
 @@||baid.us^
-@@||baidam.services^
 @@||baileybelladonna.com^
 @@||balls.no^
 @@||bamerus.top^
 @@||bamgrid.com^$important
 @@||banaccroblox.com^
-@@||bankua.xyz^
 @@||bannercho.com^
 @@||banners.livepartners.com^
 @@||banners.netbet.gr^
@@ -1268,7 +1265,6 @@
 @@||beepurl.com^
 @@||beeshort.de^
 @@||beeurls.com^
-@@||beif.us^
 @@||beingtek.com^
 @@||belink.me^
 @@||belink.ph^
@@ -1289,7 +1285,6 @@
 @@||bestbuy.7tiv.net^
 @@||betaloop.io^
 @@||betaxfree.net^
-@@||betbtn.link^
 @@||beteshis.com^
 @@||betfirst.livepartners.com^
 @@||beth.games^
@@ -1520,7 +1515,6 @@
 @@||bnidigital.com^
 @@||bnishipping.com^
 @@||bnrsol.com^
-@@||bnu.au^
 @@||bo.st^
 @@||boa.la^
 @@||board.jdownloader.org^
@@ -1588,7 +1582,6 @@
 @@||brev.ws^
 @@||breve.bio^
 @@||brevelink.com^
-@@||brever.link^
 @@||brevi.space^
 @@||brevix-url-shortener.vercel.app^
 @@||brevix.global^
@@ -1601,7 +1594,6 @@
 @@||briefen.me^
 @@||brightcove.net^$important
 @@||brightestbeginning.me^
-@@||brightscanr.com^
 @@||brightsci.io^
 @@||brilink.me^
 @@||brisktopia.com^
@@ -1756,7 +1748,6 @@
 @@||cardinates.me^
 @@||cardprofile.de^
 @@||cardprofile.link^
-@@||cardstap.com^
 @@||careem.me^
 @@||careercrawlerslmv.com^
 @@||caridomainku.org^
@@ -10285,7 +10276,6 @@
 @@||va.lk^
 @@||vaca.sh^
 @@||vaddev.de^
-@@||vai.bio.br^
 @@||vai.la^
 @@||vai.li^
 @@||vai.onl^
