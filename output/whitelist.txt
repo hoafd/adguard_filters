@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-03 16:13:38
-! Rules: 11659
+! Updated: 2026-09-04 04:00:25
+! Rules: 11650
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1833,10 +1833,8 @@
 @@||ce-ism.org^
 @@||ce0.net^
 @@||cebol.me^
-@@||ceittp.com^
 @@||celfam.us^
 @@||centi.ai^
-@@||centurylinke.com^
 @@||cepat.link^
 @@||cert.mgt.xboxlive.com^$important
 @@||certifyde.app^
@@ -1886,10 +1884,8 @@
 @@||chogoon.com^
 @@||chooze.me^
 @@||chop.ad^
-@@||choply.co^
 @@||chopurl.io^
 @@||chort.me^
-@@||chotourl.me^
 @@||chts.tw^
 @@||chuchik.com^
 @@||chunkylinks.com^
@@ -2059,7 +2055,6 @@
 @@||clicky.me^
 @@||cliczy.com^
 @@||clientconfig.passport.net^$important
-@@||clientlinks.net^
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
@@ -2113,11 +2108,9 @@
 @@||clotplaynews.live^
 @@||cloudfare.icu^
 @@||cloudfront.net^$important
-@@||cloudku.click^
 @@||cloudmail*.netcore.co.in^
 @@||cloudradar.net^
 @@||cloudshrinker.com^
-@@||cloudtechlinks.com^
 @@||clourls.com^
 @@||clpr.tn^
 @@||clps.app^
@@ -7454,7 +7447,6 @@
 @@||robloxgroup.life^
 @@||rockbridge.info^
 @@||rockcastitalia.com^
-@@||rocketlink.com.br^
 @@||rocketlink.io^
 @@||roderurl.info^
 @@||rog.gg^
@@ -7649,7 +7641,6 @@
 @@||sail.to^
 @@||sailthru.com^
 @@||sakari.io^
-@@||salesadvisor.nazriproton.com.my^
 @@||salesquared.io^
 @@||salo.li^
 @@||salone.it^
