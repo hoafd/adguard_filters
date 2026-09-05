@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-05 03:57:37
-! Rules: 11668
+! Updated: 2026-09-05 14:57:09
+! Rules: 11659
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -3033,7 +3033,6 @@
 @@||ezexzo.link^
 @@||ezilinks.com^
 @@||ezlc.net^
-@@||ezlinkad.com^
 @@||ezlinkcloaker.com^
 @@||ezstat.ru^
 @@||ezurl.cc^
@@ -3041,7 +3040,6 @@
 @@||ezwashing.com^
 @@||ezylnk.com^
 @@||ezymanage.net^
-@@||ezyurl.co^
 @@||ezyurl.net^
 @@||f-ast.me^
 @@||f-internal.info^
@@ -3050,7 +3048,6 @@
 @@||f1-prod-production.apigee.net^$important
 @@||f1-prod-production.dn.apigee.net^$important
 @@||f1.tf^
-@@||f1m.in^
 @@||f1mate.com^
 @@||f1mrs.codemasters.com^$important
 @@||f1tv-cdn-cent-east.formula1.com.c.footprint.net^$important
@@ -3083,7 +3080,6 @@
 @@||fansurl.com^
 @@||faras.link^
 @@||farmacrm.com.br^
-@@||fashionparklanka.com^
 @@||fastbio.app^
 @@||fastfilehost.link^
 @@||fasthouse.me^
@@ -3140,11 +3136,9 @@
 @@||fileshortlinks.vip^
 @@||fileuseful.com^
 @@||fillboards.com^
-@@||filmygallery1.my^
 @@||filspay.co^
 @@||filz.fr^
 @@||fincrif.com^
-@@||find-url.co^
 @@||find.at^
 @@||findmini.app^
 @@||findmylink.org^
@@ -3155,7 +3149,6 @@
 @@||firsturl.de^
 @@||firsturl.net^
 @@||fitnur.com^
-@@||fits.marketing^
 @@||fitz.ms^
 @@||fixi.me^
 @@||fiy.no^
@@ -5223,7 +5216,6 @@
 @@||links.clearlabs.com^
 @@||links.datalogics.com^
 @@||links.email.crunchbase.com^
-@@||links.fivedollarsaas.com^
 @@||links.flowahq.com^
 @@||links.geneasens.com^
 @@||links.h4stack.com^
@@ -5280,7 +5272,6 @@
 @@||linkslim.io^
 @@||linksm.tech^
 @@||linksmail.geosolinc.com^
-@@||linksmanager.fivedollarsaas.com^
 @@||linksminify.com^
 @@||linksnapro.com^
 @@||linksnip.co^
