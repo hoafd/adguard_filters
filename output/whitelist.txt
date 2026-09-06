@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-06 04:03:49
-! Rules: 11657
+! Updated: 2026-09-06 15:17:36
+! Rules: 11705
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -484,6 +484,7 @@
 @@||aaa.moda^
 @@||aajhub.in^
 @@||aarp.info^
+@@||aastpd.com^
 @@||aawsat.news^
 @@||aax-eu-retail-direct.amazon-adsystem.com^
 @@||aax-eu-zaz.amazon.co.uk^
@@ -905,6 +906,7 @@
 @@||ao3-news.org^
 @@||aol.it^
 @@||aon.io^
+@@||aondk.com^
 @@||aorracer.com^
 @@||aosconnect.net^
 @@||ap.lc^
@@ -1158,6 +1160,7 @@
 @@||az6.ir^
 @@||azali.fr^
 @@||azc.cc^
+@@||azhdyr.com^
 @@||azipurl.app^
 @@||azipurl.com^
 @@||azl.one^
@@ -1221,6 +1224,7 @@
 @@||bbb.bz^
 @@||bbc.in^
 @@||bbff.me^
+@@||bbuzyh.com^
 @@||bbva.info^
 @@||bc.ax^
 @@||bc.tc^
@@ -1234,6 +1238,7 @@
 @@||bcns.ai^
 @@||bcove.video^
 @@||bcp.crwdcntrl.net^
+@@||bcqck.com^
 @@||bcsite.io^
 @@||bd-fw.com^
 @@||bdash-tracking.com^
@@ -1506,6 +1511,7 @@
 @@||blynkn.com^
 @@||blyto.com^
 @@||bmai.cc^
+@@||bmfbqn.com^
 @@||bmr.li^
 @@||bmtrck.com^
 @@||bn8.us^
@@ -1516,6 +1522,7 @@
 @@||bnetwhk.com^
 @@||bnidigital.com^
 @@||bnishipping.com^
+@@||bnodr.com^
 @@||bnrsol.com^
 @@||bo.st^
 @@||boa.la^
@@ -2396,6 +2403,7 @@
 @@||cutyurl.com^
 @@||cvcpl.us^
 @@||cvent.me^
+@@||cvgcir.com^
 @@||cvitko.com^
 @@||cvs.co^
 @@||cwg.li^
@@ -2480,6 +2488,7 @@
 @@||dbricks.co^
 @@||dcbspage.org^
 @@||dcc.ng^
+@@||dchaln.com^
 @@||dcps.co^
 @@||dcri.io^
 @@||dcshru.ru^
@@ -2521,6 +2530,7 @@
 @@||dems.me^
 @@||dentalservices.biz^
 @@||depedzn.net^
+@@||deqdp.com^
 @@||derpy.me^
 @@||designcommerce.agency^
 @@||designrigs.com^
@@ -2838,6 +2848,7 @@
 @@||ed.tc^
 @@||edch.me^
 @@||edfiz.com^
+@@||edfplo.com^
 @@||edge*.customer.io^
 @@||edge.api.brightcove.com^$important
 @@||edgehosting.ca^
@@ -3012,15 +3023,18 @@
 @@||ewardme.co^
 @@||ewed.us^
 @@||ewp.io^
+@@||ewqeis.com^
 @@||ex-foary.com^
 @@||exchangle.co^
 @@||exe.io^
+@@||exghzp.com^
 @@||exi.bio^
 @@||exi.link^
 @@||exit.si^
 @@||exitl.ag^
 @@||expl.scot^
 @@||exploreosv.com^
+@@||exvfal.com^
 @@||exx.us^
 @@||eyq.me^
 @@||eys.li^
@@ -3110,6 +3124,7 @@
 @@||fee.vn^
 @@||feji.io^
 @@||fenomen.live^
+@@||feskaq.com^
 @@||fessior.com^
 @@||fetnet.tw^
 @@||fevo.me^
@@ -3119,6 +3134,7 @@
 @@||fff.wf^
 @@||fffutu.re^
 @@||ffm.to^
+@@||ffryf.com^
 @@||ffxiv.link^
 @@||fgurl.net^
 @@||fhurl.com^
@@ -3296,6 +3312,7 @@
 @@||fyn.link^
 @@||fyndr.info^
 @@||fys.io^
+@@||fytwyq.com^
 @@||g-linkly.com^
 @@||g-url.cn^
 @@||g-web.in^
@@ -3340,6 +3357,7 @@
 @@||garyvee.com^
 @@||gat.to^
 @@||gate-ag.first-id.fr^
+@@||gatoxn.com^
 @@||gatustox.net^
 @@||gaw.kr^
 @@||gaysi.live^
@@ -3355,6 +3373,7 @@
 @@||gdmf.apple.com.akadns.net^$important
 @@||gdurl.com^
 @@||ge.tt^
+@@||gedft.com^
 @@||geefi.net^
 @@||gef.me^
 @@||geg.li^
@@ -3738,7 +3757,6 @@
 @@||gowat.ch^
 @@||gowedia.link^
 @@||gowes.in^
-@@||goworldwide.co^
 @@||gozepher.com^
 @@||gpaylink.com^
 @@||gph.to^
@@ -3761,7 +3779,6 @@
 @@||grb.to^
 @@||grc.sc^
 @@||grdt.ai^
-@@||greenarea.org^
 @@||grem.io^
 @@||gresham.life^
 @@||grey-sphere-536600.framer.app^
@@ -3813,6 +3830,7 @@
 @@||ha4l.com^
 @@||haa.su^
 @@||hab.cx^
+@@||hadshq.com^
 @@||hadsucma.com^
 @@||hala.li^
 @@||halloit.eu^
@@ -3902,8 +3920,6 @@
 @@||himanshoe.com^
 @@||hip.ybs.ch^
 @@||hiroqr.com^
-@@||hirummy.best^
-@@||hirummy.life^
 @@||hisc.app^
 @@||histori.ca^
 @@||hit.kg^
@@ -3993,11 +4009,11 @@
 @@||hsdt.co^
 @@||hsh.sh^
 @@||hsrw.info^
-@@||htawp.info^
 @@||htgb.co^
 @@||htgi.ru^
 @@||htl.li^
 @@||htn.to^
+@@||htrhcl.com^
 @@||hts.io^
 @@||httpreferer.net^
 @@||https.re^
@@ -4056,7 +4072,6 @@
 @@||i99.cz^
 @@||iadsdk.apple.com.akadns.net^$important
 @@||iam.builders^
-@@||iamsrikrung.com^
 @@||iandavid.net^
 @@||iapdw.com^
 @@||iarly.com^
@@ -4133,6 +4148,7 @@
 @@||ikhti.ar^
 @@||ikwer.com^
 @@||iky.fr^
+@@||ikztf.com^
 @@||ilang.in^
 @@||ild.info^
 @@||ilink-to.net^
@@ -4411,8 +4427,10 @@
 @@||jitupro.org^
 @@||jjlco.net^
 @@||jkf.lv^
+@@||jknwn.org^
 @@||jks.bio^
 @@||jktc.pro^
+@@||jldqx.com^
 @@||jm-88.cc^
 @@||jmal.top^
 @@||jmeet.io^
@@ -4494,6 +4512,7 @@
 @@||kabuzzle.com^
 @@||kagca.link^
 @@||kagk.top^
+@@||kagson.com^
 @@||kaileevllocmki.space^
 @@||kaitect.com^
 @@||kamo.es^
@@ -4516,6 +4535,7 @@
 @@||kbank.co^
 @@||kbit.co^
 @@||kbitly.com^
+@@||kbqxmo.com^
 @@||kccim.ir^
 @@||kck.st^
 @@||kdo.link^
@@ -4953,7 +4973,6 @@
 @@||link.hexlet.io^
 @@||link.hritbot.com^
 @@||link.hxfb.org.au^
-@@||link.id.vn^
 @@||link.inexxus.com.br^
 @@||link.infini.fr^
 @@||link.intract.io^
@@ -5548,6 +5567,7 @@
 @@||luang.in^
 @@||ludia.gg^
 @@||ludigi.co^
+@@||ludzdu.com^
 @@||luis.im^
 @@||lukeo.link^
 @@||lukes.cloud^
@@ -5961,6 +5981,8 @@
 @@||mpfi.com.ph^
 @@||mpit.io^
 @@||mpl.pm^
+@@||mpttd.com^
+@@||mpvrbi.com^
 @@||mq.gy^
 @@||mq3.net^
 @@||mr-link.app^
@@ -5974,6 +5996,7 @@
 @@||ms0.org^
 @@||msai.news^
 @@||msatt.uk^
+@@||mschli.com^
 @@||mscut.eu^
 @@||msedge.net^$important
 @@||msft.it^
@@ -5981,6 +6004,7 @@
 @@||msfy.in^
 @@||msgcenter.org^
 @@||msgtechzone.com^
+@@||mshgh.com^
 @@||mshorten.com^
 @@||mshp.me^
 @@||msi.gm^
@@ -6570,6 +6594,7 @@
 @@||oua.be^
 @@||oui.li^
 @@||ouiasso.com^
+@@||oukisj.com^
 @@||oundhertobeconsist.org^
 @@||ouo.io^
 @@||ouo.press^
@@ -6868,6 +6893,7 @@
 @@||ppcsecure.com^
 @@||ppcshield.io^
 @@||ppfr.it^
+@@||pplrsh.com^
 @@||pplx.ai^
 @@||ppmc.me^
 @@||ppscourse.com^
@@ -6955,6 +6981,7 @@
 @@||psmi.info^
 @@||psys.uk^
 @@||ptab.it^
+@@||ptcko.com^
 @@||ptix.co^
 @@||ptm.id^
 @@||ptm.ro^
@@ -7041,6 +7068,7 @@
 @@||qlur.top^
 @@||qlynk.me^
 @@||qnap.to^
+@@||qnvpne.com^
 @@||qo.dk^
 @@||qoo.by^
 @@||qoo.gl^
@@ -7247,6 +7275,7 @@
 @@||rbx-hyperlink.vercel.app^
 @@||rbx-url.com^
 @@||rbxurl.pro^
+@@||rcfsu.com^
 @@||rch.lt^
 @@||rcknr.io^
 @@||rckstr.bz^
@@ -7440,6 +7469,7 @@
 @@||rls.my^
 @@||rlu.ru^
 @@||rmmlink.com^
+@@||rmocy.com^
 @@||rmsc.io^
 @@||rmuti.me^
 @@||rmv.io^
@@ -7668,6 +7698,7 @@
 @@||sayahna.net^
 @@||sayakale.me^
 @@||sayapbola.cc^
+@@||sayfn.com^
 @@||sayhi.bio^
 @@||sazi.to^
 @@||sbily.ncontiero.com^
@@ -7933,7 +7964,6 @@
 @@||short.com.vn^
 @@||short.do^
 @@||short.gy^
-@@||short.happenn.com^
 @@||short.ie^
 @@||short.innews.gr^
 @@||short.io^
@@ -9744,17 +9774,20 @@
 @@||ucla.in^
 @@||udight.com^
 @@||ue.flipboard.com^
+@@||uefiqz.com^
 @@||uepx.com^
 @@||ufai.app^
 @@||ufcqc.link^
 @@||ufflink.com^
 @@||ufg.to^
 @@||ufjqt.com^
+@@||ufsps.com^
 @@||ug.cz^
 @@||ugm.id^
 @@||ugp.io^
 @@||ugurly.vercel.app^
 @@||uh.ht^
+@@||uhnps.biz^
 @@||ui-wp.dev^
 @@||ui.la^
 @@||ui.skype.com^$important
@@ -9783,6 +9816,7 @@
 @@||uml.mx^
 @@||umlib.us^
 @@||umper.co^
+@@||umswy.com^
 @@||umuly.com^
 @@||unand.net^
 @@||unapologeticzionist.org^
@@ -9835,6 +9869,7 @@
 @@||upyun.online^
 @@||upzat.com^
 @@||upziq.com^
+@@||uqokvh.com^
 @@||ur-l.ru^
 @@||ur.link^
 @@||ur0.link^
@@ -9851,6 +9886,7 @@
 @@||uri.to^
 @@||uriok.com^
 @@||urjasi.com^
+@@||urkbfb.com^
 @@||url-api.babayev.us^
 @@||url-l.com^
 @@||url-qr.tk^
@@ -9906,7 +9942,6 @@
 @@||url.hilberg.eu^
 @@||url.hle.com.tw^
 @@||url.icagency.it^
-@@||url.id.vn^
 @@||url.ie^
 @@||url.ignisfatuus.org^
 @@||url.is4k.com^
@@ -10029,6 +10064,7 @@
 @@||urlflea.com^
 @@||urlforyou.com^
 @@||urlfy.pro^
+@@||urlgc.com^
 @@||urlgeni.us^
 @@||urlgit.com^
 @@||urlgle.com^
@@ -10251,6 +10287,7 @@
 @@||uwuw.io^
 @@||ux5.de^
 @@||uxild.com^
+@@||uxkjp.org^
 @@||uxo.link^
 @@||uzip.ir^
 @@||uzurl.com^
@@ -10441,6 +10478,7 @@
 @@||vpnhoki.com^
 @@||vprozone.in^
 @@||vqc.vn^
+@@||vqijir.com^
 @@||vqr.vc^
 @@||vretive.com^
 @@||vrnda.us^
@@ -10787,6 +10825,7 @@
 @@||xg4ken.com^
 @@||xgam.es^
 @@||xgd.in^
+@@||xgwqf.com^
 @@||xi.ht^
 @@||xib.me^
 @@||xify.co^
@@ -10797,8 +10836,10 @@
 @@||xl8.eu^
 @@||xlblink.com^
 @@||xlcsk.store^
+@@||xlcwg.biz^
 @@||xlnk.eu^
 @@||xmeets-ubabe.co.uk^
+@@||xmfjny.com^
 @@||xmlr.link^
 @@||xn--0ca.co^
 @@||xn--57h.ws^
@@ -11000,11 +11041,15 @@
 @@||yun.ir^
 @@||yurl.bio^
 @@||yusite.my.id^
+@@||yvjycr.com^
 @@||yweb.com^
+@@||ywupiz.com^
 @@||yww.uy^
 @@||yx.si^
 @@||yx195.cc^
+@@||yxayef.com^
 @@||yxe3d.paulchavady.com^
+@@||yypoe.org^
 @@||yyv.co^
 @@||z-url.com^
 @@||z1.tl^
@@ -11054,6 +11099,9 @@
 @@||zeurl.net^
 @@||zeusurl.com^
 @@||zeusurl.net^
+@@||zewjb.com^
+@@||zfizfi.com^
+@@||zfugf.com^
 @@||zgco.de^
 @@||zhcen.cc^
 @@||zhergrush.com^
