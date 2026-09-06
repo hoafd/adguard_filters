@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-05 14:57:09
-! Rules: 11659
+! Updated: 2026-09-06 04:03:49
+! Rules: 11657
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -3289,7 +3289,6 @@
 @@||fwds.to^
 @@||fwk.ai^
 @@||fwme.eu^
-@@||fwr.to^
 @@||fxczav.com^
 @@||fxn.ws^
 @@||fy9.in^
@@ -3409,7 +3408,6 @@
 @@||getlickd.com^
 @@||getlink.at^
 @@||getlink.space^
-@@||getpcp.net^
 @@||getrecipe.pro^
 @@||getshort.in^
 @@||getshorter.com^
