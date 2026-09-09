@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-09 04:11:48
-! Rules: 11743
+! Updated: 2026-09-09 16:21:38
+! Rules: 11730
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -6726,7 +6726,6 @@
 @@||pclosdebian.org^
 @@||pco.la^
 @@||pcof.fi^
-@@||pcphq.net^
 @@||pcsgt.com^
 @@||pdh.co^
 @@||pdora.co^
@@ -6822,7 +6821,6 @@
 @@||pixel.xin^
 @@||pixelfy.me^
 @@||pixly.me^
-@@||pixoqr.com^
 @@||pixpro.me^
 @@||pj.pizza^
 @@||pjatr.com^
@@ -6890,7 +6888,6 @@
 @@||poprl.com^
 @@||pops.bio^
 @@||por.nz^
-@@||pork.li^
 @@||posh.mk^
 @@||positive.dev^
 @@||post.ly^
@@ -6908,7 +6905,6 @@
 @@||pp24.nl^
 @@||ppa.as^
 @@||ppcent.org^
-@@||ppcnqq.com^
 @@||ppcprotect.com^
 @@||ppcsecure.com^
 @@||ppcshield.io^
@@ -7031,7 +7027,6 @@
 @@||purls.eu^
 @@||pushlimit.org^
 @@||putar.link^
-@@||putar.win^
 @@||puugs.com^
 @@||puulp.it^
 @@||puxt.cc^
@@ -7171,7 +7166,6 @@
 @@||qrmee.ru^
 @@||qrnamic.com^
 @@||qrnesign.com^
-@@||qroozer.com^
 @@||qrouton.jp^
 @@||qrpathway.com^
 @@||qrpol.com^
@@ -7205,12 +7199,10 @@
 @@||queer.li^
 @@||quick.lt^
 @@||quick2.de^
-@@||quickcard-googlereview.me^
 @@||quickcard-smartbusinesscard.me^
 @@||quickchart.io^
 @@||quickcode.digital^
 @@||quicklink-lilac.vercel.app^
-@@||quicklinkpro.io^
 @@||quickqr.be^
 @@||quicurl.com^
 @@||quik.im^
@@ -7253,8 +7245,6 @@
 @@||r0m.me^
 @@||r2c.one^
 @@||r2c.ovh^
-@@||r2links.com^
-@@||r303.de^
 @@||r4u.in^
 @@||r8z.cn^
 @@||rabetak.me^
@@ -7420,7 +7410,6 @@
 @@||relinkr.io^
 @@||reloptix.app^
 @@||rem.ax^
-@@||remakelink.com^
 @@||remundo.app^
 @@||renaud.li^
 @@||renew.ge^
@@ -7513,7 +7502,6 @@
 @@||rool.ink^
 @@||rooutt.io^
 @@||roq.to^
-@@||rosibee.com^
 @@||ross.education^
 @@||rotf.lol^
 @@||rouletteonline.live^
@@ -7561,7 +7549,6 @@
 @@||ruplink.com^
 @@||rusd.in^
 @@||rushgiving.com^
-@@||rushivili.com^
 @@||rutgon.top^
 @@||ruvi.me^
 @@||rvpaste.com^
@@ -7667,7 +7654,6 @@
 @@||s3w.net^
 @@||s4.is^
 @@||s4w.in^
-@@||s7y.us^
 @@||s99.tech^
 @@||sa-link.cc^
 @@||saasmaster.link^
@@ -10601,6 +10587,7 @@
 @@||wbze.de^
 @@||wcdqse.com^
 @@||wceo.com^
+@@||wcf-apps.fun^
 @@||wcha.it^
 @@||wd3.it^
 @@||wdsh.rs^
