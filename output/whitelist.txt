@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-10 04:09:00
-! Rules: 11730
+! Updated: 2026-09-10 16:11:53
+! Rules: 11701
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -7788,7 +7788,6 @@
 @@||searl.co^
 @@||seby.au^
 @@||seby.io^
-@@||secreet.site^
 @@||secretdenergie.com^
 @@||secure-dentist.com^
 @@||secure-hotel-booking.com^
@@ -7809,7 +7808,6 @@
 @@||seeme.at^
 @@||seemless.link^
 @@||seemyshare.com^
-@@||seer.to^
 @@||seez.bio^
 @@||segue.se^
 @@||segueae.link^
@@ -7905,7 +7903,6 @@
 @@||shelbyknox.com^
 @@||shentharindu.com^
 @@||shero.link^
-@@||shervas.com^
 @@||sheve.me^
 @@||shft.hk^
 @@||shikshansagar.org^
@@ -8071,7 +8068,6 @@
 @@||shortenr-app.vercel.app^
 @@||shortenr.de^
 @@||shortenurl.app^
-@@||shortenurl.org^
 @@||shortenurls.eu^
 @@||shortenwe.com^
 @@||shortenworld.com^
@@ -8081,7 +8077,6 @@
 @@||shorter.me^
 @@||shorterall.com^
 @@||shorterflix.com^
-@@||shorterin.com^
 @@||shorterit.com^
 @@||shorterlink.app^
 @@||shorterurl.net^
@@ -8234,7 +8229,6 @@
 @@||shorturls.fyi^
 @@||shorturls.me^
 @@||shorturls.my^
-@@||shorturls.pro^
 @@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
@@ -8285,7 +8279,6 @@
 @@||shrinkme.ink^
 @@||shrinkme.io^
 @@||shrinkme.link^
-@@||shrinkme.org^
 @@||shrinkme.pro^
 @@||shrinkme.site^
 @@||shrinkme.space^
@@ -8305,7 +8298,6 @@
 @@||shrinqly.com^
 @@||shrnk.co.uk^
 @@||shrnk.link^
-@@||shrnkz.com^
 @@||shrt-it.vercel.app^
 @@||shrt-l.ink^
 @@||shrt.co^
@@ -8332,7 +8324,6 @@
 @@||shrtn.ee^
 @@||shrtn.io^
 @@||shrtna.com^
-@@||shrtnly.pro^
 @@||shrtr.cc^
 @@||shrtso.com^
 @@||shrturl.com^
@@ -8349,7 +8340,6 @@
 @@||shtn.me^
 @@||shtnar.com^
 @@||shtu.be^
-@@||shukurbi.com^
 @@||shul.kr^
 @@||shurl.ch^
 @@||shurl.fr^
@@ -8383,7 +8373,6 @@
 @@||sikk.de^
 @@||siklik.id^
 @@||silfraphotos.is^
-@@||silvagiris.com^
 @@||simgr.id^
 @@||simonclaussen.com^
 @@||simp.ly^
@@ -8408,7 +8397,6 @@
 @@||sitegpl.com^
 @@||siteonizleme.com.tr^
 @@||sites.hscoscdn*.net^
-@@||sites.kr^
 @@||sites.paradox.ai^
 @@||siteu.net^
 @@||siteurl.ink^
@@ -8490,7 +8478,6 @@
 @@||sm4ll.in^
 @@||sma.ug^
 @@||smaba.sch.id^
-@@||smaintenance.com^
 @@||smal.lu^
 @@||small.cat^
 @@||smallit.cc^
@@ -8504,18 +8491,15 @@
 @@||smarinsights.study^
 @@||smart.link^
 @@||smartclkdms.com^
-@@||smartli.me^
 @@||smartmailboost.com^
 @@||smartshortlinks.com^
 @@||smartthings.com^$important
 @@||smarturl.co.uk^
-@@||smarturl.hu^
 @@||smarturl.it^
 @@||smartz.link^
 @@||smashed.by^
 @@||smata.strata-me.com.au^
 @@||smdisc.com^
-@@||smilytech.in^
 @@||smiurl.com^
 @@||smkt.app^
 @@||smlfy.com^
@@ -8571,7 +8555,6 @@
 @@||sng.agency^
 @@||sng.ng^
 @@||sngkt.in^
-@@||snhjsbs.shop^
 @@||sni.cdn.manager-magazin.de.c.footprint.net^$important
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||sni.ps^
@@ -8584,7 +8567,6 @@
 @@||snipit.in^
 @@||snipitx.com^
 @@||snipix.tech^
-@@||sniplify.me^
 @@||sniplink.co^
 @@||sniplnk.co^
 @@||sniply.io^
@@ -8615,7 +8597,6 @@
 @@||socialink.it^
 @@||socilinkr.com^
 @@||socx.in^
-@@||socxo.io^
 @@||softyfy.com^
 @@||sokrati.ru^
 @@||solink.in^
@@ -8643,7 +8624,6 @@
 @@||sp2.ro^
 @@||sp5.jp^
 @@||spaceframegroup.com.au^
-@@||sparrowlivingvendors.com^
 @@||spaste.com^
 @@||spclient.wg.spotify.com^$important
 @@||spcne.ws^
@@ -8787,7 +8767,6 @@
 @@||stre4m.vercel.app^
 @@||strikersoftsolutions.com^
 @@||strk12.link^
-@@||stry.mx^
 @@||strywon.com^
 @@||stspg.io^
 @@||stts.in^
@@ -8818,7 +8797,6 @@
 @@||suo.su^
 @@||suoc.me^
 @@||suolink.cn^
-@@||suolinks.com^
 @@||sup.superplural.com^
 @@||supaqr.com^
 @@||supbgn.at^
@@ -9045,7 +9023,6 @@
 @@||teamthrows.design^
 @@||tebar.in^
 @@||techcaresolution.org.in^
-@@||techigro.com^
 @@||techind.co^
 @@||techshort.co^
 @@||techuntangler.tools^
@@ -9053,7 +9030,6 @@
 @@||tecn.in^
 @@||tecn.me^
 @@||tedcdn.com^$important
-@@||teeeny.com^
 @@||teeny.in^
 @@||teeny.life^
 @@||teenyfy.com^
@@ -9096,7 +9072,6 @@
 @@||tgam.ca^
 @@||tgbe.link^
 @@||tgd.bz^
-@@||tgdgacor.com^
 @@||tglink.io^
 @@||tgmy.my^
 @@||tgov.us^
@@ -9155,7 +9130,6 @@
 @@||thls.co^
 @@||thn.news^
 @@||thoschi.com^
-@@||thpsn.org^
 @@||thr.cm^
 @@||thrdl.es^
 @@||thrill.to^
@@ -9262,7 +9236,6 @@
 @@||tinysrc.me^
 @@||tinyst.com^
 @@||tinyto.me^
-@@||tinytome.io^
 @@||tinyuri.com^
 @@||tinyurl.com^$important
 @@||tinyurl.dev^
@@ -9348,7 +9321,6 @@
 @@||tns.agency^
 @@||tnsne.ws^
 @@||tnu.ir^
-@@||tnur.io^
 @@||tnurl.net^
 @@||tnv.li^
 @@||tnvge.co^
@@ -9403,7 +9375,6 @@
 @@||topt.al^
 @@||topurl.cc^
 @@||topvir.com^
-@@||tore.marketing^
 @@||tori.top^
 @@||toskys.cn^
 @@||toss.is^
