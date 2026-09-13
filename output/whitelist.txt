@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-13 04:19:23
-! Rules: 11683
+! Updated: 2026-09-13 15:59:37
+! Rules: 11680
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -2639,7 +2639,6 @@
 @@||dl100.cc^
 @@||dld.bz^
 @@||dlik.ch^
-@@||dlink.me^
 @@||dlsh.it^
 @@||dlvr.it^
 @@||dly.es^
@@ -7039,7 +7038,6 @@
 @@||pxl.leads.su^
 @@||pxlcrv.co^
 @@||pxlfy.me^
-@@||pxlme.me^
 @@||pxs.cl^
 @@||pxu.co^
 @@||pxxbet.promo^
@@ -9820,6 +9818,7 @@
 @@||unl.one^
 @@||unlink.fr^
 @@||unlockflowurls.com^
+@@||unnajd.com^
 @@||unp.my.id^
 @@||unpixly.com^
 @@||uns.apsis.one^
@@ -10743,7 +10742,6 @@
 @@||www.msftncsi.com^$important
 @@||www.no-ip.com^$important
 @@||www.partner-ads.com^
-@@||www.temporary-url.com^
 @@||www.youtube-nocookie.com^$important
 @@||wwww.destockdrive.com^
 @@||wwy.me^
@@ -10835,7 +10833,6 @@
 @@||xortly.com^
 @@||xoxourl.com^
 @@||xozap.com^
-@@||xpixl.me^
 @@||xpol.com.tr^
 @@||xpr.li^
 @@||xprrtupdate.com^
