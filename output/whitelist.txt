@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-16 04:22:17
-! Rules: 11686
+! Updated: 2026-09-16 16:36:01
+! Rules: 11702
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1439,6 +1439,7 @@
 @@||bitly.to^
 @@||bitly.weballtools.com^
 @@||bitly.ws^
+@@||bitlyli.com^
 @@||bitlylinks.com^
 @@||bitlyshort.com^
 @@||bitlyvi.com^
@@ -1698,6 +1699,7 @@
 @@||by1.eu^
 @@||by2.io^
 @@||bydqy.com^
+@@||byebye.pro^
 @@||byestar.com^
 @@||byflexy.com^
 @@||byli.pro^
@@ -1772,6 +1774,7 @@
 @@||cardinates.me^
 @@||cardprofile.de^
 @@||cardprofile.link^
+@@||cardstap.com^
 @@||careem.me^
 @@||careercrawlerslmv.com^
 @@||caridomainku.org^
@@ -2191,6 +2194,7 @@
 @@||coinbarlink.net^
 @@||coinbot.kr^
 @@||coinclix.co^
+@@||coki.me^
 @@||coklat.vip^
 @@||comca.st^
 @@||come.ac^
@@ -2332,6 +2336,7 @@
 @@||cu7.co^
 @@||cuanbio.com^
 @@||cuer.io^
+@@||cukbaray.com^
 @@||cultm.ac^
 @@||culy.top^
 @@||cup.org^
@@ -2483,6 +2488,7 @@
 @@||datalisa.id^
 @@||datalotrk.com^
 @@||dataplicity.com^$important
+@@||dataurbia.com^
 @@||datayi.cn^
 @@||datenami.tw^
 @@||datenspende.und-gesund.de^$important
@@ -2660,6 +2666,7 @@
 @@||dnl.biz.id^
 @@||dns.msftncsi.com^$important
 @@||dnt.st^
+@@||dntl.me^
 @@||do.co^
 @@||do.my^
 @@||doaistri.com^
@@ -2751,6 +2758,7 @@
 @@||dti.io^
 @@||dtl.la^
 @@||dtsx.io^
+@@||du-link.in^
 @@||duakale.me^
 @@||dual-s-ring.msedge.net^$important
 @@||dub.co^
@@ -2965,11 +2973,13 @@
 @@||enlac.ee^
 @@||enlaces.entrelasgestiones.com^
 @@||enlacify.com^
+@@||enraptureminims.com^
 @@||enshom.link^
 @@||enter.bestbody.com.au^
 @@||enter.id.vn^
 @@||entm.ag^
 @@||entryurl.com^
+@@||envs.sh^
 @@||eohelp.link^
 @@||eonlnm.com^
 @@||eonlnq.com^
@@ -3207,6 +3217,7 @@
 @@||fliplink.eu^
 @@||fliplink.io^
 @@||fll.sh^
+@@||fllk.io^
 @@||fllw.link^
 @@||flnk.fr^
 @@||flomuz.io^
@@ -3250,6 +3261,7 @@
 @@||foll.link^
 @@||followmy.bio^
 @@||folm.org^
+@@||folu.me^
 @@||fon.gs^
 @@||fondby.com^
 @@||font.ai^
@@ -3282,6 +3294,7 @@
 @@||francosolerio.com^
 @@||frdm.mobi^
 @@||fre.to^
+@@||free-sex.live^
 @@||free-url.vercel.app^
 @@||freebiolink.com^
 @@||freedirector.io^
@@ -3455,6 +3468,7 @@
 @@||getsmallurl.com^
 @@||getthot.com^
 @@||gettolink.net^
+@@||geturls.net^
 @@||getus.at^
 @@||gf.to^
 @@||gfl2exilium.link^
@@ -3739,6 +3753,7 @@
 @@||goprotect.link^
 @@||gopvote.co^
 @@||goqr.me^
+@@||goqrgen.com^
 @@||gorio.page^
 @@||goshopurl.com^
 @@||goshort.pro^
@@ -3816,6 +3831,7 @@
 @@||grp08.ias.rakuten.co.jp^
 @@||gruntwork.io^
 @@||gscc.events^
+@@||gscc.pro^
 @@||gsght.com^
 @@||gskvn.live^
 @@||gslb.shalltry.com^$important
