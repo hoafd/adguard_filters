@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-17 04:28:03
-! Rules: 11702
+! Updated: 2026-09-17 16:42:06
+! Rules: 11735
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -3990,6 +3990,7 @@
 @@||hnsl.mn^
 @@||hnz.li^
 @@||ho.io^
+@@||hoa.to^
 @@||hoafd.ddns.net^$important
 @@||hoathinh3d.bz^$important
 @@||hocmai.link^
@@ -4076,6 +4077,7 @@
 @@||hulu.tv^
 @@||huma.na^
 @@||huntscreens.com^
+@@||hurirk.net^
 @@||hurl.it^
 @@||hurl.me^
 @@||hurl.ws^
@@ -4167,6 +4169,7 @@
 @@||ifwni.com^
 @@||ige.li^
 @@||igit.me^
+@@||ignitetraining.media^
 @@||igzws.com^
 @@||iherb.co^
 @@||ihnpo.com^
@@ -4228,6 +4231,7 @@
 @@||incochoice.co.uk^
 @@||incu.ca^
 @@||ind.pn^
+@@||indahnyaberbagi.lol^
 @@||indahnyaberbagi.shop^
 @@||inddrive.com^
 @@||indeedhi.re^
@@ -4473,6 +4477,7 @@
 @@||jknwn.org^
 @@||jks.bio^
 @@||jktc.pro^
+@@||jl.ink^
 @@||jldqx.com^
 @@||jm-88.cc^
 @@||jmal.top^
@@ -4537,6 +4542,7 @@
 @@||just.as^
 @@||just2earn.com^
 @@||justcut.io^
+@@||justshortit.com^
 @@||jv.mp^
 @@||jvfnz.biz^
 @@||jwl.events^
@@ -4708,6 +4714,7 @@
 @@||kqzyfj.com^
 @@||kr.pe^
 @@||kr3w.de^
+@@||kratsi.cz^
 @@||krazy.la^
 @@||krazylinks.com^
 @@||krdit.be^
@@ -4735,6 +4742,7 @@
 @@||kuku.lu^
 @@||kulink.me^
 @@||kur.ac^
+@@||kurl.ru^
 @@||kurly.it^
 @@||kurv.gr^
 @@||kurz.jetzt^
@@ -4823,6 +4831,7 @@
 @@||l2l.it^
 @@||l2l.li^
 @@||l2l.one.cutestat.com^
+@@||l2o.ir^
 @@||l338.co^
 @@||l4y.io^
 @@||l6dh.xyz^
@@ -4896,6 +4905,7 @@
 @@||lft.to^
 @@||lhb.pw^
 @@||lhg.app^
+@@||li-nk.eu^
 @@||li-nk.net^
 @@||li-nk.ro^
 @@||li.bi^
@@ -4914,6 +4924,7 @@
 @@||lien.babel.coop^
 @@||lien.li^
 @@||lien.paribal.fr^
+@@||lien.pl^
 @@||lienket.vn^
 @@||liens.ovh^
 @@||lifeandtime.charity^
@@ -4958,6 +4969,7 @@
 @@||lillink.xyz^
 @@||lilllil.ru^
 @@||lilnk.to^
+@@||liltext.com^
 @@||lin-k.ai^
 @@||lin-k.cc^
 @@||lin-k.eu^
@@ -5006,6 +5018,7 @@
 @@||link.dith2.com^
 @@||link.dstrct.at^
 @@||link.dvlog.vn^
+@@||link.easwipe.com^
 @@||link.ee^
 @@||link.elos.vc^
 @@||link.entrust4.org^
@@ -5130,6 +5143,7 @@
 @@||linkcomposer.com^
 @@||linkconnector.com^
 @@||linkcrafter.com^
+@@||linkcut.io^
 @@||linkcut.net^
 @@||linkcut.tr^
 @@||linkcutt.com^
@@ -5144,6 +5158,7 @@
 @@||linkdpx.xyz^
 @@||linkdrip.com^
 @@||linke.to^
+@@||linkedins.live^
 @@||linkeep.pro^
 @@||linkel.pro^
 @@||linkerr.io^
@@ -5160,6 +5175,7 @@
 @@||linkfusion.in^
 @@||linkgacortexas.org^
 @@||linkgizmo.com^
+@@||linkgo.live^
 @@||linkgqq.org^
 @@||linkgue.com^
 @@||linkhebat.com^
@@ -5192,6 +5208,7 @@
 @@||linkjoy.org^
 @@||linkjp.org^
 @@||linkjust.com^
+@@||linkkece.com^
 @@||linkkita.me^
 @@||linkkl.com^
 @@||linkko.fikydex.com^
@@ -5349,6 +5366,7 @@
 @@||linkstracer.com^
 @@||linksubmit.net^
 @@||linksumo.com^
+@@||linksvid.com^
 @@||linksvip.one^
 @@||linkswave.net^
 @@||linksy.io^
@@ -5561,8 +5579,10 @@
 @@||loom.ly^
 @@||loomvo.net^
 @@||loopt.us^
+@@||looselead.dog^
 @@||loot-link.com^
 @@||lorem.is^
+@@||losangeles.daype.com^
 @@||lou.ly^
 @@||love-url.com^
 @@||lovelocals.us^
@@ -6029,6 +6049,7 @@
 @@||mrjj.uk^
 @@||mrlink.in^
 @@||mrte.ch^
+@@||mrturl.com^
 @@||mrw.so^
 @@||mrx.bz^
 @@||mrx.cl^
@@ -6055,6 +6076,7 @@
 @@||mst.site^
 @@||mstcvk.com^
 @@||mstr.cl^
+@@||mstry.app^
 @@||mstuff.net^
 @@||msw.digital^
 @@||mt-k.madmetrics.com^
@@ -6136,6 +6158,7 @@
 @@||mylinkbr.com^
 @@||mylinkd.in^
 @@||mylinkinb.io^
+@@||mylinknow.us^
 @@||mylinks.net.br^
 @@||mylinks.top^
 @@||mylinks.tr^
@@ -6483,6 +6506,7 @@
 @@||ojo.la^
 @@||ojrq.net^
 @@||ok.link^
+@@||ok.tc^
 @@||ok.tn^
 @@||ok2.com^
 @@||okdc.me^
@@ -6544,6 +6568,7 @@
 @@||onebio.app^
 @@||onebio.ir^
 @@||onedrive.live.com^$important
+@@||onelink.appsflyersdk.com^
 @@||onelink.com.do^
 @@||onelink.lt^
 @@||onelink.me^
@@ -6566,6 +6591,7 @@
 @@||online.digital-advisor.com^
 @@||only-fans.click^
 @@||only.li^
+@@||onlyads.space^
 @@||onlybiolinks.com^
 @@||onmeto.net^
 @@||onn.to^
@@ -6758,6 +6784,7 @@
 @@||peak-prosperity.com^
 @@||peak.fan^
 @@||pebley.uk^
+@@||pecurgoa.com^
 @@||pedalhub.store^
 @@||peek.link^
 @@||peekstory.com^
@@ -6850,6 +6877,7 @@
 @@||pjtra.com^
 @@||pke.to^
 @@||pkg.pw^
+@@||pkv.li^
 @@||pkvg.link^
 @@||pla.daisycon.io^
 @@||placehold.it^$important
@@ -7023,6 +7051,7 @@
 @@||ptm.id^
 @@||ptm.ro^
 @@||ptns.io^
+@@||ptolreco.com^
 @@||ptr.tw^
 @@||ptxt.io^
 @@||ptxt.me^
@@ -7267,6 +7296,7 @@
 @@||r2c.ovh^
 @@||r4u.in^
 @@||r8z.cn^
+@@||r9f.cn^
 @@||rabetak.me^
 @@||rabit.ae^
 @@||raceclip.com^
@@ -7397,9 +7427,11 @@
 @@||redtext.us^
 @@||redtolnk.com^
 @@||redu.it^
+@@||reduced.to^
 @@||reducelnk.com^
 @@||redvt.cc^
 @@||reel.io^
+@@||reelsdownload.net^
 @@||ref.gs^
 @@||ref.li^
 @@||ref.so^
@@ -9357,6 +9389,7 @@
 @@||tnyurl.pro^
 @@||tnyweb.com^
 @@||to-text.net^
+@@||to.klatsa.nl^
 @@||to.lk^
 @@||to.ly^
 @@||to.nconnect.asia^
