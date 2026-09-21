@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-09-21 04:26:23
-! Rules: 11766
+! Updated: 2026-09-21 18:06:55
+! Rules: 11769
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -673,6 +673,7 @@
 @@||adsplusmetrics.com^
 @@||adsplustracker.com^
 @@||adsv.svc.litv.tv^
+@@||adtival.network^
 @@||adtr.ee^
 @@||adurly.cc^
 @@||adv.li^
@@ -6360,6 +6361,7 @@
 @@||nkxe.com^
 @@||nlab.cg^
 @@||nlc.mobi^
+@@||nlink.at^
 @@||nmrk.re^
 @@||nmw.news^
 @@||nnd.media^
@@ -7720,6 +7722,7 @@
 @@||safebrowsing.google.com^$important
 @@||safeelink.com^
 @@||safelink.pengembangsebelah.com^
+@@||safelinkearn.com^
 @@||safelinking.net^
 @@||safelinku.com^
 @@||safely.to^
