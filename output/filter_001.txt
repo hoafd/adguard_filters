@@ -1,7 +1,7 @@
 ! Title: Blocklist Part 1
-! Updated: 2026-09-21 18:06:55
-! Rules: 185397
-! Total Block Rules: 185397
+! Updated: 2026-09-22 04:23:01
+! Rules: 185565
+! Total Block Rules: 185565
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -155,7 +155,7 @@
 /jwplayer/vast.js$script
 /lv/esnk/*$script
 /newchill/*gif$image
-/player/html.php?aid=*&video_id=*&referer=https*xnhau.limo$domain=xnhau.limo
+/player/html.php?aid=*&video_id=*&referer=https*xnhau.free$domain=xnhau.free
 /player/jwplayer-*/vast.js$script
 /player/vast.js$script
 /plugins/AdsManager/*$script,~third-party
@@ -239,7 +239,7 @@ chophim.app##.p-4.bg-black\/65.justify-center.items-center.flex.z-\[90\].inset-0
 chophimviet.top###scriptDiv:has(.adsbygoogle)
 chotlo3s.com##div[id^="float"]
 cliphotvn69.com,dynadot.rsocdomains.com,cliphot69.makeup,www.gvnvh18z.com,phimsexhayvne.com,sayhentai.cx,xamvn.asia,sexviet69.cc##.float-ck-center-lt
-cliphubs.com,viet69hay.homes,clipphot.co#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "pop")
+cliphubs.com,viet69hay.quest,clipphot.co#%#//scriptlet("abort-current-inline-script", "document.addEventListener", "pop")
 clipsexa.com###popup-ad-box
 cmangax18.com#%#//scriptlet("prevent-setTimeout", "ads_num")
 coinphoton.com##.header-fix-ads
@@ -274,8 +274,6 @@ ebookbkmt.com##.top-right
 ephoto360.com##.line-ads
 ephoto360.com,thiepmung.com,phimchill.life##.ad-container
 eva.vn##.banrpstn
-fasermedia.com,mamphim.space##.sspp-area
-fasermedia.com,motphimc.pw,phimmoic.mx#%#//scriptlet("prevent-addEventListener", "click", "ads")
 file.gocmod.com##div.ad
 freeplayervideo.com,abysscdn.com,player-cdn.com###player + div[id]
 freeplayervideo.com,abysscdn.com,player-cdn.com,animesub.site##.jw-logo
@@ -300,7 +298,7 @@ gockhuat.net###ad_global_below_navbar
 gocmod.com###bannerContainer1
 googleapiscdn.com###avs-banner-overlay
 haysexvn.shop###vl-header-adx
-haysexvn.shop,viet69hay.homes##.popup
+haysexvn.shop,viet69hay.quest##.popup
 hh2d.top#%#//scriptlet("abort-current-inline-script", "$", "adblock")
 hh3dhay.ceo,hhtq.sh###top_addd
 hhdragon.blog##.catfish-img
@@ -372,7 +370,7 @@ motchillxe.cc##.overlay-1
 motphimc.pw##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 motphimchilll.blog###catfish_ad_top
 mphimtv.my##div[data-widget-id]
-mv.phimmoiaz.cc,animesub.site,zpic.io,javgiga.wordpress.com,hoctot.hocmai.vn,truyenfull.live,player.phimapi.com,sachmoi.net,xfast.sbs,anime47.best,x.phimsexvn1.co.uk,q1.qmhsexz.blog,cdn.codexa.fun#%#//scriptlet("abort-on-property-read", "open")
+mv.phimmoiaz.cc,animesub.site,zpic.org,javgiga.wordpress.com,hoctot.hocmai.vn,truyenfull.live,player.phimapi.com,sachmoi.net,xfast.sbs,anime47.best,x.phimsexvn1.co.uk,q1.qmhsexz.blog,cdn.codexa.fun#%#//scriptlet("abort-on-property-read", "open")
 nettruyen13s.com##.ad_info
 nettruyenar.com,hhvsub1.com#%#//scriptlet("abort-current-inline-script", "WebAssembly", "globalThis")
 nettruyenviet10.com#%#//scriptlet("abort-current-inline-script", "JSON", "fromCharCode")
@@ -403,7 +401,7 @@ phimlongtieng.net,www.1phim32.com,vn-motchill.com##.banner-preload
 phimmoic.mx##.bg-black\/70.justify-center.items-center.flex.z-\[9999\].inset-0.fixed
 phimmoichillz.top###pm_quangcao
 phimmoihd.it.com##.\32 xl\:left-2.sm\:left-1.left-0.-translate-y-1\/2.z-40.top-1\/2.fixed
-phimsexmoingay.com#%#//scriptlet("abort-current-inline-script", "window.addEventListener", "Ads")
+phimsexgaiviet.com#%#//scriptlet("abort-current-inline-script", "window.addEventListener", "Ads")
 phimsexsuong3x.net,sexhihi9x.pro,javhdz.bz,laalmirchitakeaway.co.uk##.catfish-bottom
 phimtho.cc#%#//scriptlet("abort-current-inline-script", "$", "p0pUpRandom")
 phimtuoitho.tv#%#//scriptlet("abort-current-inline-script", "document.documentElement", "break;case $.")
@@ -424,6 +422,8 @@ rakhoizab.cc###wap_bottombanner
 reatimes.vn##div[class^="adv-"]
 rophim.moe#%#//scriptlet("abort-current-inline-script", "addEvent", "popu")
 rophim10.tel##.adserver
+rophimss.id,mamphim.space##.sspp-area
+rophimss.id,motphimc.pw,phimmoic.mx#%#//scriptlet("prevent-addEventListener", "click", "ads")
 rphang.wiki###aboveFirstPost
 rphang.wiki,misskon.com#%#//scriptlet("abort-current-inline-script", "document.querySelectorAll", "popMagic")
 sachmoi.net##.boxzilla-bottom-right-container
@@ -510,7 +510,7 @@ vesotantai.com##.item-qc
 vi.xnxx.studio,trangsexdam.net,vlxx.rip###f186fb23a33995d91ce3c2212189178c8
 videophapluat.baophapluat.vn##[class^="sticky-top"]
 vieclam.tv###bnc0
-viet69hay.homes###castfish
+viet69hay.quest###castfish
 viet69vn.at,viet69.be##.footer-fixed-br-container
 vietcetera.com##.styles_topBanner__NL_gW
 vietfones.vn##.vfs_banner
@@ -566,7 +566,7 @@ xemphim.site##.sticky_bottom
 xemphim.site,phimhdc.com,phimhdcss.com##.mp-adz
 xfast.sbs###overlay
 xiuren.org###bannerIn
-xnhau.limo##.fp-ui>div[style]
+xnhau.free##.fp-ui>div[style]
 xnxx-sex-videos.com#%#//scriptlet("abort-current-inline-script", "setTimeout", "window.location")
 xnxx.com###content-ad-top-zone
 xxxhay.tv,sexmupxinh.net,sexhihi9x.pro##.xx-ads
@@ -576,7 +576,7 @@ ycongnghe.com##.td-container-wrap.td-logo-wrap-full.td-banner-wrap-full
 yeah1.com##.Float_ads
 z1.chinav.sex###cashfit-banner-host
 znews.vn###Zingnews_SiteHeader
-zpic.io##.ad-banner
+zpic.org##.ad-banner
 |a.klaviyo.com^
 |c.blue.*.com^|
 |load.gtm.
@@ -596,6 +596,7 @@ zpic.io##.ad-banner
 ||*launches.appsflyersdk.com^
 ||*register.appsflyersdk.com^
 ||*two-gun-volley.pages.dev^
+||0.232.205.92.host.secureserver.net^
 ||0.avmarket.rs^
 ||0.myikas.com^
 ||0.net.easyjet.com^
@@ -655,6 +656,7 @@ zpic.io##.ad-banner
 ||03h6fpes.xyz^
 ||03in08p3r1.com^
 ||03mhpavj25.com^
+||03mnj87wir.com^
 ||03teste.com^
 ||048f3c0516.com^
 ||049bv1hdzn.com^
@@ -666,6 +668,7 @@ zpic.io##.ad-banner
 ||05867500b2.7a28c1843f.com^
 ||058d79990c.com^
 ||0592.mobi^
+||059f25bd5b.com^
 ||05b9daf35c.com^
 ||05e76a16b8.5e3d5f480f.com^
 ||0628ba07b4.com^
@@ -1013,7 +1016,6 @@ zpic.io##.ad-banner
 ||13juk6f4qujcon697yuxhwy9tbi9pckz7rb.cfd^
 ||13o54zz4o18m3giptm4f9rn8.cfd^
 ||13p76nnir.de^
-||14-0-204-188.static.pccw-hkt.com^
 ||14.net.easyjet.com^
 ||1414.hexa.su^
 ||142644ec71.a61bc11442.com^
@@ -1723,7 +1725,6 @@ zpic.io##.ad-banner
 ||2juyabihe.com^
 ||2k19.nl^
 ||2k6eh90gs.de^
-||2k7d5hmd.one1xbet.win^
 ||2k9lffmofworit6h9.rest^
 ||2kbmdtlgme.com^
 ||2kn40j226.de^
@@ -1796,6 +1797,7 @@ zpic.io##.ad-banner
 ||2vfpjcpy351cwug.63xr7vjq6v9xhp.cyou^
 ||2vnrjqgl6jlmf3.cfd^
 ||2wij971l.betbazi.net^
+||2wn4bycie4tznq44mf396xojlrl5f.cfd^
 ||2wqs6d2gp.com^
 ||2wygltrjq1.h79xho6zgijze24hv94.cyou^
 ||2xclick.ru^
@@ -2239,6 +2241,7 @@ zpic.io##.ad-banner
 ||4373ab4d71.com^
 ||4387isns-7647as.nakedbean.com^
 ||43982bf480.com^
+||4399logs.4399doc.com^
 ||439f4b8c75.com^
 ||43abd4fb52.com^
 ||43b0d022d5.com^
@@ -2401,6 +2404,7 @@ zpic.io##.ad-banner
 ||4jnzhl0d0.com^
 ||4k.fanza18r.online^
 ||4k28959nr2pfj8cinwu5x.rest^
+||4k3nzijpm0.com^
 ||4kngwxegq5.com^
 ||4l.vlgtgclmpk95tbf.cyou^
 ||4l5bbkug99.com^
@@ -2910,7 +2914,6 @@ zpic.io##.ad-banner
 ||69v.club^
 ||69vnqyxetpu4b.kbjwopl872ut84241zlxpkejt.cyou^
 ||69x4o4j5.bet808.casino^
-||69xb4m1d.betmajic.cc^
 ||6a2596e48d.com^
 ||6a4876c08c.com^
 ||6a70838881.com^
@@ -3134,6 +3137,7 @@ zpic.io##.ad-banner
 ||750040424c.com^
 ||7550f3b810.com^
 ||759d3cc22a.com^
+||75c9773718.com^
 ||75g4iplzyv.com^
 ||75ossyemu.com^
 ||75rakcovr.com^
@@ -3602,7 +3606,6 @@ zpic.io##.ad-banner
 ||8q5urel9y5v5h5kj.cfd^
 ||8qfqhat9d.com^
 ||8qi3.fowebsiqa.shop^
-||8ra83hil.blackjackonlineplay83.com^
 ||8rht5welv5.com^
 ||8rnmj0roe1.com^
 ||8s32e590un.com^
@@ -6307,7 +6310,6 @@ zpic.io##.ad-banner
 ||abioseshashedshirked.qpon^
 ||abiosisfog.cfd^
 ||abioticdoand.qpon^
-||abitcoinbull.com^
 ||abitibiannabelexsert.qpon^
 ||abjectattempt.com^
 ||abjectexcessatheism.com^
@@ -6510,6 +6512,7 @@ zpic.io##.ad-banner
 ||abzadd.com^
 ||abzkyjleooqja.top^
 ||abzkyjlkzabwb.top^
+||abzkyjlkzazew.top^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac-3.mix.tokyo^
@@ -6780,8 +6783,10 @@ zpic.io##.ad-banner
 ||acraniahueybedlam.cfd^
 ||acrdfrcfapzvn.site^
 ||acreakkolas.cfd^
+||acreamdunny.shop^
 ||acrebackcharacter.com^
 ||acridtwist.com^
+||acrilicoporto.pt^
 ||acrinylleggier.cyou^
 ||acrobat.proposal.name.ng^
 ||acrobaticcouple.com^
@@ -11311,6 +11316,7 @@ zpic.io##.ad-banner
 ||alarmline.com.br^
 ||alarmsportsnetwork.com^
 ||alas4kanmfa6a4mubte.com^
+||alaschuroya.cyou^
 ||alaska.xhamster.com^
 ||alaska.xhamster.desi^
 ||alaska.xhamster2.com^
@@ -11404,6 +11410,7 @@ zpic.io##.ad-banner
 ||algesisgutsier.cfd^
 ||algi-english.4lima.at^
 ||algificunkist.cfd^
+||algineshutoku.com^
 ||algkrqjbvnoib.online^
 ||algollethy.cfd^
 ||algopine.com^
@@ -11456,7 +11463,6 @@ zpic.io##.ad-banner
 ||aline.alinecantarelli.com.br^
 ||aline.institutoalinepinho.com^
 ||alinedcauk.shop^
-||alineeleuterio.com.br^
 ||alinerbespin.qpon^
 ||aliningsows.shop^
 ||alinpay.store^
@@ -11901,6 +11907,7 @@ zpic.io##.ad-banner
 ||amidoxypochard.com^
 ||amidststuller.com^
 ||amidsttruly.com^
+||amiehend.cyou^
 ||amige.seasidefuneral.com^
 ||amikay.com^
 ||amilesunshell.qpon^
@@ -11942,6 +11949,7 @@ zpic.io##.ad-banner
 ||amoad.com^
 ||amobee.com^
 ||amoebasorale.cfd^
+||amoebidscarola.cfd^
 ||amon1.net^
 ||amongstbirdbath.com^
 ||amongstgahboo.com^
@@ -16586,8 +16594,10 @@ zpic.io##.ad-banner
 ||aruhq.jbgroup21.com^
 ||arullelb.com^
 ||arumhelps.com^
+||aruntacondo.com^
 ||aruoyf.peterhahn.ch^
 ||aruranmbqiyus.store^
+||arvalgasman.shop^
 ||arvigorothan.com^
 ||arvim.monkeywrenchutah.com^
 ||arvujwijm.irani-music.com^
@@ -17202,6 +17212,7 @@ zpic.io##.ad-banner
 ||atendimen.to^
 ||ateofakist.cfd^
 ||aterianbrisket.shop^
+||ateuchiclatch.shop^
 ||ateveq.street-beat.ru^
 ||atezqcmcarqfy.online^
 ||atfcj.buypetals.com^
@@ -17586,6 +17597,7 @@ zpic.io##.ad-banner
 ||aus.amexforbusiness.com.au^
 ||auschtpdyijht.site^
 ||ausclh.castlery.com^
+||auslanced.com^
 ||auslautnestful.qpon^
 ||ausmflow.com^
 ||ausonesbrodee.cfd^
@@ -17634,7 +17646,6 @@ zpic.io##.ad-banner
 ||autoaffiliatenetwork.com^
 ||autoappearancetraining.com^
 ||autoaudience.com^
-||autoclinic.autos^
 ||autodeal.agilecrm.com^
 ||autodengi.com^
 ||autographmarquisbuffet.com^
@@ -17768,6 +17779,7 @@ zpic.io##.ad-banner
 ||avlr.pincettemtl.com^
 ||avlrv.simplynootropics.com^
 ||avluvwflnuwjw.space^
+||avmakravzqfvj.space^
 ||avmmsekplixsk.space^
 ||avmviiih.com^
 ||avmvk.oliversweeney.com^
@@ -17837,6 +17849,7 @@ zpic.io##.ad-banner
 ||awardchirpingenunciate.com^
 ||awardeeagunah.qpon^
 ||awarealley.com^
+||awareaphony.qpon^
 ||awarecatching.com^
 ||awarenessexhibition.com^
 ||awarenessprovisions.com^
@@ -17930,6 +17943,7 @@ zpic.io##.ad-banner
 ||awrfds3.pornpapa.com^
 ||awrgkd.1000farmacie.it^
 ||awrgykbzmzmjz.online^
+||awrsfadi.in^
 ||awrwwedcoeeyq.site^
 ||awryau.com^
 ||aws-analytics.nmg.com.hk^
@@ -18536,7 +18550,6 @@ zpic.io##.ad-banner
 ||baalistlipemiastoled.qpon^
 ||baauefhlsruga.online^
 ||bab.reinoanimalpet.com.br^
-||babaszepsegverseny.hu^
 ||babator.com^
 ||babbagephloxin.qpon^
 ||babbittshalier.cyou^
@@ -19589,6 +19602,7 @@ zpic.io##.ad-banner
 ||beafdf.restaupro.com^
 ||beagle.prod.tda.link^
 ||beaglesdenize.shop^
+||beak.in^
 ||beakfuljato.com^
 ||beaksuccisa.qpon^
 ||bealafulup.com^
@@ -19972,6 +19986,7 @@ zpic.io##.ad-banner
 ||beroll.ru^
 ||berry.strathberry.com^
 ||berryhillfarmgwent.com^
+||berryplunker.cyou^
 ||berseemkidvidpizazz.qpon^
 ||berserkhydrant.com^
 ||bersq.theadventurechallenge.com^
@@ -20539,6 +20554,7 @@ zpic.io##.ad-banner
 ||biallo2.de^
 ||biallo3.de^
 ||biancasunlit.com^
+||biassedopaquer.qpon^
 ||biauralpatency.cyou^
 ||biaxalabiezer.cfd^
 ||biaxalwoibe.com^
@@ -20679,6 +20695,7 @@ zpic.io##.ad-banner
 ||bigramalbitic.shop^
 ||bigrbmvjmorry.online^
 ||bigrourg.net^
+||bigs.bikershop.biz^
 ||bigsauron.ru^
 ||bigstats.net^
 ||bigsv.ontrackmeals.com^
@@ -21117,6 +21134,7 @@ zpic.io##.ad-banner
 ||blanderlogos.qpon^
 ||blanderunherdagau.cyou^
 ||blandinvestment.pro^
+||blank.eugeniy.org^
 ||blank.lucflynn.com^
 ||blank.luxefifthwheel.com^
 ||blank080227.shop^
@@ -22199,7 +22217,6 @@ zpic.io##.ad-banner
 ||bpvoctpvauvyv.website^
 ||bpwmfh.backmarket.be^
 ||bpwmy.thepoplight.com^
-||bpyos3va.blackjack-x.com^
 ||bpzxevecpsxva.store^
 ||bq91y77zzxvihk.cfd^
 ||bqacmp.vidaxl.no^
@@ -22242,6 +22259,7 @@ zpic.io##.ad-banner
 ||bqvndd.ifood.com.br^
 ||bqvojtsj.betgar.bet^
 ||bqwjmvbjodclc.space^
+||bqx13piq2iitk12.cfd^
 ||bqxnpvzbrurde.online^
 ||br-rx.atatus.com^
 ||br.adpinfo.com^
@@ -23102,6 +23120,7 @@ zpic.io##.ad-banner
 ||burniecrepes.com^
 ||burningclock.com^
 ||burningpushing.info^
+||burntdoormantdoormantjoan.com^
 ||burp-flung-pilot.xyz^
 ||burpee.thesculptsociety.com^
 ||burrelworky.qpon^
@@ -23116,7 +23135,6 @@ zpic.io##.ad-banner
 ||burstyflavia.com^
 ||burstythroddymellows.qpon^
 ||burt.io^
-||buruujtech.com^
 ||burvz.cerebralpalsyguide.com^
 ||burwfuhpwjlme.site^
 ||burysmemburdens.qpon^
@@ -23412,6 +23430,7 @@ zpic.io##.ad-banner
 ||bxhnfmijbikzg.space^
 ||bxiaev.linvosges.com^
 ||bxkhoojkyzdbn.website^
+||bxlojkworooqyh.com^
 ||bxlooftejvbac.website^
 ||bxlsct.ex-shop.net^
 ||bxmlsu.aluahotels.com^
@@ -23901,6 +23920,7 @@ zpic.io##.ad-banner
 ||cabbalamesset.cfd^
 ||cabberjasey.qpon^
 ||cabccumqxzevy.space^
+||cabcda1367.com^
 ||cabezonmagyarrazeing.cfd^
 ||cabildosingultpapua.qpon^
 ||cabindasillockelevons.cyou^
@@ -25392,6 +25412,7 @@ zpic.io##.ad-banner
 ||cbsloirslgakw.space^
 ||cbsnews.date^
 ||cbso.uk.net^
+||cbstctshoywvv.space^
 ||cbsxfgczalhiv.space^
 ||cbt.whatcounts.net^
 ||cbtks.happysocks.com^
@@ -26951,6 +26972,7 @@ zpic.io##.ad-banner
 ||chufftyigh.qpon^
 ||chuguadventures.co.tz^
 ||chujstkfubpix.space^
+||chulansorrow.cfd^
 ||chumawihashing.cfd^
 ||chumswhally.cyou^
 ||chunkycactus.com^
@@ -28009,6 +28031,7 @@ zpic.io##.ad-banner
 ||clonalfloaty.shop^
 ||clonertieing.cfd^
 ||cloniclinsang.shop^
+||clonte.xyz^
 ||cloquemayoput.cyou^
 ||clorly85.net^
 ||cloron.net^
@@ -30213,7 +30236,6 @@ zpic.io##.ad-banner
 ||corajigustful.qpon^
 ||coral.bladestudy.net^
 ||coral.defygravity.co^
-||coralasargetia.ro^
 ||coralcanarydepend.com^
 ||coralcranes.com^
 ||coralreverie.com^
@@ -30271,6 +30293,7 @@ zpic.io##.ad-banner
 ||corkdeclarationfourteenth.com^
 ||corkecane.cyou^
 ||corksadly.com^
+||corkscrew33.com^
 ||cormousbegaud.cfd^
 ||corneaananism.cyou^
 ||cornealtextlet.qpon^
@@ -30673,6 +30696,7 @@ zpic.io##.ad-banner
 ||cpatext.ru^
 ||cpatrk.net^
 ||cpaway.com^
+||cpaynlatkkkct.com^
 ||cpays.com^
 ||cpazhw.kitapkoala.com^
 ||cpazilla.ru^
@@ -30841,6 +30865,7 @@ zpic.io##.ad-banner
 ||cqfum.playsetparts.com^
 ||cqg8zmtt3.com^
 ||cqgvibnvtvebd.site^
+||cqgxzpcwqpv.com^
 ||cqintzfep6rw6jc9.public.blob.vercel-storage.com^
 ||cqishr.mobile.de^
 ||cqjeqfltg.fg777jbg.net^
@@ -31128,6 +31153,7 @@ zpic.io##.ad-banner
 ||crestedsibylstopper.qpon^
 ||crestfidubank.com^
 ||crestmarkhq.com^
+||cresvin.com^
 ||cresylsaccurseaffinal.cfd^
 ||cretgate.com^
 ||crevicedepressingpumpkin.com^
@@ -31138,6 +31164,7 @@ zpic.io##.ad-banner
 ||crhvgfrhzsxmu.site^
 ||cri.harvardpilgrim.org^
 ||criblarkscores.cyou^
+||cricdensest.com^
 ||crickball.com^
 ||cricketquaint.com^
 ||crickleleangle.qpon^
@@ -31987,6 +32014,7 @@ zpic.io##.ad-banner
 ||curemedia.se^
 ||curename-gust.xyz^
 ||curerowland.com^
+||curialuncling.cyou^
 ||curiaradiazole.cfd^
 ||curiaraewery.cfd^
 ||curiarawolfkin.com^
@@ -31998,6 +32026,7 @@ zpic.io##.ad-banner
 ||curiousmetal.com^
 ||curioussuccess.com^
 ||curl-shell-teal.vercel.app^
+||curl.springinure.com^
 ||curledkexesdenver.qpon^
 ||curledpastpatty.com^
 ||curlsseizuregolan.com^
@@ -41158,6 +41187,7 @@ zpic.io##.ad-banner
 ||dgecvdye.marketise.me^
 ||dgedff.gofivestarpm.com^
 ||dgfsajonlckrp.store^
+||dgfwztiezalfv.online^
 ||dggaenaawxe8z.cloudfront.net^
 ||dggazqmcpmtwc.website^
 ||dghfko.pauapique.com.br^
@@ -42171,6 +42201,7 @@ zpic.io##.ad-banner
 ||divorcedrefreshing.com^
 ||divscripty.net^
 ||divulsemicraco.cyou^
+||divvanews.com^
 ||divwbbyjikkkv.website^
 ||diwvsftmdqhyo.space^
 ||dixbvzvuzhvxbg.com^
@@ -42339,7 +42370,6 @@ zpic.io##.ad-banner
 ||dl-adx.op-mobile.opera.com^
 ||dl-rms.com^
 ||dl.1003b.56a.com^
-||dl.2345.com^
 ||dl.4kporn.xxx^
 ||dl.baddiesonlyporn.com^
 ||dl.crazyporn.xxx^
@@ -42423,7 +42453,6 @@ zpic.io##.ad-banner
 ||dls-b23-link.ip.twelve99.net.iberostar.com^
 ||dls-ddc.dqa.samsung.com^
 ||dls2s.appsflyer.com^
-||dlsak5pv.megapariwin.bet^
 ||dlso-ap96.macgamingdb.app^
 ||dlsybe78o0.com^
 ||dlthst9q2beh8.cloudfront.net^
@@ -42930,6 +42959,7 @@ zpic.io##.ad-banner
 ||doouhnscfspxu.space^
 ||doozerscabman.shop^
 ||dopasherahskyport.cfd^
+||dopattaoutcant.com^
 ||dope.dopeshop12.com^
 ||dopecontraction.com^
 ||dopeoutspoken.com^
@@ -43057,7 +43087,6 @@ zpic.io##.ad-banner
 ||down.ftp21.cc^
 ||down.fwqlt.com^
 ||down.pcclear.com^
-||down.qqfarmer.com.cn^
 ||down.ruanmei.com^
 ||down.unicron-cdn.click^
 ||down10d.zol.com.cn^
@@ -43117,6 +43146,8 @@ zpic.io##.ad-banner
 ||doyroevtmrqgh.site^
 ||dozco.com^
 ||dozemarchedconserve.com^
+||dozepriv.cyou^
+||dozgakbuovbpe.site^
 ||dozubatan.com^
 ||dp.casa.it^
 ||dp.idealista-assicurazioni.it^
@@ -43193,6 +43224,7 @@ zpic.io##.ad-banner
 ||dqciuftqqizon.website^
 ||dqcnhcmiaosjv.online^
 ||dqd5t8xfxmhi7.cloudfront.net^
+||dqdifcoeiohsu.online^
 ||dqdsnemauijvc.online^
 ||dqdwbo.ellamila.com^
 ||dqecz.titan.fitness^
@@ -43271,6 +43303,7 @@ zpic.io##.ad-banner
 ||dragonsurcing.com^
 ||dragontamer.net^
 ||dragoonidism.cfd^
+||dragoonneck.cfd^
 ||dragstergibletshaded.com^
 ||drainalmost.com^
 ||drainmayhem.click^
@@ -44057,6 +44090,7 @@ zpic.io##.ad-banner
 ||dteaam.com^
 ||dteifi.com^
 ||dtent.povvverz.one^
+||dtenteties.com^
 ||dterm.quickmeds.co.uk^
 ||dtesv.fpro.com^
 ||dtfpvb.nicoleonlineshop.com^
@@ -44416,6 +44450,7 @@ zpic.io##.ad-banner
 ||dvrxgs.fc-moto.de^
 ||dvs.china.com^
 ||dvser.china.com^
+||dvsgicwxthupn.online^
 ||dvssql.hiwellkorea.co.kr^
 ||dvsyugrgliybb.site^
 ||dvtwbxgckgnmb.site^
@@ -44448,6 +44483,7 @@ zpic.io##.ad-banner
 ||dwamhdnllmhwu.site^
 ||dwaptftvhkjtc.site^
 ||dwarfershrendchamped.qpon^
+||dwarfsbufagin.qpon^
 ||dwarfscriptsfurnished.com^
 ||dwarfydraggy.cfd^
 ||dwbhepiqyzihi.space^
@@ -45577,7 +45613,6 @@ zpic.io##.ad-banner
 ||ebsqxaj8u.com^
 ||ebtwanvamfwwi.space^
 ||ebtxxz.travellink.se^
-||ebullientlife.in^
 ||ebusgamgwrxig.site^
 ||ebuyy.shop^
 ||ebuzzing.com^
@@ -46091,6 +46126,7 @@ zpic.io##.ad-banner
 ||eel.tibber.com^
 ||eel.transistor.fm^
 ||eelamendshire.com^
+||eelgxkthsysct.online^
 ||eeliestdeareflexes.cfd^
 ||eellikeupcoils.cfd^
 ||eeloj.yotamafia.com^
@@ -46334,6 +46370,7 @@ zpic.io##.ad-banner
 ||ehnuqh.meilleurtaux.com^
 ||ehoeb.ekster.com^
 ||ehonf.zivohealth.in^
+||ehpmezpgselsb.space^
 ||ehqaobjhna.com^
 ||ehqot.southtree.com^
 ||ehqufypefcfkx.site^
@@ -48163,6 +48200,7 @@ zpic.io##.ad-banner
 ||erggaxbuuevsw.site^
 ||ergometrix.prodesk.bg^
 ||ergonomicparadeupstroke.com^
+||ergotherapeia-kalamata.gr^
 ||ergotinmedleyseggars.cyou^
 ||ergotsanding.cfd^
 ||ergrbp.hobidunya.com^
@@ -50468,7 +50506,6 @@ zpic.io##.ad-banner
 ||fascismmuchly.shop^
 ||fascjusltedhecco.qpon^
 ||fasebook.com.vn^
-||fasermedia.com^*.gif,~third-party
 ||fash.whitecoffee.store^
 ||fashion.edm.globalsources.com^
 ||fashion.fashionshoesbd.com^
@@ -51511,6 +51548,7 @@ zpic.io##.ad-banner
 ||file.rafflecreator.com^
 ||file.smartsleevemd.com^
 ||file.tugou.com.co^
+||file.uhsea.com^
 ||file.weightsimple.com^
 ||file.zipsec.com^
 ||file1.dangcongsan.vn^*.gif$image,domain=dangcongsan.vn
@@ -52573,7 +52611,6 @@ zpic.io##.ad-banner
 ||fluffytracing.com^
 ||fluidatter.cyou^
 ||fluidbagfulwag.com^
-||fluidfilm.bg^
 ||fluidsurveys.com^
 ||fluiyhtncueau.store^
 ||flukedlegato.cyou^
@@ -52825,6 +52862,7 @@ zpic.io##.ad-banner
 ||foghug.site^
 ||fogiedigmeat.shop^
 ||fogl1onf.com^
+||foglegateway.cfd^
 ||fogrm.macduggal.com^
 ||fogrwmspvxjva.site^
 ||fogtrack.net^
@@ -55075,6 +55113,7 @@ zpic.io##.ad-banner
 ||gargleearnest.com^
 ||gargleunethicalthorough.com^
 ||garglingably.com^
+||garigueomen.shop^
 ||garlandcelaeno.shop^
 ||garlicbourlawupfolds.cfd^
 ||garlionsaffronnonacid.cyou^
@@ -56217,6 +56256,7 @@ zpic.io##.ad-banner
 ||ggxt.net^
 ||ggxwb.miguvideo.com^
 ||ggyjaebzggpkk.store^
+||ggysxabi.com^
 ||ggzfqn.mynerdlife.com^
 ||ggzzmm.shop^
 ||gh.atlasspineclinic.ca^
@@ -56354,6 +56394,7 @@ zpic.io##.ad-banner
 ||giddycoat.com^
 ||giddyplastic.pro^
 ||giddyrabiddaylight.com^
+||gidyeamotivesnavar.qpon^
 ||gie0izinx.com^
 ||giemcusetaqqe.space^
 ||gieo94u4321u8j6tc.rest^
@@ -57668,6 +57709,7 @@ zpic.io##.ad-banner
 ||gobf.ru^
 ||gobfmmh.casino888.promo^
 ||gobioshunnedmazic.cyou^
+||gobiotechpestcontrol.com^
 ||goblinindex.com^
 ||gobxihrdqncew.website^
 ||gocertiport.pearsonvue.com^
@@ -58328,6 +58370,7 @@ zpic.io##.ad-banner
 ||gridrelay27.co^
 ||gridsum.com^
 ||gridsumdissector.com^
+||griecedcurvet.cyou^
 ||griefcube.cc^
 ||griefsdopster.qpon^
 ||grievecamouflage.com^
@@ -58509,7 +58552,6 @@ zpic.io##.ad-banner
 ||grundyjanner.cfd^
 ||grunzieniseicoenoby.cfd^
 ||grupohenry1.com^
-||grupomcperu.com^
 ||gruponn.com^
 ||gruttenkendos.qpon^
 ||grv.media^
@@ -64550,6 +64592,7 @@ zpic.io##.ad-banner
 ||gumyfui.com^
 ||gun2v2neoo.com^
 ||gundabirth.cyou^
+||gundynisperocroup.cyou^
 ||gunfireendorse.com^
 ||gunfireleafit.shop^
 ||gunft.com^
@@ -64637,6 +64680,7 @@ zpic.io##.ad-banner
 ||gv0oi9ecji.com^
 ||gvapp.ru^
 ||gvbt3xwg.xyz^
+||gvbyxtlzut8iurvfukkb8mv.rest^
 ||gvcgbd.byggshop.se^
 ||gvdhl.kingdomkratom.com^
 ||gvdkkbmzsdvmr.space^
@@ -65300,7 +65344,6 @@ zpic.io##.ad-banner
 ||hapqrakgdpnvg.online^
 ||hapyak.com^
 ||haqkrygx.site-takhtenard-sharti.online^
-||haqoakt0.elmolnafs.xyz^
 ||haqwfanzmxcrm.site^
 ||harajukustyle.live^
 ||harassingknack.com^
@@ -65428,6 +65471,7 @@ zpic.io##.ad-banner
 ||has.sidewalk.sa^
 ||has.syndicate-festival.de^
 ||has.vpro.nl^
+||hasalltalent.com^
 ||hasan.bebshapath.com^
 ||hasan.cheirobd.com^
 ||hasan.poharbd.com^
@@ -66156,6 +66200,7 @@ zpic.io##.ad-banner
 ||hexagon-analytics.com^
 ||hexapodbreech.cyou^
 ||hexdracherubs.cfd^
+||hexqxspgobynd.site^
 ||hexsubjockocerago.qpon^
 ||heyaxr.fashiondays.bg^
 ||heycomputers.com^
@@ -66296,6 +66341,7 @@ zpic.io##.ad-banner
 ||hhbxcs.tylko.com^
 ||hhbypdoecp.com^
 ||hhcdagzyxyiby.website^
+||hhcqjifspiqrd.online^
 ||hhdfk.startrepairingcredit.com^
 ||hhdfwrsoaohsf.space^
 ||hhelrn.calobye.com^
@@ -66319,6 +66365,7 @@ zpic.io##.ad-banner
 ||hhjtfambhvzax.site^
 ||hhklc.com^
 ||hhkld.com^
+||hhkolzdpdedrz.online^
 ||hhkungfu.us^*.gif$image,domain=z1.chinav.sex|x.phimsexvn1.co.uk
 ||hhluvk.jetcost.pt^
 ||hhmrsmghtbdln.site^
@@ -66911,6 +66958,7 @@ zpic.io##.ad-banner
 ||hnnwonwjeiqpq.space^
 ||hnotf.ecsportsusa.com^
 ||hnpgjp.cyclemarket.jp^
+||hnqavyhsqapcram.com^
 ||hnqqvagxfnrgr.website^
 ||hnqwv.tartecosmetics.com^
 ||hnrfv.chromeindustries.com^
@@ -67207,6 +67255,7 @@ zpic.io##.ad-banner
 ||horizontallypolluteembroider.com^
 ||horizontallyresearchpolar.com^
 ||hormigoceiled.cyou^
+||hormionraftingvenule.cfd^
 ||horncreature.com^
 ||horndestructnosebleed.com^
 ||hornet.jeffgable.com^
@@ -67290,7 +67339,6 @@ zpic.io##.ad-banner
 ||hostingcloud.*.wasm^
 ||hostingcloud.racing^
 ||hostingcloud.science^
-||hostinghosting3.site^
 ||hostip.info^
 ||hostk.cfd^
 ||hostsyuponinbye.cyou^
@@ -67904,12 +67952,14 @@ zpic.io##.ad-banner
 ||hulkageinmeats.cyou^
 ||hullmall-cool.xyz^
 ||hullocknora.qpon^
+||hulloobiers.shop^
 ||hulsitelinkups.shop^
 ||huluplowersstellas.cfd^
 ||hulykiyi.cfd^
 ||humanclick.com^
 ||humanz.com^
 ||humapogonia.shop^
+||humasjatim.id^
 ||humayun.meowmesh.com^
 ||humble-gap.com^
 ||humbleoven.pro^
@@ -68044,6 +68094,7 @@ zpic.io##.ad-banner
 ||huz6wkqi.mokatebatedari.xyz^
 ||huzjg.ancientnutrition.com^
 ||huzytgmqsnecd.website^
+||hv7n2iyreenqet6nr.rest^
 ||hv7w3au49.com^
 ||hvac.goodcoinc.com^
 ||hvac.solutions.jci.com^
@@ -68997,6 +69048,7 @@ zpic.io##.ad-banner
 ||ifvrcwxxbmvoo.website^
 ||ifwqzknx.twheels.de^
 ||ifwuju.graymelin.com^
+||ifxijbhztrtvp.site^
 ||ifxnyp.troquer.com.mx^
 ||ifyane.balaan.co.kr^
 ||ifyfqt.oukorea.com^
@@ -70300,6 +70352,7 @@ zpic.io##.ad-banner
 ||ims2.tescotravelmoney.com^
 ||ims3.tescogiftcards.com^
 ||imsfedalok.com^
+||imshivoglite.qpon^
 ||imslyokecyhar.site^
 ||imsonicgale.com^
 ||imtshvsvjzeob.website^
@@ -70474,7 +70527,6 @@ zpic.io##.ad-banner
 ||indulinpentailhews.cfd^
 ||indulinrayful.com^
 ||indultsoupon.qpon^
-||indusenterprises.co^
 ||indush.cfd^
 ||industries78.net^
 ||industriesfrominvisible.net^
@@ -71585,6 +71637,7 @@ zpic.io##.ad-banner
 ||innocentlamp.com^
 ||innorame.com^
 ||innovads-server.poster.appsinnova.com^
+||innovantksa.com^
 ||innovate.bionix.com^
 ||innovateads.com^
 ||innovation-lab.ru^
@@ -72494,6 +72547,7 @@ zpic.io##.ad-banner
 ||iqgxtjfc.hazzarat.world^
 ||iqhgn.goggles4u.com^
 ||iqietsyotgcxz.site^
+||iqitfeetwmqoi.site^
 ||iqizfdgzqigjo.website^
 ||iqjijcxxohzcc.space^
 ||iqjrfm.housfy.com^
@@ -72795,6 +72849,7 @@ zpic.io##.ad-banner
 ||isy.chez-pierre.com^
 ||isyfhktqiiccy.site^
 ||isypmogfhabmp.space^
+||iszbbkcqwfnqn.space^
 ||iszbchgvidvhw.space^
 ||iszrrgjxekmas.website^
 ||isztpjhceyoir.site^
@@ -72946,6 +73001,7 @@ zpic.io##.ad-banner
 ||iu3pprwz.xyz^
 ||iu41zeaj.1xgame.vip^
 ||iu6t.consobaby.it^
+||iuafztnmegezp.website^
 ||iuaqfp.aetem.co.kr^
 ||iuashjdke.haav.co.uk^
 ||iubehzyrwcdid.site^
@@ -73942,6 +73998,7 @@ zpic.io##.ad-banner
 ||jfwrongznqxwh.site^
 ||jfxefv.icu^
 ||jfyecc.machineseeker.com^
+||jfzcoyulqblry.space^
 ||jfzgxkkgnpilo.online^
 ||jfzis.cpapninja.com^
 ||jfzucsihbphzt.store^
@@ -74438,6 +74495,7 @@ zpic.io##.ad-banner
 ||jnohm.stuartweitzman.com^
 ||jnoknz.bradfordexchange.ca^
 ||jnps3tlw.xyz^
+||jnqahbreekala.space^
 ||jnqbkpsymoads.site^
 ||jnqus.essentialelementsnutrition.com^
 ||jnros.fresh.com^
@@ -74982,6 +75040,7 @@ zpic.io##.ad-banner
 ||jsawxlbwqxnsh.website^
 ||jsb.qianzhan.com^
 ||jsbmf.heymistr.com^
+||jsbpqnvraflghc.com^
 ||jsc.native.azerion.com^
 ||jsc.yodimedia.com^
 ||jscdn.online^
@@ -75192,6 +75251,7 @@ zpic.io##.ad-banner
 ||jujtcq.amnibus.com^
 ||jujuflatwaypolt.cyou^
 ||juklfwgznmzky.site^
+||jukmbthw.com^
 ||julia001help.net.mydays.de^
 ||julianoalvaroz12.com^
 ||jullyambery.net^
@@ -75553,6 +75613,7 @@ zpic.io##.ad-banner
 ||jzleekzmevqzy.top^
 ||jzmgykztfsjwd.website^
 ||jzmwxos.com^
+||jznogdxshfuqk.site^
 ||jzokkeaebbjbw.top^
 ||jzoxch.menswearhouse.com^
 ||jzpg3f8jv5c59f5lurip8gzui.rest^
@@ -75683,6 +75744,7 @@ zpic.io##.ad-banner
 ||kaan.kakao.com^
 ||kaascypher.com^
 ||kab201k0xs.com^
+||kabarrousersyaks.cyou^
 ||kabbmedia.com^
 ||kabbo.kabbocollectionbd.com^
 ||kabfoody.cyou^
@@ -75893,6 +75955,7 @@ zpic.io##.ad-banner
 ||kbj.katinkaberrettyjewelry.com^
 ||kbjgwaixnlrel.online^
 ||kbjosx.backmarket.fr^
+||kbjoznjiucsqg.space^
 ||kbjuqbdplwpjm.online^
 ||kbkgg.purblack.com^
 ||kbkkvtmfvkozb.online^
@@ -78089,7 +78152,6 @@ zpic.io##.ad-banner
 ||l1v2m4fnuz8ce7955b72xb.16eq4pk9zxgzu4vojk.cyou^
 ||l1vec4ms.com^
 ||l1y267efmn.com^
-||l2ekym1s.megaparivip.vip^
 ||l2fmm7sp.xyz^
 ||l2i.qualityinnlevis.com^
 ||l2qdfaq62o.com^
@@ -78142,6 +78204,7 @@ zpic.io##.ad-banner
 ||labanga.de^
 ||labdjang.asia^
 ||labeldollars.com^
+||labeledcobnut.com^
 ||labelsensor.com^
 ||labiosegaslit.shop^
 ||labioserelicti.cyou^
@@ -78254,6 +78317,7 @@ zpic.io##.ad-banner
 ||lakns.com^
 ||lakollsukj.com^
 ||laksa.lumineelearning.com^
+||lakwxuzurlnee.space^
 ||lalala.geenstijl.nl^
 ||lalapush.com^
 ||lalilulelo.khama.es^
@@ -78434,6 +78498,7 @@ zpic.io##.ad-banner
 ||larcru.herno.com^
 ||lardedjubas.shop^
 ||lardedronnels.cyou^
+||lardryjuba.cyou^
 ||lardrymizzenspointel.cfd^
 ||lardylathercenter.com^
 ||largebrass.com^
@@ -78813,6 +78878,7 @@ zpic.io##.ad-banner
 ||lcwfabt2.com^
 ||lcwfabt3.com^
 ||lcwodl.bleulibellule.com^
+||lcwuumcuzbjhp.site^
 ||lcycv.summitmetals.com^
 ||lczcvvcxgmqdl.website^
 ||lczoidhsuvuyu.site^
@@ -78962,6 +79028,7 @@ zpic.io##.ad-banner
 ||leanedpyallaares.qpon^
 ||leanhtien.net^
 ||leanintegrationdebauch.com^
+||leanmaestro.com^
 ||leanperjury.com^
 ||leanplum.com^
 ||leapedspam.com^
@@ -80219,6 +80286,7 @@ zpic.io##.ad-banner
 ||lkhrtf.beveragefactory.com^
 ||lkhzv.shethrive.co^
 ||lkicfwdelawuy.site^
+||lkifuqduq.com^
 ||lkigekxdsgzkz.online^
 ||lkijvrrofszzz.online^
 ||lkiqkq.mumzworld.com^
@@ -86641,6 +86709,7 @@ zpic.io##.ad-banner
 ||loveme.com^
 ||lovercash.com^
 ||loverevenue.com^
+||loverypilies.shop^
 ||lovesbooks.com^
 ||loveseashore.com^
 ||loveyoudatee.com^
@@ -86960,6 +87029,7 @@ zpic.io##.ad-banner
 ||lpvrblrtdgmke.space^
 ||lpvycfrknsmog.website^
 ||lpwtbsfgamivm.space^
+||lpwxjjoxopqrq.space^
 ||lpx.qantas.com^
 ||lpxyrjholunvdk.com^
 ||lpyfevipheebj.website^
@@ -87293,6 +87363,7 @@ zpic.io##.ad-banner
 ||luhzoywwssycd.online^
 ||luimangeao.cfd^
 ||luisardo.com^
+||luizmatoso.com.br^
 ||lujaqg.e-blooming.com^
 ||lujcig.modaforyou.pl^
 ||lujtpp.mydominant.co.kr^
@@ -88213,7 +88284,6 @@ zpic.io##.ad-banner
 ||mail.southwestblinds.com^
 ||mail.spandex.com^
 ||mail.theworkguyoo.com^
-||mail1.mycollege.com.my^
 ||mail1.velpa.pl^
 ||mail3.velpa.pl^
 ||mail4.adgtrk.com^
@@ -88360,6 +88430,7 @@ zpic.io##.ad-banner
 ||mammothflow.pro^
 ||mammothsweetheart.com^
 ||mamotyfattier.cyou^
+||mamsellciliata.shop^
 ||mamun.bikroycenter365.com^
 ||mamun.fishgrowthbd.com^
 ||mamun.nextshilpo.com^
@@ -90666,6 +90737,7 @@ zpic.io##.ad-banner
 ||mbvsm.com^
 ||mbvubhvcfcjju.space^
 ||mbww.com^
+||mbyhanczuvsfo.space^
 ||mbytyeonamnqc.space^
 ||mbyvfmsxrdbigpk.com^
 ||mbzkvc.junghanswolle.de^
@@ -91673,7 +91745,6 @@ zpic.io##.ad-banner
 ||meokiemtien.online^
 ||meoss.femlycare.com^
 ||meow.edukid.store^
-||meow.otval.cfd^
 ||meowcustom.com^
 ||meowlytics.bignutty.xyz^
 ||mepirtedic.com^
@@ -95477,6 +95548,7 @@ zpic.io##.ad-banner
 ||mkwntx.pinkpanda.de^
 ||mkyafpcctqmyi.website^
 ||mkybbjaracrvh.online^
+||mkyc81u6je.com^
 ||mkyebumhdrhsg.store^
 ||mkyxrljdjoawi.site^
 ||mkzpn.total.vet^
@@ -96096,6 +96168,7 @@ zpic.io##.ad-banner
 ||mon-*.tiktokv.com^
 ||mon-blanc-03.cfd^
 ||mon-blanc-04.cfd^
+||mon-sg.byteintlapi.com^
 ||mon-sg.capcutapi.com^
 ||mon-v*-boot.capcutapi.com^
 ||mon-va*.capcutapi.com^
@@ -96476,6 +96549,7 @@ zpic.io##.ad-banner
 ||mountainous-statement.com^
 ||mountainsubmerge.com^
 ||mountedbattery.com^
+||mounteehut.com^
 ||moupkheda.qpon^
 ||mournenterprise.com^
 ||mouse.anthony-noel.com^
@@ -96828,6 +96902,7 @@ zpic.io##.ad-banner
 ||ms.informaengage.com^
 ||ms.mavero.store^
 ||ms.topschooljobs.org^
+||ms.xunyou.com^
 ||ms1.morganstanley.com^
 ||ms9amh2h.1xcart.vip^
 ||ms9datqz.953.games^
@@ -97237,6 +97312,7 @@ zpic.io##.ad-banner
 ||mugapi.lazzarionline.com^
 ||mugcix.hessnatur.com^
 ||muggedregent.com^
+||mugglespyosesmeriah.qpon^
 ||muggpolys.com^
 ||mugilreshoes.cfd^
 ||mugkk.toynk.com^
@@ -97475,6 +97551,7 @@ zpic.io##.ad-banner
 ||mvgteg.primecables.ca^
 ||mvhlcshfdhsql.website^
 ||mvhmppnuvmpdp.online^
+||mviasyrhzdmqr.site^
 ||mvjkbj.inazumanews2.com^
 ||mvkxtrsnfdggx.site^
 ||mvmlv.maidenform.com^
@@ -97516,6 +97593,7 @@ zpic.io##.ad-banner
 ||mwbhwpawseqch.website^
 ||mwbilx.pisos.com^
 ||mwciqnfkyvqtq.website^
+||mwefxgtrcg.com^
 ||mweujqszechsw.site^
 ||mwf7.montecarlowellness.com^
 ||mwhjmncborxmg.website^
@@ -97558,7 +97636,6 @@ zpic.io##.ad-banner
 ||mx278ol2d.com^
 ||mx6.3pornhere.com^
 ||mx7.hayaisushi.com.br^
-||mx8cw0rw.engelabeslami.xyz^
 ||mxana.tacool.com^
 ||mxapis.com^
 ||mxaserver.mxplay.com^
@@ -98095,6 +98172,7 @@ zpic.io##.ad-banner
 ||n2ivsbik2.com^
 ||n2m8u4ae9.com^
 ||n2nc9u5l.xyz^
+||n2pucx3qqqg3lpbie7vr8tehr.rest^
 ||n2xj2mxg3z.com^
 ||n2yju89pe.tlbkbkm2cq18lp9l1xjxe6.cyou^
 ||n3567.com^
@@ -98684,6 +98762,7 @@ zpic.io##.ad-banner
 ||nbvetzyqt.icu^
 ||nbvlkenmkihrl.website^
 ||nbvmqfapkerph.site^
+||nbvmqxuglqoqs.website^
 ||nbwsj9gnd.com^
 ||nbwsvoludimjl.online^
 ||nbxcijnlqfrbd.website^
@@ -99116,6 +99195,7 @@ zpic.io##.ad-banner
 ||neronicenteria.cyou^
 ||nershalom.screenconnect.com^
 ||nersionitsumpute.com^
+||nertjokrhivep.site^
 ||nervesmomentshore.com^
 ||nervessnugissues.com^
 ||nervestrained.com^
@@ -99973,6 +100053,7 @@ zpic.io##.ad-banner
 ||nimbleplot.com^
 ||nimbuswatersystem.com^
 ||nimhuemark.com^
+||nimioustusche.shop^
 ||nimkni7r6lp8rlw2oyi.cfd^
 ||nimrodchelas.cyou^
 ||nimrute.com^
@@ -100391,6 +100472,7 @@ zpic.io##.ad-banner
 ||nnmzonihsonyy.website^
 ||nnobkietqrcdl.online^
 ||nnodugbbotizu.site^
+||nnoedgaggdnkq.com^
 ||nnofmj.studiof.com.co^
 ||nnolplszvuatu.site^
 ||nnoulqmhxrskm.store^
@@ -101357,6 +101439,7 @@ zpic.io##.ad-banner
 ||nvjqm.com^
 ||nvjrxh.nl.bauhaus^
 ||nvkspfigvkvbo.website^
+||nvlteojdxnwmp.online^
 ||nvmkozixnjkwg.website^
 ||nvmrtixasylwt.online^
 ||nvobrvcxjhcbm.online^
@@ -102546,7 +102629,6 @@ zpic.io##.ad-banner
 ||oilycyath.qpon^
 ||oilygams.shop^
 ||oilylimit.com^
-||oim.doganltd.com.tr^
 ||oimg.login.cnbc.com^
 ||oimg.m.calltheclose.cnbc.com^
 ||oimg.mob.cnbc.com^
@@ -102778,6 +102860,7 @@ zpic.io##.ad-banner
 ||olhuaebuicnfr.site^
 ||oliepuvizanlm.site^
 ||olineman.pro^
+||oliniablarny.cyou^
 ||olivedaystee.com^
 ||olivedinflats.space^
 ||oliveiralima.anunciojuridico.com.br^
@@ -103570,6 +103653,7 @@ zpic.io##.ad-banner
 ||ootsthreave.cfd^
 ||ootypenimbler.shop^
 ||ootypetouched.cyou^
+||oouezduuhcwhx.space^
 ||oouhas.cheapcruises.com^
 ||oouth.gooddevil.com^
 ||oouutjpavsxfv.site^
@@ -103729,6 +103813,7 @@ zpic.io##.ad-banner
 ||opsqbrqhqcamb.online^
 ||opt-intelligence.com^
 ||opt.delta.com^
+||opt.doubao.com^
 ||opt.mocortech.com^
 ||opt.worldmarket.com^
 ||opt8.co^
@@ -104198,6 +104283,7 @@ zpic.io##.ad-banner
 ||osmnv.happyhairbrush.com.au^
 ||osmonduprise.qpon^
 ||osmosisfalerno.com^
+||osmundsophionbepart.qpon^
 ||osncrdtgymcux.online^
 ||osnksi.czytam.pl^
 ||oso.ipomea.com^
@@ -104209,6 +104295,7 @@ zpic.io##.ad-banner
 ||ospowqxfyhho.in^
 ||ospreymedialp.com^
 ||oss.cop.lat^
+||oss.weread.qq.com^
 ||ossapp.suning.com^
 ||osseouscuttiesdicast.cfd^
 ||ossgogoaton.com^
@@ -104467,6 +104554,7 @@ zpic.io##.ad-banner
 ||outonebraxate.com^
 ||outpayaperu.shop^
 ||outplotthamus.com^
+||outpost.co.ke^
 ||outprycheir.com^
 ||outpush.net^
 ||outpushauchlet.cyou^
@@ -105386,6 +105474,7 @@ zpic.io##.ad-banner
 ||palelitistsnick.com^
 ||palelouisalife.com^
 ||paletteeasily.com^
+||palharesinformatica.com.br^
 ||palibs.tech^
 ||palibzh.tech^
 ||paliliaimbriumvansire.qpon^
@@ -106536,6 +106625,7 @@ zpic.io##.ad-banner
 ||pcfeoayammroh.website^
 ||pcfsm.villageinn.com^
 ||pcftn.moonbrew.co^
+||pcggarobnjd.com^
 ||pcgkg.beaudindesigns.com^
 ||pcgpjj.bedstyle.jp^
 ||pchur.belkin.com^
@@ -107014,6 +107104,7 @@ zpic.io##.ad-banner
 ||personalparcelmarker.com^
 ||personals-pc-app.com^
 ||personifyproposition.com^
+||personnelsuperiority.com^
 ||personsetruria.cfd^
 ||personyze.com^
 ||perspectivebriefing.com^
@@ -107226,6 +107317,7 @@ zpic.io##.ad-banner
 ||pgtrh.alicelanehome.com^
 ||pgubarjtdghvg.site^
 ||pgugfm.bevilles.com.au^
+||pgvdhmjeqgkxy.site^
 ||pgvqla.lagerhaus.no^
 ||pgxtf6861m918w45g.cfd^
 ||pgxzsmxxdeuua.space^
@@ -107341,8 +107433,8 @@ zpic.io##.ad-banner
 ||phimlongtieng.net/2s.m3u8
 ||phimmoichillz.top/pop$image
 ||phimmoichillz.top^*.gif$image
+||phimsexgaiviet.com^*.gif$image
 ||phimsexhayvne.com^*.gif$image
-||phimsexmoingay.com^*.gif$image
 ||phimsexsuong3x.net^*.gif$image
 ||phimtronbo.pro^
 ||phinnk.airtrip.jp^
@@ -107376,6 +107468,7 @@ zpic.io##.ad-banner
 ||phoenix-content.cresa.com^
 ||phoenix-widget.com^
 ||phoenixad.io^
+||phoenixcomose.shop^
 ||phohwaymashies.qpon^
 ||pholcidhautain.cfd^
 ||phomuabannhadat.com^
@@ -107597,6 +107690,7 @@ zpic.io##.ad-banner
 ||pigmanprimacy.qpon^
 ||pigment-adv.co.il^
 ||pigmentpaper.com^
+||pigmiesgear.cyou^
 ||pignutklaxon.qpon^
 ||pigrootbld.shop^
 ||pigtre.com^
@@ -108310,6 +108404,7 @@ zpic.io##.ad-banner
 ||planetactive.com^
 ||planetapozitiva.ru^
 ||planetarium-planet.com^
+||planetariumobil.ro^
 ||planetup.com^
 ||plangorvesper.shop^
 ||planharnesssuperintendent.com^
@@ -108920,6 +109015,7 @@ zpic.io##.ad-banner
 ||poisurejemima.cfd^
 ||pojnejmzcmbyj.online^
 ||pojyreynpyzim.online^
+||pokerlapwing.shop^
 ||pokese.pro^
 ||pokitom.com^
 ||pokmdwxjpepxg.online^
@@ -108949,10 +109045,8 @@ zpic.io##.ad-banner
 ||police0807work.vercel.app^
 ||police1107rat.vercel.app^
 ||police1107workzlo.vercel.app^
-||police2306work.vercel.app^
 ||police2606work.vercel.app^
 ||policeair.com^
-||policecontrol.vercel.app^
 ||policeonline.club^
 ||policework2307zlo.vercel.app^
 ||policycounsel.org^
@@ -109010,6 +109104,7 @@ zpic.io##.ad-banner
 ||polyh-nce.com^
 ||polymersesamin.qpon^
 ||polymorphicads.jp^
+||polynoenephros.com^
 ||polypsburrer.cyou^
 ||polyvalent.co.in^
 ||polyzoaalkenna.cfd^
@@ -109115,6 +109210,7 @@ zpic.io##.ad-banner
 ||popmonetizer.com^
 ||popmonetizer.net^
 ||popmyads.com^
+||poppastwangpaisan.qpon^
 ||poppersarsars.cyou^
 ||popplantation.com^
 ||poppledwakonda.shop^
@@ -109331,6 +109427,7 @@ zpic.io##.ad-banner
 ||potshawdanging.cyou^
 ||potskolu.net^
 ||potslascivious.com^
+||potsypardine.qpon^
 ||potterimportengineering.com^
 ||pottierrachis.com^
 ||pottounlute.cyou^
@@ -109650,6 +109747,7 @@ zpic.io##.ad-banner
 ||prebid.scope3.com^
 ||prebid.tapatalk.com^
 ||prebidcache.com^
+||prebidly.com^
 ||prebidwrapper.com^
 ||precariouscowardgreatly.com^
 ||precautionnoughtsam.com^
@@ -111551,6 +111649,7 @@ zpic.io##.ad-banner
 ||pwnz.org^
 ||pwocqt.carolina.com^
 ||pwpdz.altrx.com^
+||pwpzzm9kjpfmb3ltzp413yb5j67z.rest^
 ||pwqjufmijalnm.space^
 ||pwr-ads.com^
 ||pwrcoughed.qpon^
@@ -111869,6 +111968,7 @@ zpic.io##.ad-banner
 ||qaghzg.planteon.pl^
 ||qago.qiagen.com^
 ||qagqh.ashandemberoutdoors.com^
+||qagrgbcg.com^
 ||qahmipatkmaj.com^
 ||qahxwy.goosecreekcandle.com^
 ||qaili.kennyflowers.com^
@@ -112452,6 +112552,7 @@ zpic.io##.ad-banner
 ||qkphb.catherines.com^
 ||qkpkzb.iace.co.jp^
 ||qkplapmvmbtbj.online^
+||qkqaqyoomazgs.website^
 ||qkqlqjbbwjob.top^
 ||qkqz220k.jetbet1.xyz^
 ||qkr4uac6tx.com^
@@ -113393,6 +113494,7 @@ zpic.io##.ad-banner
 ||qvmucs.abluestore.com^
 ||qvnpxc.technopark.ru^
 ||qvnsac.aloehonpo.co.jp^
+||qvpjhwwtndf.com^
 ||qvqtga.barenecessities.com^
 ||qvrjg.coach.com^
 ||qvrnatsauhini.website^
@@ -113556,6 +113658,7 @@ zpic.io##.ad-banner
 ||qyvnic.footshop.cz^
 ||qywjep.miniinthebox.com^
 ||qywjvlavaeqkw.top^
+||qywjvlavaevwo.top^
 ||qyxiangr.com^
 ||qyxlypmuckbsw.online^
 ||qyxrwl.com^
@@ -113985,6 +114088,7 @@ zpic.io##.ad-banner
 ||ranlq.homedics.com^
 ||ranmaotome.com^
 ||rannat.varusteleka.com^
+||ranqueltously.shop^
 ||ransommaliciousveneering.com^
 ||ransomnotify.com^
 ||ransomssixtine.com^
@@ -114484,6 +114588,7 @@ zpic.io##.ad-banner
 ||reasoningdreary.com^
 ||reasoningfashionbrood.com^
 ||reasoningiconcealment.com^
+||reastybroughburying.cyou^
 ||reasulty.com^
 ||reatasesetitoefa.com^
 ||reate.info^
@@ -114894,6 +114999,7 @@ zpic.io##.ad-banner
 ||refrainanthony.com^
 ||refrainsitimmovable.com^
 ||refraintsarcoma.com^
+||refreitmarkersclart.cfd^
 ||refreshmould.com^
 ||refriesfossule.cyou^
 ||refugesincrashtachina.cyou^
@@ -115002,6 +115108,7 @@ zpic.io##.ad-banner
 ||reifiesartgum.qpon^
 ||reignstaws.qpon^
 ||reimageplus.com^
+||reimplygena.com^
 ||reindaks.com^
 ||reindeer.cablemod.com^
 ||reindeer.iainbroome.com^
@@ -116038,6 +116145,7 @@ zpic.io##.ad-banner
 ||rhhahzqblcxem.online^
 ||rhhpp.drinkavaline.com^
 ||rhhvkmwlxeyst.store^
+||rhicmlxuqwi.com^
 ||rhighest.cfd^
 ||rhihi.weretheguys.com^
 ||rhinaglauke.cyou^
@@ -116458,6 +116566,7 @@ zpic.io##.ad-banner
 ||rlduhmakdm.com^
 ||rldwideorgan.org^
 ||rlebg.ugears.us^
+||rlfmshrdipiug.space^
 ||rlftd.staples.com^
 ||rlgjhoighzfpf.site^
 ||rlhhlp.icu^
@@ -116504,6 +116613,7 @@ zpic.io##.ad-banner
 ||rm358.com^
 ||rma.homedepot.com^
 ||rmajfshtdeoko.space^
+||rmarhmymxxjgm.website^
 ||rmazxvjbpymsz.website^
 ||rmb-trf.net^
 ||rmbehm.junjewelry.com^
@@ -116857,6 +116967,7 @@ zpic.io##.ad-banner
 ||ropeshippingcatchy.com^
 ||ropesscrapeboutique.com^
 ||ropestem-math.xyz^
+||rophimss.id^*.gif,~third-party
 ||ropiersazerac.cfd^
 ||ropilyunfitsenate.qpon^
 ||roppsipage.cfd^
@@ -117003,6 +117114,7 @@ zpic.io##.ad-banner
 ||royalcactus.com^
 ||royalcare-sy.com^
 ||royalcount.de^
+||royalcuts.co.uk^
 ||royalespring.com^
 ||royalindiancurryclub.com^
 ||royalrabbit.net^
@@ -118149,6 +118261,7 @@ zpic.io##.ad-banner
 ||rumblebass.com^
 ||rumblechakdar.com^
 ||rumblemeetinglank.com^
+||rumblerloiasis.com^
 ||rumdumluggard.cfd^
 ||rumic.beacon40.com^
 ||rummagebowlingacheless.com^
@@ -118395,6 +118508,7 @@ zpic.io##.ad-banner
 ||rwulzuaqsafn.com^
 ||rwupyp.swimmy.fr^
 ||rwvfxkneipjnq.online^
+||rwvgkeijmnjxp.website^
 ||rwwfiiacnksze.online^
 ||rwwmbymaezkla.top^
 ||rwwmbymyqvwba.top^
@@ -119510,7 +119624,6 @@ zpic.io##.ad-banner
 ||s72h7io4o.com^
 ||s762.pressenterprise.com^
 ||s7rpvlti.bahigo.casino^
-||s7w5r3s2.onebet1x.com^
 ||s7xrlzfa.top^
 ||s811.ketv.com^
 ||s861531437.sc.origins.en25.com^
@@ -120100,6 +120213,7 @@ zpic.io##.ad-banner
 ||samage-bility.icu^
 ||samarketing.sedgwick.com^
 ||sambaads.com^
+||sambalrambler.com^
 ||sambarunpaced.shop^
 ||sambasclip.cfd^
 ||sambascoster.qpon^
@@ -121956,6 +122070,7 @@ zpic.io##.ad-banner
 ||seekbang.com^
 ||seekdaters.com^
 ||seekfinddate.com^
+||seekingdreams.com^
 ||seekinggheberrucking.qpon^
 ||seekingquest.com^
 ||seekmymatch.com^
@@ -122349,6 +122464,7 @@ zpic.io##.ad-banner
 ||septumssunyata.qpon^
 ||sepvbm.fromyouflowers.com^
 ||sepyra.com^
+||sepznrnfbroar.site^
 ||seqbxxrpkkiaj.space^
 ||seqmfwzsktmuj.site^
 ||seqtieless.cfd^
@@ -129140,6 +129256,7 @@ zpic.io##.ad-banner
 ||shapecampagi.qpon^
 ||shapecamping.com^
 ||shapecomb.com^
+||shapeupslimish.shop^
 ||shapierconjon.cfd^
 ||shapo.fun^
 ||shaptanrobinet.cyou^
@@ -129357,6 +129474,7 @@ zpic.io##.ad-banner
 ||shn.brandfull.com^
 ||shn.technova1.com^
 ||shnegttccwnom.site^
+||shntfrcsspugb.space^
 ||shoagloumtoamir.net^
 ||shoalsbrowed.cfd^
 ||shoalsirate.shop^
@@ -130199,6 +130317,7 @@ zpic.io##.ad-banner
 ||signal.unitechmaintenance.ae^
 ||signal.wida.sa^
 ||signaladsdirect.top^
+||signalartists.com^
 ||signalayer.com^
 ||signaldinge.cfd^
 ||signalinstatistics.net^
@@ -130561,6 +130680,7 @@ zpic.io##.ad-banner
 ||sivatwin.qpon^
 ||sivietrremwoa.site^
 ||sivrex.click^
+||sivritepeinsaat.com^
 ||siwashfetcher.top^
 ||six.bikebicycler.com^
 ||six.kroyzo.com^
@@ -130578,6 +130698,7 @@ zpic.io##.ad-banner
 ||sixthlybromate.com^
 ||sixtieschanduy.com^
 ||sixtriplezero.com^
+||sixtyflacket.shop^
 ||sixytpaxhbgoq.space^
 ||siz.sizwater.com^
 ||sizablechosing.cfd^
@@ -130839,7 +130960,6 @@ zpic.io##.ad-banner
 ||skndrct.sokkendirect.nl^
 ||skniymvvknmxx.space^
 ||sknkp.appliednutrition.uk^
-||skolazasisanjepasa.com^
 ||skp.jalg.me^
 ||skppwc.billabong.com.br^
 ||skpxim.namly.se^
@@ -131081,6 +131201,7 @@ zpic.io##.ad-banner
 ||sloto.live^
 ||slotsmiling.com^
 ||slottensuccah.cyou^
+||sloungebrooder.cyou^
 ||slourslicers.com^
 ||slow-attitude.com^
 ||slow-bunch.com^
@@ -136262,6 +136383,7 @@ zpic.io##.ad-banner
 ||soft-update.dev^
 ||soft.110route.com^
 ||soft.bitesoftco.com^
+||soft.wsyhn.com^
 ||softballabnegatemailman.com^
 ||softballpeckrobust.com^
 ||softbank126023203236.bbtec.net^
@@ -136355,6 +136477,7 @@ zpic.io##.ad-banner
 ||solicitorvalvemade.com^
 ||solicitud.pacifico.com.pe^
 ||solid-mall.com^
+||soliderbandhor.cyou^
 ||solidfiles.net^
 ||solidlyrotches.guru^
 ||solidmigraine.com^
@@ -137339,6 +137462,7 @@ zpic.io##.ad-banner
 ||spfopnvmv.com^
 ||spfuiiitfethh.site^
 ||spg.specialtyprogramgroup.com^
+||spgint.com^
 ||spgtm.jogodeouro.bet.br^
 ||sphc.caring4cancer.com^
 ||spherehomeown.qpon^
@@ -138047,7 +138171,6 @@ zpic.io##.ad-banner
 ||srpx.net^
 ||srqxnvjdd.com^
 ||srratl.mona-mode.at^
-||srrealestate.techzonecam.com^
 ||srrncifitkfez.website^
 ||srrxiq.wurth.fr^
 ||srsa.srglobal.com^
@@ -151210,6 +151333,7 @@ zpic.io##.ad-banner
 ||static.hyprmx.com^
 ||static.i-bidder.com^
 ||static.ichehome.com^
+||static.ilclock.com^
 ||static.imagineobx.com^
 ||static.imprexis.biz^
 ||static.infinety.hu^
@@ -153474,6 +153598,7 @@ zpic.io##.ad-banner
 ||straitrootbaron.com^
 ||straitsintentionsbedroom.com^
 ||straitspiral.com^
+||strakeolluck.shop^
 ||strandedenragefiscal.com^
 ||strandedgame.com^
 ||strandedidiommembership.com^
@@ -153970,6 +154095,7 @@ zpic.io##.ad-banner
 ||subsistpocosen.cyou^
 ||substantialbabjuxtapose.com^
 ||substantialconcentration.com^
+||substantialcurrency.pro^
 ||substantialequilibrium.com^
 ||substantialgrade.com^
 ||substantialmutinousfrecklessfreckless.com^
@@ -154038,6 +154164,7 @@ zpic.io##.ad-banner
 ||suczjwsoelppw.site^
 ||sud.holidays.hrs.de^
 ||sudanicknudsenorillon.cyou^
+||sudariocontabilidade.com.br^
 ||sudarypease.cfd^
 ||sudatetrifler.qpon^
 ||sudcj.steepcycling.com^
@@ -154224,6 +154351,7 @@ zpic.io##.ad-banner
 ||suncanny.marvel.com^
 ||suncanny.marvelhq.com^
 ||suncitykhuyenmai.click^
+||sundaesstigmalaargh.cfd^
 ||sundaycomplicate.com^
 ||sundayplough.com^
 ||sundaysky.com^
@@ -154954,7 +155082,6 @@ zpic.io##.ad-banner
 ||swiftchromiczizzled.cyou^
 ||swiftemergency.pro^
 ||swiftenwhindle.com^
-||swiftfusion.tech^
 ||swiftiemisdoneromal.cfd^
 ||swiftintro.com^
 ||swiftladle.com^
@@ -157219,6 +157346,7 @@ zpic.io##.ad-banner
 ||taixiumomo.com^
 ||taixiumomo.me^
 ||taixiumomo.net^
+||taizi.fdstat.vip^
 ||tajdmtszoslff.site^
 ||tajikicubhood.cfd^
 ||tajsq.fairmont-sonoma.com^
@@ -157244,6 +157372,7 @@ zpic.io##.ad-banner
 ||talapop.ir^
 ||talckyslodder.top^
 ||talcoidsakis.com^
+||talcoseliukiu.com^
 ||taldpq.francfranc.com^
 ||talefrisks.shop^
 ||talent-stage.intuit.com^
@@ -157273,6 +157402,7 @@ zpic.io##.ad-banner
 ||talpa-analytics.
 ||talpa-analytics.com^
 ||talpiddel.qpon^
+||talpiddullity.com^
 ||talpoidaerage.cyou^
 ||talroebnwhbif.space^
 ||talsitcomparer.cfd^
@@ -157358,6 +157488,7 @@ zpic.io##.ad-banner
 ||taoshopsieure.net^
 ||taoshopttv.xyz^
 ||taoyinbiacid.com^
+||taoyinkickerskidders.qpon^
 ||tap-nexus.appspot.com^
 ||tapad.com^
 ||tapchibitcoin.care^
@@ -158504,6 +158635,7 @@ zpic.io##.ad-banner
 ||teindsfritt.com^
 ||teipd.onlinecyclinggear.com^
 ||tejanobuccula.cfd^
+||tejxthyxavhfb.site^
 ||teksishe.net^
 ||tektositorrifytahltan.qpon^
 ||tekyaferule.shop^
@@ -158516,6 +158648,7 @@ zpic.io##.ad-banner
 ||telecid.ru^
 ||telecome.cn^
 ||telecomout502.net^
+||teleconcepts.net^
 ||teledusdoeg.com^
 ||telegram.app0w.ltd^
 ||telegraph.prd.api.discomax.com^
@@ -159351,6 +159484,7 @@ zpic.io##.ad-banner
 ||thonalbxtwvkw.site^
 ||thonchoosy.qpon^
 ||thongaposole.cfd^
+||thongedreperks.cfd^
 ||thongke.24h.com.vn^
 ||thongke.arttimes.vn^
 ||thongke.baotintuc.vn^
@@ -159392,6 +159526,7 @@ zpic.io##.ad-banner
 ||thragmoth.com^
 ||thraittidz.com^
 ||thralgrean.com^
+||thrashwrist.cyou^
 ||threadpassivetrespass.com^
 ||threatdetect.org^
 ||threatenedolympicsbecomes.com^
@@ -159411,6 +159546,7 @@ zpic.io##.ad-banner
 ||thrillsiridian.com^
 ||thrive.berlowrahman.scot^
 ||thrive.metagenics.com^
+||thrivenstoae.qpon^
 ||thrivingmarketplace.com^
 ||throatentrepreneur.com^
 ||throbbingcometprobability.com^
@@ -159958,6 +160094,7 @@ zpic.io##.ad-banner
 ||titermotty.qpon^
 ||titheanodesnumac.qpon^
 ||tithedsphagia.cfd^
+||tithesmopeder.cfd^
 ||titiesphilterlopeman.cfd^
 ||titismimmoud.com^
 ||titki55.cc^
@@ -160278,6 +160415,7 @@ zpic.io##.ad-banner
 ||tkb.taximarc-knokke.be^
 ||tkbo.com^
 ||tkbtgedqqopnz.site^
+||tkbuuvtrsskab.website^
 ||tkcatrun.aotter.net^
 ||tkcatwalk.aotter.net^
 ||tkccn.madhappy.com^
@@ -161040,7 +161178,6 @@ zpic.io##.ad-banner
 ||toplist.sk^
 ||toplist100.org^
 ||topmalaysia.com^
-||topmark-tuitioncentre.co.uk^
 ||topmomo.me^
 ||topmomo.net^
 ||topmomo.win^
@@ -161376,6 +161513,7 @@ zpic.io##.ad-banner
 ||tpufe.centuryhomesamerica.com^
 ||tpviet38.com^
 ||tpviet68.com^
+||tpvqrzryebtfhu.com^
 ||tpvwydmtfmjlt.site^
 ||tpx.tesseradigital.com^
 ||tpxludqpybpkx.store^
@@ -162693,6 +162831,7 @@ zpic.io##.ad-banner
 ||track-ecpost.click^
 ||track-ecpost.xyz^
 ||track-mixer.ru^
+||track-na2.hubspot.com^
 ||track-resource.bidease.com^
 ||track-s-f4c70430.everreal.co^
 ||track-srv.vietnamnet.vn^
@@ -166797,6 +166936,7 @@ zpic.io##.ad-banner
 ||trueselfkeys.com^
 ||truffeleveche.com^
 ||trugaze.io^
+||trugguildry.cyou^
 ||truglechery.cyou^
 ||truiedqxeixlt.site^
 ||truismlodge.cfd^
@@ -167664,7 +167804,9 @@ zpic.io##.ad-banner
 ||tvjjo.pretavoir.co.uk^
 ||tvkfms.nta.co.jp^
 ||tvkfxtoydfqtf.online^
+||tvkladovo.com^
 ||tvknglirv.jadoou.space^
+||tvkvhjiwcfvgv.website^
 ||tvkygzrsdfycp.space^
 ||tvlhgokjy.com^
 ||tvlmzx.icu^
@@ -167818,6 +167960,7 @@ zpic.io##.ad-banner
 ||twistloss.com^
 ||twisty.net^
 ||twistyscash.com^
+||twitch.tj^
 ||twitchegotistical.com^
 ||twitob.com^
 ||twittad.com^
@@ -169201,6 +169344,7 @@ zpic.io##.ad-banner
 ||unburntchetah.cyou^
 ||unbusytophi.cyou^
 ||unbuttonexcellentsubway.com^
+||unbuxomeyrant.qpon^
 ||uncadyaewiajd.online^
 ||uncanedlidia.qpon^
 ||uncanedraisons.com^
@@ -169606,6 +169750,7 @@ zpic.io##.ad-banner
 ||unsnugdioritekinks.qpon^
 ||unsoggydipodelocker.cyou^
 ||unspeednoddi.cyou^
+||unspicysarcel.shop^
 ||unstableshakenspecimen.com^
 ||unstablesurroundingpowerfully.com^
 ||unstackviands.com^
@@ -169707,6 +169852,7 @@ zpic.io##.ad-banner
 ||unwritmirific.com^
 ||unwrittenfront.com^
 ||unwrittenheight.pro^
+||unynuatetmujq.space^
 ||unyzea.aboutyou.sk^
 ||uoakp.leminimacaron.com^
 ||uoarghkmwxcvj.website^
@@ -169832,6 +169978,7 @@ zpic.io##.ad-banner
 ||upeex.com^
 ||upendedmoolvee.shop^
 ||upendmire.cyou^
+||upfieldswirly.cyou^
 ||upfithzjdhsii.site^
 ||upfleeacraze.com^
 ||upflyhippy.cyou^
@@ -169848,6 +169995,7 @@ zpic.io##.ad-banner
 ||upholdbrilliancerecast.com^
 ||upiwsqxrhnwzl.online^
 ||upjakrsvmucdc.website^
+||upjjlwirqifhe.space^
 ||upjvixrxinncr.space^
 ||upk8rvnck.com^
 ||upkmxceubeyuz.space^
@@ -170891,6 +171039,7 @@ zpic.io##.ad-banner
 ||utsssl.auction.co.kr^
 ||utsssl.gmarket.co.kr^
 ||utt.impactcdn.com^
+||uttapcbutqpxx.website^
 ||uttbtgsqxi.com^
 ||utteredadisappo.com^
 ||uttererunsoft.com^
@@ -171216,6 +171365,7 @@ zpic.io##.ad-banner
 ||uzocxzrbkcrpk.online^
 ||uzokb1ivryvorr28cuhhhx2nb2p.cfd^
 ||uzomkrhmlseld.online^
+||uzpeknzwsbtcj.website^
 ||uzpkre.connor.com.au^
 ||uzptr.chubbiesshorts.com^
 ||uzpuaveerqjei.site^
@@ -171313,6 +171463,7 @@ zpic.io##.ad-banner
 ||v5rv8mnfk.com^
 ||v700rtlhd.com^
 ||v7d8v.brilliance.com^
+||v7lz1r586rh7eur3guthbj.cfd^
 ||v7yp4wts.fourstarcampground.com^
 ||v812.lakecountystar.com^
 ||v84tz11w7.com^
@@ -171748,6 +171899,7 @@ zpic.io##.ad-banner
 ||vbcyjhxqcfanz.site^
 ||vbdozzrdqluca.store^
 ||vbe.voyage-prive.be^
+||vbeeeleqvjeaz.top^
 ||vbeeeleqvjelq.top^
 ||vbefb.goclove.com^
 ||vbere.deasy.co.il^
@@ -172014,7 +172166,6 @@ zpic.io##.ad-banner
 ||veitgov.cc^
 ||vekekc.nissanblainville.com^
 ||vekmygssmfyov.online^
-||vektorex.com^
 ||velarium.cc^
 ||velaro.com^
 ||velarsscorny.cfd^
@@ -172918,6 +173069,7 @@ zpic.io##.ad-banner
 ||villainous-track.pro^
 ||villainoussession.com^
 ||villainshogged.cfd^
+||villanchiffer.cyou^
 ||villanwinnocksetsman.cfd^
 ||villarsepta.cyou^
 ||villavanmost.qpon^
@@ -173755,6 +173907,7 @@ zpic.io##.ad-banner
 ||vnvietjet.com^
 ||vnviettel.com^
 ||vnvklhydurflj.online^
+||vnvsjeatstriv.online^
 ||vnvws.theirnibs.com^
 ||vnwhzk.togas.com^
 ||vnwish.shop^
@@ -175308,6 +175461,7 @@ zpic.io##.ad-banner
 ||waudeesestew.com^
 ||waudit.cz^
 ||waughtsallotedhoicked.cfd^
+||waukingrowleycoxite.cyou^
 ||waulspeter.com^
 ||waulzelnvh.com^
 ||wauqomhjliawq.store^
@@ -176786,6 +176940,7 @@ zpic.io##.ad-banner
 ||whichdespite.com^
 ||whicheverspeaklights.com^
 ||whichfreely.com^
+||whichknee.pro^
 ||whichmeu.com^
 ||whickerkarates.com^
 ||whiddedscaly.com^
@@ -177300,7 +177455,6 @@ zpic.io##.ad-banner
 ||witpux.habitaclia.com^
 ||witsafenuddleunbaked.qpon^
 ||witssnoopacceleration.com^
-||wittenhorst.eu^
 ||witticism19.top^
 ||wittypopcorn.com^
 ||wittyshack.com^
@@ -177608,6 +177762,7 @@ zpic.io##.ad-banner
 ||wneprfkzrpnfs.space^
 ||wnfwzx.panpacific.com^
 ||wngegvxrgpsvm.site^
+||wngmkwqasactorn.com^
 ||wngphwgajdaek.space^
 ||wngtyiufnsuhp.online^
 ||wngyjr.sportservice.pl^
@@ -177886,6 +178041,7 @@ zpic.io##.ad-banner
 ||wotelura.qpon^
 ||wotenvrlbybjm.website^
 ||wotrtejuucetk.space^
+||wottethshunted.qpon^
 ||wotzzqhswsggm.website^
 ||woudaufe.net^
 ||wouhhfarrpkfz.online^
@@ -178291,6 +178447,7 @@ zpic.io##.ad-banner
 ||wtzqznypmadeo.store^
 ||wu2088-603.shop^
 ||wuaafacwszsqh.store^
+||wuathyrid.cfd^
 ||wubbueiu.betpublic.casino^
 ||wubizigeng.com^
 ||wucnlk.demeterfragrance.com^
@@ -178335,6 +178492,7 @@ zpic.io##.ad-banner
 ||wuofkjhdaowoq.space^
 ||wuporg.com^
 ||wuqlgnyasteaf.site^
+||wuqxugxuh.in^
 ||wurfl.io^
 ||wurflcloud.com^
 ||wurldcergpkri.site^
@@ -178505,7 +178663,6 @@ zpic.io##.ad-banner
 ||www.almirallhcp.com^
 ||www.alphalete.com.se^
 ||www.americanweeklynews.com^
-||www.angelwingsmemorygowns.org/uploads/*-www.worldsbiggestwaterslide.com-*.
 ||www.anritsu-apsr-response.com^
 ||www.aonunited.com^
 ||www.appassets.androidplatform.net.iberostar.com^
@@ -178649,6 +178806,7 @@ zpic.io##.ad-banner
 ||www.nx.socialhabitmarketing.com^
 ||www.omcservicessales.com^
 ||www.on24-webinars.co.uk^
+||www.onewayind.com/uploads/*-www.worldsbiggestwaterslide.com-*.
 ||www.orionkeraily.fi^
 ||www.p.de^
 ||www.partner.hubatacernoska.cz^
@@ -178999,6 +179157,7 @@ zpic.io##.ad-banner
 ||wytesdowned.shop^
 ||wytnrgtxsgvwo.online^
 ||wytxpe.zarpo.com.br^
+||wyuaxwofqyyzd.space^
 ||wyujsbwlvzhqp.website^
 ||wyuxy.com^
 ||wyvcioftcidpi.space^
@@ -179135,6 +179294,7 @@ zpic.io##.ad-banner
 ||x4mw3x96nwxnwf1b.cfd^
 ||x5.jougennotuki.com^
 ||x5jxr48c58v7jqxpzp8vw4b4vlq15ox.rest^
+||x5qfmuzyeftep8n3wmmbc3n8.cfd^
 ||x5x.uxf6gkki26h8hx8p49885e.cyou^
 ||x680.sgvtribune.com^
 ||x6d93mku0.com^
@@ -179268,6 +179428,7 @@ zpic.io##.ad-banner
 ||xbmady.daimaru-matsuzakaya.jp^
 ||xbmbg.iliabeauty.com^
 ||xbmkl.moonbrew.co^
+||xbnmjrjlfyyai.site^
 ||xbntrnsfgmhiw.space^
 ||xbold171e.com^
 ||xbosvsupnbtzx.website^
@@ -180858,6 +181019,7 @@ zpic.io##.ad-banner
 ||xmqjq.montelleintimates.com^
 ||xmqrvx.jewelry-queen-shop.com^
 ||xmqsqhooeqnrr.site^
+||xmqyjruq.com^
 ||xmrmngqivbgpx.site^
 ||xmrqo.2y2z3bpqp1trkh9k.cyou^
 ||xms.lol^
@@ -180903,7 +181065,7 @@ zpic.io##.ad-banner
 ||xneyeaoqjhayv.site^
 ||xnfbhzbvsyepf.online^
 ||xnfjictwvrnuz.site^
-||xnhau.blog^$media,domain=xnhau.limo
+||xnhau.blog^$media,domain=xnhau.free
 ||xniyaklqxkech.website^
 ||xnjkjowmtijwa.online^
 ||xnkldnhifcdmr.site^
@@ -181052,6 +181214,7 @@ zpic.io##.ad-banner
 ||xqbhmyyk.powershart.com^
 ||xqcddwvyvoubd.space^
 ||xqcesbjrtzwzg.space^
+||xqcwxsgbvclto.space^
 ||xqdwwj.medpeer.jp^
 ||xqedtqzjdjheh.space^
 ||xqfikpeuitfvn.online^
@@ -181710,6 +181873,7 @@ zpic.io##.ad-banner
 ||y2o57pzzx.com^
 ||y2vfr9mzx7wxqlxvfu.3jgyicowryr7kcm.cyou^
 ||y2vorexg2u.com^
+||y32me8.com^
 ||y35wrujasg-ldap.net.mydays.de^
 ||y4.o2v2nj7l366i9ihty6oq2ofrixm1fly.cyou^
 ||y40milgijh.com^
@@ -182219,7 +182383,6 @@ zpic.io##.ad-banner
 ||ygimtxlxvzozz.space^
 ||ygjgemkoeoafk.site^
 ||ygkswbscgvukj.space^
-||ygl9tk3l.ekhtelalattabrizi.xyz^
 ||ygmpia.worten.pt^
 ||ygncvlnvzvsco.website^
 ||ygofdxgqlnptp.site^
@@ -182920,6 +183083,7 @@ zpic.io##.ad-banner
 ||yrjeagvel.com^
 ||yrjlryrvowjzd.website^
 ||yrjpgjv35y9x.salud-masculina.info^
+||yrkikbyasyvwb.online^
 ||yrkuhr.mysoft.hu^
 ||yrlkmglnttcve.online^
 ||yrlkte.in360.pl^
@@ -183269,6 +183433,7 @@ zpic.io##.ad-banner
 ||yx-ads6.com^
 ||yx1.managershare.com^
 ||yxbzyppfgrhze.site^
+||yxcruyhkddqkn.site^
 ||yxcxfseivgvaw.online^
 ||yxcxheuw.net^
 ||yxeawgomuxnix.space^
@@ -183977,6 +184142,7 @@ zpic.io##.ad-banner
 ||zeziswrbpmhez.site^
 ||zezxeuydapept.site^
 ||zezyjywrvqrae.top^
+||zezyjywrvqwoq.top^
 ||zf56jef1dd.com^
 ||zf82e23p.behtarin-site-shartbandi-football.com^
 ||zfamagnky.com^
@@ -184774,6 +184940,7 @@ zpic.io##.ad-banner
 ||zpnrnr.ab-in-den-urlaub.de^
 ||zppdh.teedays.com^
 ||zppfgh.renovatuvestidor.com^
+||zppvjakzlptsd.site^
 ||zpqbb.hopskipmedia.com^
 ||zpqck.fromourplace.ca^
 ||zpqfqxoczrwfq.space^
@@ -184811,6 +184978,7 @@ zpic.io##.ad-banner
 ||zqjklzlezklj.top^
 ||zqjljeywjvqlo.top^
 ||zqkdzl.invia.sk^
+||zqklybeaghqhk.online^
 ||zqlgc.facethefuture.co.uk^
 ||zqmblmvzkvwmb.top^
 ||zqmhl8lgj.com^
