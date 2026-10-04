@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-04 05:23:18
-! Rules: 11730
+! Updated: 2026-10-04 16:43:07
+! Rules: 11718
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -513,6 +513,7 @@
 @@||aax-eu.amazon.pl^
 @@||aax-eu.amazon.sa^
 @@||aax-eu.amazon.se^
+@@||aax-events-*.axp.amazon-adsystem.com^
 @@||aax-fe-retail-direct.amazon-adsystem.com^
 @@||aax-fe.amazon.co.jp^
 @@||aax-fe.amazon.com.au^
@@ -1863,7 +1864,6 @@
 @@||cga.marketing^
 @@||cga.social^
 @@||cgatx.com^
-@@||cgrp.io^
 @@||cgvoice.live^
 @@||ch.run^
 @@||ch0p.darty.com^
@@ -1903,7 +1903,6 @@
 @@||chort.me^
 @@||chts.tw^
 @@||chuchik.com^
-@@||chunkylinks.com^
 @@||chx.to^
 @@||chzb.gr^
 @@||ci8.de^
@@ -1958,7 +1957,6 @@
 @@||clckr.pw^
 @@||clcktrck.com^
 @@||cle.clinic^
-@@||cleanhockinghills.com^
 @@||cleanuri.com^
 @@||clearstream.io^
 @@||cleverlink.pro^
@@ -1972,7 +1970,6 @@
 @@||clicai.xyz^
 @@||click*.redbrain.com^
 @@||click*.taobao.com^
-@@||click-genius.com^
 @@||click-goo.com^
 @@||click-myl.ink^
 @@||click-tracking.klarna.net^
@@ -2009,7 +2006,6 @@
 @@||click.instantink.hpsmart.com^
 @@||click.justwatch.com^
 @@||click.klarna.de^
-@@||click.krd^
 @@||click.landsend.com^
 @@||click.linksynergy.com^
 @@||click.mail.macmillan.com^
@@ -2087,7 +2083,6 @@
 @@||cliow.com^
 @@||clip-url.vercel.app^
 @@||clipi.cc^
-@@||clipitx.com^
 @@||cliplink.co^
 @@||cliplinkly.com^
 @@||clipmy.link^
@@ -2195,7 +2190,6 @@
 @@||compatha.com^
 @@||comphi.st^
 @@||config.uca.cloud.unity3d.com^$important
-@@||congress.international^
 @@||conify.cc^
 @@||connect.intel.com^
 @@||connectivitycheck.gstatic.com^$important
@@ -2289,7 +2283,6 @@
 @@||cs.co^
 @@||cse.google.com^$important
 @@||cse3.chausport.com^
-@@||csepyl.com^
 @@||cshd.kz^
 @@||cshort.org^
 @@||csinc.bz^
@@ -2314,7 +2307,6 @@
 @@||ctldl.windowsupdate.com^$important
 @@||ctos.xyz^
 @@||ctr.sh^
-@@||ctrllinks.com^
 @@||cts.businesswire.com^
 @@||cts.vresp.com^
 @@||ctse-registry.com^
@@ -2322,7 +2314,6 @@
 @@||cturl.me^
 @@||ctx.ink^
 @@||cu7.co^
-@@||cuanbio.com^
 @@||cuer.io^
 @@||cukbaray.com^
 @@||cultm.ac^
@@ -2384,7 +2375,6 @@
 @@||cuts2.com^
 @@||cutt.al^
 @@||cutt.cx^
-@@||cutt.ee^
 @@||cutt.eu^
 @@||cutt.lol^
 @@||cutt.ly^
@@ -2422,7 +2412,6 @@
 @@||cyamn.com^
 @@||cyb.ec^
 @@||cybr.fr^
-@@||cybr.rocks^
 @@||cyrmp.com^
 @@||cyte.in^
 @@||cyunz.com^
@@ -2504,7 +2493,6 @@
 @@||dd.ma^
 @@||ddbfx.com^
 @@||ddlsu.com^
-@@||ddot.click^
 @@||ddot.to^
 @@||ddp.net^
 @@||ddw.nu^
