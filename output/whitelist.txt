@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-04 16:43:07
-! Rules: 11718
+! Updated: 2026-10-05 05:06:36
+! Rules: 11714
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -2568,7 +2568,6 @@
 @@||diagmon-serviceapi.samsungdm.com^$important
 @@||diato.lol^
 @@||dibb.me^
-@@||dicht.digital^
 @@||did.li^
 @@||diek.li^
 @@||dienstleister-website.de^
@@ -2672,7 +2671,6 @@
 @@||dostupevent.com^
 @@||dotalink.com^
 @@||dotjournal.net^
-@@||dotshrt.com^
 @@||dotsth.co^
 @@||doturl.io^
 @@||dourl.pl^
@@ -2689,7 +2687,6 @@
 @@||dpmd.ai^
 @@||dpo.st^
 @@||dps.media^
-@@||dpuplet.net^
 @@||dqr4.org^
 @@||dr-lisa.life^
 @@||drag.li^
@@ -4727,7 +4724,6 @@
 @@||kutt.comodo.com^
 @@||kutt.crmgroup.ru^
 @@||kutt.csweb.cloud^
-@@||kutt.droppii.vn^
 @@||kutt.druidry.org^
 @@||kutt.ecoat.us^
 @@||kutt.gongchatea.com.au^
