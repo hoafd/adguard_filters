@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-05 05:06:36
-! Rules: 11714
+! Updated: 2026-10-06 05:53:11
+! Rules: 11713
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -2857,6 +2857,7 @@
 @@||edoin.com^
 @@||eds.xboxlive.com^$important
 @@||edu.nl^
+@@||edurl.fr^
 @@||edze.me^
 @@||ee.ci^
 @@||ee9.ir^
@@ -2970,7 +2971,6 @@
 @@||eresear.ch^
 @@||ericadams.link^
 @@||erikarydberghall.com^
-@@||eru2earn.com^
 @@||erw.cz^
 @@||es.pn^
 @@||esa.my^
@@ -4982,7 +4982,6 @@
 @@||link.digitaladvisor.dk^
 @@||link.dith2.com^
 @@||link.dstrct.at^
-@@||link.dvlog.vn^
 @@||link.easwipe.com^
 @@||link.ee^
 @@||link.elos.vc^
