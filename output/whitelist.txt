@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-11 05:15:00
-! Rules: 11663
+! Updated: 2026-10-11 17:35:26
+! Rules: 11637
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -7638,7 +7638,6 @@
 @@||safelinkearn.com^
 @@||safelinking.net^
 @@||safelinku.com^
-@@||safely.to^
 @@||saferurl.net^
 @@||safeurl.ch^
 @@||safl.it^
@@ -7733,8 +7732,6 @@
 @@||scuf.co^
 @@||scur.cat^
 @@||scurt.eu^
-@@||sd7.in^
-@@||sdfq3cf.site^
 @@||sdk-log-upload-os.hoyoverse.com^$important
 @@||sdk-os-static.hoyoverse.com^$important
 @@||sdk.pushmessage.samsung.com^$important
@@ -7798,7 +7795,6 @@
 @@||senseifarm.com^
 @@||seocantik.link^
 @@||seogilak.lol^
-@@||seolegend.link^
 @@||seorumahtoto.com^
 @@||seotoolify.com^
 @@||seotoolsaudit.com^
@@ -7811,7 +7807,6 @@
 @@||serveracts.net^
 @@||serverluar.com^
 @@||serverluar.net^
-@@||serverpa.rs^
 @@||services.dental^
 @@||services.sonarr.tv^$important
 @@||sesoft.id^
@@ -7881,7 +7876,6 @@
 @@||ship.bunnycart.com^
 @@||shkurt.al^
 @@||shlink-app.ifo.am^
-@@||shlink.id^
 @@||shlink.in^
 @@||shlink.io^
 @@||shlinks.site^
@@ -7985,7 +7979,6 @@
 @@||shortcut-url.vercel.app^
 @@||shortcut.ac^
 @@||shortduck.com^
-@@||shorte.bio^
 @@||shorte.ink^
 @@||shorte.pro^
 @@||shorte.st^
@@ -8127,7 +8120,6 @@
 @@||shortme.xyz^
 @@||shortmenu.com^
 @@||shortmylink.co^
-@@||shortmyurl.app^
 @@||shortn.link^
 @@||shortna.me^
 @@||shortnd.com^
@@ -8184,7 +8176,6 @@
 @@||shorturl.vtcode.vn^
 @@||shorturl.win^
 @@||shorturl.ws^
-@@||shorturl4me.com^
 @@||shorturl88.com^
 @@||shorturlapp.com^
 @@||shorturlbot.com^
@@ -8272,7 +8263,6 @@
 @@||shrtco.de^
 @@||shrtct.pro^
 @@||shrten.com^
-@@||shrten.io^
 @@||shrten.us^
 @@||shrter.de^
 @@||shrtfly.com^
@@ -8417,7 +8407,6 @@
 @@||slicethis.link^
 @@||slickdeals.net^
 @@||slidesha.re^
-@@||slimeteam.live^
 @@||slimlink.com^
 @@||slims.us^
 @@||slimu.in^
@@ -8531,9 +8520,7 @@
 @@||snip.ng^
 @@||snipify.net^
 @@||snipitx.com^
-@@||snipix.tech^
 @@||sniplink.co^
-@@||sniplnk.co^
 @@||sniply.io^
 @@||sniply.me^
 @@||sniplytics.com^
@@ -8541,11 +8528,8 @@
 @@||snipp.dev^
 @@||snipr.com^
 @@||snipurl.com^
-@@||snipurl.dev^
 @@||snipurl.net^
-@@||snipy.co^
 @@||snipzr.com^
-@@||snizova.com^
 @@||snplink.com^
 @@||snpy.link^
 @@||snurl.com^
@@ -8564,7 +8548,6 @@
 @@||socx.in^
 @@||softyfy.com^
 @@||sokrati.ru^
-@@||solink.in^
 @@||solinks.com.br^
 @@||solsn.se^
 @@||solution.weborama.fr^
@@ -8638,7 +8621,6 @@
 @@||sq6.ru^
 @@||sqex.to^
 @@||sqr.co^
-@@||sqrl.it^
 @@||sqrx.io^
 @@||squ.re^
 @@||squadgen.com^
@@ -8732,7 +8714,6 @@
 @@||stre4m.vercel.app^
 @@||strikersoftsolutions.com^
 @@||strk12.link^
-@@||strywon.com^
 @@||stspg.io^
 @@||stts.in^
 @@||stuf.in^
@@ -8770,14 +8751,12 @@
 @@||supercool.marketing^
 @@||superpages.com^
 @@||supershort.to^
-@@||superurl.io^
 @@||superxavier.link^
 @@||support.precisioncontent.com^
 @@||supr.cl^
 @@||supr.link^
 @@||supurlman.com^
 @@||sur.ly^
-@@||surayafans.com^
 @@||surkali.me^
 @@||surl.be^
 @@||surl.co.in^
@@ -8838,7 +8817,6 @@
 @@||synd.co^
 @@||syr.im^
 @@||syr.us^
-@@||sysclicks.com^
 @@||system360.inistrack.net^
 @@||syurl.com^
 @@||syw.co^
@@ -8897,7 +8875,6 @@
 @@||t2m.onl^
 @@||t2mio.com^
 @@||t2mio.pulsem.me^
-@@||t2mm.bio^
 @@||t2r.lv^
 @@||t77reg.click^
 @@||ta.co^
@@ -9025,7 +9002,6 @@
 @@||texas88register.com^
 @@||texas88vvip.org^
 @@||texasbisa.org^
-@@||texmlink.com^
 @@||texn.cc^
 @@||text2reach.lv^
 @@||textmydeals.com^
@@ -9073,7 +9049,6 @@
 @@||thesa.us^
 @@||theseotools.net^
 @@||theshortener.com^
-@@||thesimstitute.com^
 @@||thesne.ws^
 @@||thesocial.vip^
 @@||thetim.es^
@@ -9099,7 +9074,6 @@
 @@||thryt.com^
 @@||thts.gg^
 @@||thunderhoodielinks.com^
-@@||thursik.com^
 @@||thutool.com^
 @@||ti-ny.link^
 @@||ti.me^
