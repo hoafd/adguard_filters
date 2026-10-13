@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-13 06:25:34
-! Rules: 11611
+! Updated: 2026-10-13 19:07:50
+! Rules: 11601
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -978,7 +978,6 @@
 @@||app.univ-cotedazur.fr^
 @@||app.url180.com^
 @@||app.veryimportantlink.com^
-@@||app.workdog.cc^
 @@||appbitly.com^
 @@||appboot.netflix.com^$important
 @@||appcurt.com^
@@ -10043,6 +10042,7 @@
 @@||urls-short.de^
 @@||urls-shortener.eu^
 @@||urls.ae^
+@@||urls.aikeeda.com^
 @@||urls.by^
 @@||urls.direct^
 @@||urls.fr^
@@ -10585,7 +10585,6 @@
 @@||wl.co^
 @@||wl.gl^
 @@||wl.spotify.com^
-@@||wlink.us^
 @@||wlinky.com^
 @@||wluuns.com^
 @@||wm.edu^
@@ -10677,7 +10676,6 @@
 @@||wwy.me^
 @@||wx.pn^
 @@||wy.si^
-@@||wyyw.de^
 @@||wz.my^
 @@||x-d.me^
 @@||x-shrtn.com^
@@ -10701,7 +10699,6 @@
 @@||xailr.com^
 @@||xavo.wtf^
 @@||xb5.com^
-@@||xbig.info^
 @@||xbitly.com^
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
@@ -10796,7 +10793,6 @@
 @@||xurl.at^
 @@||xurl.es^
 @@||xurl.jp^
-@@||xurl.pk^
 @@||xurl302.top^
 @@||xut.io^
 @@||xvirt.it^
@@ -10908,7 +10904,6 @@
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
 @@||yourls.pro^
-@@||yourls.website^
 @@||yourwish.es^
 @@||yous.ee^
 @@||youtu.be^$important
@@ -10924,7 +10919,6 @@
 @@||yrl.li^
 @@||ys-log-upload-os.hoyoverse.com^$important
 @@||ysear.ch^
-@@||yshorten.com^
 @@||yt.cool^
 @@||yt3.ggpht.com^$important
 @@||ytimg.com^$important
@@ -10973,7 +10967,6 @@
 @@||zapurl.net^
 @@||zapurls.com^
 @@||zaq.be^
-@@||zarnecka.com^
 @@||zat.ink^
 @@||zaya.io^
 @@||zbitly.com^
@@ -11034,7 +11027,6 @@
 @@||zipurl.link^
 @@||zipurl.net^
 @@||zipurl.vercel.app^
-@@||zipy.me^
 @@||zipzy.in^
 @@||ziturl.com^
 @@||zixso.com^
@@ -11059,7 +11051,6 @@
 @@||zo.cm^
 @@||zobzob.com^
 @@||zoho.to^
-@@||zom.ink^
 @@||zom.io^
 @@||zoneurl.net^
 @@||zoodl.com^
@@ -11108,7 +11099,6 @@
 @@||zyguer.com^
 @@||zynexly.com^
 @@||zynga.my^
-@@||zyp.to^
 @@||zyva.org^
 @@||zywv.us^
 @@||zz-tw.co^
