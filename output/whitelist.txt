@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-14 04:26:18
-! Rules: 11601
+! Updated: 2026-10-14 16:56:55
+! Rules: 11600
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -11374,7 +11374,6 @@ zdbb.net
 ||howsmyssl.com^
 ||hscoscdn20.net^
 ||hsdn.org^
-||html-load.cc^
 ||html-load.com^
 ||hyperdx.io^
 ||hypestat.com^
