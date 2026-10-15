@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-15 04:09:15
-! Rules: 11600
+! Updated: 2026-10-15 16:43:17
+! Rules: 11617
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -631,6 +631,7 @@
 @@||adflydsp.com^
 @@||adfoc.us^
 @@||adform.com^
+@@||adfw2025.com^
 @@||adialerts.com^
 @@||adj.st^
 @@||adjh.pt^
@@ -677,6 +678,7 @@
 @@||adsv.svc.litv.tv^
 @@||adtival.network^
 @@||adtr.ee^
+@@||aduke.bio^
 @@||adurly.cc^
 @@||adv.li^
 @@||adv.pe^
@@ -764,6 +766,7 @@
 @@||akoo.ir^
 @@||akr.gr^
 @@||akses.digital^
+@@||akses.gg^
 @@||akses.me^
 @@||akslot.io^
 @@||aktfclick.com^
@@ -898,6 +901,7 @@
 @@||anon.to^
 @@||anonme.net^
 @@||anonshort.com^
+@@||anonymiz.com^
 @@||anp.su^
 @@||anrdoezrs.net^
 @@||answ.xyz^
@@ -1044,6 +1048,7 @@
 @@||asharq.biz^
 @@||asharq.co^
 @@||ashiap.me^
+@@||asiagacor-77.com^
 @@||asics.tv^
 @@||asin.cc^
 @@||ask.je^
@@ -1229,6 +1234,7 @@
 @@||bca.id^
 @@||bcene.ws^
 @@||bcfyi.ca^
+@@||bch.gg^
 @@||bchf.life^
 @@||bckr.club^
 @@||bcl.ink^
@@ -1480,6 +1486,7 @@
 @@||blap.net^
 @@||blbrd.cm^
 @@||blck.by^
+@@||blddd.com^
 @@||ble.pl^
 @@||bleenk.co^
 @@||blink.hirebiz.com^
@@ -1550,6 +1557,7 @@
 @@||booki.ng^
 @@||bookish.page^
 @@||bookstw.link^
+@@||booplink.com^
 @@||boost.ink^
 @@||boostability.co.in^
 @@||bose.life^
@@ -1635,6 +1643,7 @@
 @@||btf.st^
 @@||bti.ninja^
 @@||btkmgir.com^
+@@||btly.cc^
 @@||btm.li^
 @@||btwrdn.com^
 @@||btyrd.co^
@@ -1685,6 +1694,7 @@
 @@||byestar.com^
 @@||byflexy.com^
 @@||byli.pro^
+@@||bylink.me^
 @@||bynd.li^
 @@||byoo.in^
 @@||bypass.city^
@@ -1846,6 +1856,7 @@
 @@||ce0.net^
 @@||ceag.me^
 @@||cebol.me^
+@@||ceklink.vip^
 @@||celfam.us^
 @@||centi.ai^
 @@||cepat.link^
@@ -1958,6 +1969,7 @@
 @@||cleanuri.com^
 @@||clearstream.io^
 @@||cleverlink.pro^
+@@||cleverurls.com^
 @@||cli.fm^
 @@||cli.gs^
 @@||cli.re^
@@ -2065,6 +2077,7 @@
 @@||clicky.me^
 @@||cliczy.com^
 @@||clientconfig.passport.net^$important
+@@||clientlinks.net^
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
@@ -2110,6 +2123,7 @@
 @@||clkd.io^
 @@||clkdms.com^
 @@||clkon.us^
+@@||clkr.in^
 @@||clktrack.com^
 @@||cllab.co^
 @@||clmp.me^
@@ -7997,6 +8011,7 @@
 @@||shorten.pro^
 @@||shorten.rest^
 @@||shorten.so^
+@@||shorten.teknik.io^
 @@||shorten.tv^
 @@||shorten.world^
 @@||shortened.website^
@@ -8985,6 +9000,7 @@
 @@||tellurl.com^
 @@||tempfind.app^
 @@||tempolink.net^
+@@||temporary-url.com^
 @@||tempurl.replit.app^
 @@||temu.to^
 @@||ter.li^
@@ -9786,6 +9802,7 @@
 @@||upstriderlinks.com^
 @@||upt.sh^
 @@||uptolink.one^
+@@||uptolink1.com^
 @@||uptoplink.com^
 @@||upyun.online^
 @@||upzat.com^
