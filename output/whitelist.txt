@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-15 16:43:17
-! Rules: 11617
+! Updated: 2026-10-16 04:04:48
+! Rules: 11661
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -851,6 +851,7 @@
 @@||amoz.onl^
 @@||ampafy.com^
 @@||ampedlink.com^
+@@||amphoralaundry.com^
 @@||ampifire.digital^
 @@||ampifire.media^
 @@||amplt.de^
@@ -2356,16 +2357,19 @@
 @@||cut.ovh^
 @@||cut.pe^
 @@||cut.sk^
+@@||cut.st^
 @@||cut2.eu^
 @@||cutdown.link^
 @@||cute.link^
 @@||cutearns.com^
 @@||cutelnk.com^
 @@||cuterurlha.xyz^
+@@||cuteurl.co^
 @@||cuteurl.com^
 @@||cutevalues.com^
 @@||cutit.bid^
 @@||cutle.co^
+@@||cutli.to^
 @@||cutlink.now^
 @@||cutlink.space^
 @@||cutlinker.com^
@@ -2422,7 +2426,9 @@
 @@||cya.nz^
 @@||cyamn.com^
 @@||cyb.ec^
+@@||cyberrl.com^
 @@||cybr.fr^
+@@||cyonix.to^
 @@||cyrmp.com^
 @@||cyte.in^
 @@||cyunz.com^
@@ -2465,6 +2471,7 @@
 @@||dasb.io^
 @@||daserste.de^$important
 @@||dashboard.plex.tv^$important
+@@||dat.bio^
 @@||data-linkup.com^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
@@ -2533,11 +2540,13 @@
 @@||delphin.link^
 @@||demcon24.com^
 @@||demolink.net^
+@@||demoxpress.xyz^
 @@||dems.me^
 @@||dentalservices.biz^
 @@||depedzn.net^
 @@||deqdp.com^
 @@||derpy.me^
+@@||descontosachados.com^
 @@||designcommerce.agency^
 @@||designrigs.com^
 @@||desin.me^
@@ -2825,6 +2834,7 @@
 @@||easyuri.com^
 @@||easyurl.net^
 @@||easyurl.site^
+@@||easyurlshortener.com^
 @@||eat.emmasolutions.net^
 @@||eaxcj.com^
 @@||eazify.net^
@@ -3054,6 +3064,7 @@
 @@||ezexzo.link^
 @@||ezilinks.com^
 @@||ezlc.net^
+@@||ezlinkad.com^
 @@||ezlinkcloaker.com^
 @@||ezstat.ru^
 @@||ezurl.cc^
@@ -3069,6 +3080,7 @@
 @@||f1-prod-production.apigee.net^$important
 @@||f1-prod-production.dn.apigee.net^$important
 @@||f1.tf^
+@@||f1m.in^
 @@||f1mate.com^
 @@||f1mrs.codemasters.com^$important
 @@||f1tv-cdn-cent-east.formula1.com.c.footprint.net^$important
@@ -3367,6 +3379,7 @@
 @@||garuda.homes^
 @@||garudeya.com^
 @@||garyvee.com^
+@@||gasely.com^
 @@||gat.to^
 @@||gate-ag.first-id.fr^
 @@||gatoxn.com^
@@ -3684,6 +3697,7 @@
 @@||gohostd.com^
 @@||goink.me^
 @@||goitb.id^
+@@||gol.to^
 @@||goldn.cc^
 @@||golink.bio^
 @@||golink.one^
@@ -3705,6 +3719,7 @@
 @@||goo.by^
 @@||goo.click^
 @@||goo.gle^
+@@||goo.lu^
 @@||goo.re^
 @@||goo.su^
 @@||goo.vc^
@@ -3756,6 +3771,7 @@
 @@||gotolink.host^
 @@||gotolinko.com^
 @@||gotomyl.ink^
+@@||gotos.in^
 @@||gotrackier.com^
 @@||gotravelholidays.com^
 @@||gotu.us^
@@ -3888,6 +3904,7 @@
 @@||help.sap.com^
 @@||help.ui.xboxlive.com^$important
 @@||helvetqr.ch^
+@@||hemihydro.com^
 @@||henslot.urlklik.com^
 @@||hepsipay.eu^
 @@||her.is^
@@ -4167,6 +4184,7 @@
 @@||ilang.in^
 @@||ild.info^
 @@||ilink-to.net^
+@@||ilinky.info^
 @@||ilix.in^
 @@||iljmp.com^
 @@||ilk.ir^
@@ -4323,10 +4341,12 @@
 @@||ishorturl.net^
 @@||isinstance.com^
 @@||islam.qa^
+@@||islinks.site^
 @@||isols.co^
 @@||istel.co^
 @@||isterratrk.com^
 @@||istincy.com^
+@@||istore.ar^
 @@||isuif.com^
 @@||isurl.cc^
 @@||isurt.com^
@@ -4340,6 +4360,7 @@
 @@||itgreen.com.vn^
 @@||ithuxi.com^
 @@||iti.bz^
+@@||itiny.in^
 @@||itlinks.me^
 @@||itly.in^
 @@||itm.im^
@@ -4405,6 +4426,7 @@
 @@||javadocs.org^
 @@||jaw.gg^
 @@||jayan-uvl.com^
+@@||jaygo.xyz^
 @@||jb.gg^
 @@||jbiv.com^
 @@||jcp.is^
@@ -4437,6 +4459,7 @@
 @@||jio.to^
 @@||jiourl.com^
 @@||jitlinks.therichonline.com^
+@@||jitupro.com^
 @@||jitupro.org^
 @@||jjlco.net^
 @@||jkf.lv^
@@ -4587,9 +4610,12 @@
 @@||kilat.ink^
 @@||kilat.io^
 @@||kimmel.trade^
+@@||kingplate.lol^
 @@||kings.tn^
+@@||kingurl.xyz^
 @@||kinky-pipes.com^
 @@||kinnto.me^
+@@||kirimlink.com^
 @@||kirr.co^
 @@||kisa-link.com^
 @@||kisa.link^
@@ -4678,6 +4704,7 @@
 @@||kqzyfj.com^
 @@||kr.pe^
 @@||kr3w.de^
+@@||krat.si^
 @@||kratsi.cz^
 @@||krazy.la^
 @@||krazylinks.com^
@@ -4738,6 +4765,7 @@
 @@||kutt.ural-agro.com^
 @@||kuttify.com^
 @@||kuttix.juniorisep.com^
+@@||kuty.me^
 @@||kuty.us^
 @@||kuxey.com^
 @@||kuyla.me^
@@ -5083,6 +5111,7 @@
 @@||linkbio.co^
 @@||linkbio.it.com^
 @@||linkbio.space^
+@@||linkbiscuit.co^
 @@||linkbite.io^
 @@||linkbitty.com^
 @@||linkbloomer.com^
@@ -5103,6 +5132,7 @@
 @@||linkcomposer.com^
 @@||linkconnector.com^
 @@||linkcrafter.com^
+@@||linkcrypter.com^
 @@||linkcut.io^
 @@||linkcut.net^
 @@||linkcutt.com^
@@ -5300,6 +5330,7 @@
 @@||linkshorteners.com^
 @@||linkshortify.com^
 @@||linkshortner.net^
+@@||linkshortner.online^
 @@||linkshrink.net^
 @@||linkshrink.org^
 @@||linksi.me^
@@ -5361,6 +5392,7 @@
 @@||linky.is^
 @@||linky.ph^
 @@||linky31.com^
+@@||linkybe.com^
 @@||linkye.net^
 @@||linkyvicky.com^
 @@||linkz.tn^
@@ -5421,6 +5453,7 @@
 @@||llclick.com^
 @@||llink.ee^
 @@||llink.to^
+@@||llinks.io^
 @@||llk.dk^
 @@||llo.to^
 @@||llqwtrk.com^
@@ -5611,6 +5644,7 @@
 @@||lynkat.net^
 @@||lynkflow.me^
 @@||lynki.link^
+@@||lynkme.bio^
 @@||lynko.in^
 @@||lynks.in^
 @@||lynkz.in^
@@ -5655,6 +5689,7 @@
 @@||mabelle.retchat.com^
 @@||mable.bio^
 @@||macanplay.click^
+@@||machb.org^
 @@||machess.org^
 @@||maejo.link^
 @@||maga.lu^
@@ -5671,6 +5706,7 @@
 @@||mainaku.life^
 @@||maisretor.no^
 @@||make-t.in^
+@@||make.my^
 @@||makeashorterlink.com^
 @@||makemyl.ink^
 @@||makeshort.top^
@@ -5702,6 +5738,7 @@
 @@||marktive.com^
 @@||martshort.com^
 @@||mas.si^
+@@||mas.so^
 @@||masklink.org^
 @@||masl.to^
 @@||masterlink.dev^
@@ -5794,6 +5831,7 @@
 @@||melchiorbrenneman.com^
 @@||melissahotdeals.com^
 @@||mely.me^
+@@||menang.win^
 @@||menangbola77.info^
 @@||menj.info^
 @@||mention-me.com^
@@ -5993,6 +6031,7 @@
 @@||mrfye.org^
 @@||mrjj.uk^
 @@||mrlink.in^
+@@||mrsaeed.com^
 @@||mrte.ch^
 @@||mrturl.com^
 @@||mrw.so^
@@ -6409,6 +6448,7 @@
 @@||obblink.com^
 @@||obdr.it^
 @@||obio.link^
+@@||oblino.com^
 @@||oc.sparkasse.de^
 @@||occ.li^
 @@||ock.cn^
@@ -6469,6 +6509,7 @@
 @@||olympus1000.fyi^
 @@||om.cbsi.com^$important
 @@||om.ly^
+@@||omegalinks.in^
 @@||omg.ae^
 @@||omg.ms^
 @@||omni.ag^
@@ -6657,6 +6698,7 @@
 @@||palpatecricketmajesty.com^
 @@||pamethelabel.info^
 @@||panaceainc.co^
+@@||pandagemoy.lol^
 @@||pandastyle.live^
 @@||panitech.us^
 @@||paperspeedy.com^
@@ -6952,6 +6994,7 @@
 @@||prolinks.me^
 @@||promo-visits.site^
 @@||promo.mobile.de^
+@@||promtric.com^
 @@||pronat360.com^
 @@||proof.click^
 @@||proofstuff.com^
@@ -7365,6 +7408,7 @@
 @@||ref.so^
 @@||ref11.top^
 @@||refer.is^
+@@||referer.uk^
 @@||referer.us^
 @@||referrals.brave.com^
 @@||referrals.bravesoftware.com^
