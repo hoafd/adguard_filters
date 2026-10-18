@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-17 15:20:31
-! Rules: 11707
+! Updated: 2026-10-18 04:02:01
+! Rules: 11710
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -609,7 +609,9 @@
 @@||ad.doubleclick.net^
 @@||ad.dyntracker.de^
 @@||ad.lifesight.io^
+@@||ad.trafficgate.net^
 @@||ad0.me^
+@@||ad2.trafficgate.net^
 @@||ad5.eu^
 @@||ad7.biz^
 @@||ada2.in^
@@ -5950,6 +5952,7 @@
 @@||mj.am^
 @@||mjg.li^
 @@||mjp88.online^
+@@||mjt.lu^
 @@||mk-live-webinar.com^
 @@||mk.mutuum.com^
 @@||mkecc.com^
