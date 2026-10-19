@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-19 04:11:22
-! Rules: 11710
+! Updated: 2026-10-19 18:36:15
+! Rules: 11711
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -812,6 +812,7 @@
 @@||allmylinks.link^
 @@||allmylinksinoneplace.com^
 @@||alls.link^
+@@||allsha.re^
 @@||allytab.com^
 @@||alnk.to^
 @@||aloeds.com^
@@ -2132,7 +2133,6 @@
 @@||clmp.me^
 @@||clockurl.com^
 @@||clotplaynews.live^
-@@||cloudfare.icu^
 @@||cloudfront.net^$important
 @@||cloudfronte.net^
 @@||cloudinery.net^
@@ -8926,6 +8926,7 @@
 @@||t.6sc.co^
 @@||t.adcell.com^
 @@||t.afi-b.com^
+@@||t.ajump.link^
 @@||t.cfjump.com^
 @@||t.clickwise.net^
 @@||t.cn^
