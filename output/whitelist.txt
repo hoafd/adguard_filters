@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-10-20 04:23:15
-! Rules: 11711
+! Updated: 2026-10-20 16:40:47
+! Rules: 11713
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1177,6 +1177,7 @@
 @@||azshrtr.com^
 @@||azx.az^
 @@||b-gat.es^
+@@||b-short.link^
 @@||b-url.it^
 @@||b.bw^
 @@||b.link^
@@ -5309,6 +5310,7 @@
 @@||links4money.com^
 @@||linksa.me^
 @@||linksable.to^
+@@||linksaffiliate.com^
 @@||linksbr.com.br^
 @@||linksc.click^
 @@||linkscop.me^
