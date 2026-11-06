@@ -30,7 +30,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -53,4 +53,3 @@ jobs:
           # Tùy chọn: Thêm các tùy chọn để tránh lỗi nếu không có thay đổi
           commit_options: '--no-verify'
           repository: .
-          
