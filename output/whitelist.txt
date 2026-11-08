@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-07 17:39:49
-! Rules: 11582
+! Updated: 2026-11-08 05:34:16
+! Rules: 11571
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -5661,7 +5661,6 @@
 @@||martshort.com^
 @@||mas.si^
 @@||mas.so^
-@@||masklink.org^
 @@||masl.to^
 @@||masterlink.dev^
 @@||masuk-id.info^
@@ -7845,7 +7844,6 @@
 @@||shlink.in^
 @@||shlink.io^
 @@||shlinks.site^
-@@||shln.io^
 @@||shln.me^
 @@||shlom.in^
 @@||shme.io^
@@ -7945,7 +7943,6 @@
 @@||shorte.ink^
 @@||shorte.pro^
 @@||shorte.st^
-@@||shortearn.to^
 @@||shortearner.in^
 @@||shorteasy.com^
 @@||shortedge.pro.cutestat.com^
@@ -8013,7 +8010,6 @@
 @@||shortey.net^
 @@||shortezy.com^
 @@||shortfake.com^
-@@||shortfree.link^
 @@||shortgo.me^
 @@||shorti.me^
 @@||shortie.io^
@@ -8087,7 +8083,6 @@
 @@||shortme.me^
 @@||shortme.xyz^
 @@||shortmenu.com^
-@@||shortmylink.co^
 @@||shortn.link^
 @@||shortna.me^
 @@||shortnd.com^
@@ -8128,7 +8123,6 @@
 @@||shorturl.az^
 @@||shorturl.best^
 @@||shorturl.biz^
-@@||shorturl.bond^
 @@||shorturl.click^
 @@||shorturl.co.id^
 @@||shorturl.com^
@@ -8206,15 +8200,12 @@
 @@||shrinkme.org^
 @@||shrinkme.pro^
 @@||shrinkme.site^
-@@||shrinkme.space^
 @@||shrinkme.top^
 @@||shrinkme.us^
 @@||shrinkme.vip^
-@@||shrinkmyurl.com^
 @@||shrinkr.io^
 @@||shrinkrl.com^
 @@||shrinkster.com^
-@@||shrinkuri.com^
 @@||shrinkurl.us^
 @@||shrinkurlnow.vercel.app^
 @@||shrinkurls.vercel.app^
@@ -8443,7 +8434,6 @@
 @@||smr.sh^
 @@||smr.to^
 @@||smrtlnk.com^
-@@||sms-my.com^
 @@||sms.bo^
 @@||sms.club^
 @@||sms.katapult.com^
@@ -8480,7 +8470,6 @@
 @@||sndn.link^
 @@||sng.agency^
 @@||sng.ng^
-@@||sngkt.in^
 @@||sni.cdn.manager-magazin.de.c.footprint.net^$important
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||sni.ps^
