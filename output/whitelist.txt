@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-09 22:10:06
-! Rules: 11587
+! Updated: 2026-11-10 06:52:11
+! Rules: 11589
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -2619,6 +2619,7 @@
 @@||dl100.cc^
 @@||dld.bz^
 @@||dlik.ch^
+@@||dlpeace.com^
 @@||dlsh.it^
 @@||dlvr.it^
 @@||dly.es^
@@ -7547,6 +7548,7 @@
 @@||s.id^
 @@||s.kiot.io^
 @@||s.klinikpintar.id^
+@@||s.kode4u.tech^
 @@||s.lalazodiac.com^
 @@||s.livstick.io^
 @@||s.locus.cards^
