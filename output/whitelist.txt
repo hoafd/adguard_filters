@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-12 06:47:53
-! Rules: 11592
+! Updated: 2026-11-12 19:44:52
+! Rules: 11591
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -8572,7 +8572,6 @@
 @@||spgrp.sg^
 @@||spicc.io^
 @@||spid.io^
-@@||spidyurl.com^
 @@||spiegel.de^$important
 @@||spify.co^
 @@||spigen.co^
