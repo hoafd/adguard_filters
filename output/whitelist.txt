@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-13 06:03:37
-! Rules: 11591
+! Updated: 2026-11-13 19:27:14
+! Rules: 11592
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -8531,6 +8531,7 @@
 @@||socialink.it^
 @@||socilinkr.com^
 @@||socx.in^
+@@||socxo.io^
 @@||softyfy.com^
 @@||sokrati.ru^
 @@||solink.in^
