@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-14 05:52:11
-! Rules: 11592
+! Updated: 2026-11-14 17:51:04
+! Rules: 11602
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -764,6 +764,7 @@
 @@||aktfclick.com^
 @@||akun.gg^
 @@||akunfix.com^
+@@||akunjpvip.xyz^
 @@||akunklik.com^
 @@||akunnp.com^
 @@||akunss.com^
@@ -786,6 +787,7 @@
 @@||alie.kr^
 @@||alien-traffic.com^
 @@||alientraffic.com^
+@@||aliexpi.com^
 @@||alishort.com^
 @@||alisys.it^
 @@||alitems.co^
@@ -1492,6 +1494,7 @@
 @@||bluekai.com^
 @@||bluems.com^
 @@||blueskymap.org^
+@@||blur.by^
 @@||blynkn.com^
 @@||blyto.com^
 @@||bmai.cc^
@@ -4897,6 +4900,7 @@
 @@||lil.so^
 @@||lilbt.com^
 @@||lillink.net^
+@@||lillink.xyz^
 @@||lilllil.ru^
 @@||lilnk.to^
 @@||liltext.com^
@@ -5336,6 +5340,7 @@
 @@||linqer.me^
 @@||linqry.com^
 @@||linqup.in^
+@@||lintlink.com^
 @@||linux.mom^
 @@||linxonly.com^
 @@||linxy.pro^
@@ -6841,6 +6846,7 @@
 @@||postsign.docusign.com^
 @@||posu.cc^
 @@||poszlink.com^
+@@||potong.co^
 @@||powerapplinks.com^
 @@||poy.one^
 @@||pp.cr^
@@ -8180,6 +8186,7 @@
 @@||shortylink.org^
 @@||shortyurl.top^
 @@||shortyzone.com^
+@@||shotcut.in^
 @@||shoturl.org^
 @@||shoturl.us^
 @@||shotxy.com^
@@ -10414,6 +10421,7 @@
 @@||w.wiki^
 @@||w09.ru^
 @@||w0o.de^
+@@||w0of-woof.com^
 @@||w1p.fr^
 @@||w2link.com^
 @@||w2u.io^
@@ -10574,6 +10582,7 @@
 @@||wl.co^
 @@||wl.gl^
 @@||wl.spotify.com^
+@@||wlink.us^
 @@||wlinky.com^
 @@||wluuns.com^
 @@||wm.edu^
@@ -10888,6 +10897,7 @@
 @@||yourls.info^
 @@||yourls.irex.aretex.ca^
 @@||yourls.lu^
+@@||yourls.net^
 @@||yourls.newstargeted.com^
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
