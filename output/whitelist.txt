@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-14 17:51:04
-! Rules: 11602
+! Updated: 2026-11-15 05:53:10
+! Rules: 11603
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -4163,6 +4163,7 @@
 @@||imlcc.link^
 @@||imo-call.shop^
 @@||imo.cx^
+@@||imp.i*.net^
 @@||impl.us^
 @@||impulseonline.shop^
 @@||imrobpolit.pro^
