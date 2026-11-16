@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-16 05:52:54
-! Rules: 11573
+! Updated: 2026-11-16 21:51:20
+! Rules: 11572
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -7381,7 +7381,6 @@
 @@||rfx.today^
 @@||rgd.app^
 @@||rgdyk.com^
-@@||rgister.net^
 @@||rgl.nl^
 @@||rh1.eu^
 @@||rhlink.com^
