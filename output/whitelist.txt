@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-15 18:41:13
-! Rules: 11571
+! Updated: 2026-11-16 05:52:54
+! Rules: 11573
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -9638,6 +9638,7 @@
 @@||u0c.net^
 @@||u1.mnge.co^
 @@||u2.to^
+@@||u2l.ai^
 @@||u2l.io^
 @@||u2s.ca^
 @@||u2s.tn^
@@ -11406,6 +11407,7 @@ zdbb.net
 ||martech.condenastdigital.com^
 ||meatballsandads.com^
 ||mediametrics.ru^
+||memcyco.com^
 ||metricool.com^
 ||middleware.p7s1.io^
 ||minexmr.com^
