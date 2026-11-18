@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-17 20:41:53
-! Rules: 11580
+! Updated: 2026-11-18 06:53:48
+! Rules: 11572
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1187,7 +1187,6 @@
 @@||b54.in^
 @@||b9d.me^
 @@||baas.kr^
-@@||baba.bio^
 @@||babblecase.com^
 @@||babel.team^
 @@||bacc666.mobi^
@@ -1260,6 +1259,7 @@
 @@||bee4.biz^
 @@||beeb.us^
 @@||beehiiv.com^
+@@||beelnk.com^
 @@||beepurl.com^
 @@||beeshort.de^
 @@||beeurls.com^
@@ -2312,7 +2312,6 @@
 @@||curl.ro^
 @@||curlm.in^
 @@||curlmin.com^
-@@||curriculumsystem.org^
 @@||curryfielddistribution.com^
 @@||curt.wiz.co^
 @@||curts.me^
@@ -2708,7 +2707,6 @@
 @@||druuz.com^
 @@||drw.sh^
 @@||dsastro.com^
-@@||dsgfs.io^
 @@||dsh.re^
 @@||dside.ca^
 @@||dsn.io^
@@ -3507,6 +3505,7 @@
 @@||go-admin.functorz.com^
 @@||go-admin.momen.app^
 @@||go-link.ru^
+@@||go-links.net^
 @@||go-to.us^
 @@||go.9nl.com^
 @@||go.acciojob.com^
@@ -4698,7 +4697,6 @@
 @@||kutt.it^
 @@||kutt.itarian.com^
 @@||kutt.mariodian.com^
-@@||kutt.schantli.cloud^
 @@||kutt.this.team^
 @@||kutt.to^
 @@||kutt.ural-agro.com^
@@ -5814,6 +5812,7 @@
 @@||microsoftfiles.live^
 @@||microsoftonline.com^$important
 @@||microurl.org^
+@@||microurls.io^
 @@||midiavip.com^
 @@||miffy.me^
 @@||migly.in^
@@ -6285,7 +6284,6 @@
 @@||noticiasactualizadas24h.com^
 @@||notify.xboxlive.com^$important
 @@||notion-url-shortener.vercel.app^
-@@||notlong.com^
 @@||nov.io^
 @@||nov.link^
 @@||now.sh^
@@ -7412,7 +7410,6 @@
 @@||rjpl.link^
 @@||rjvn.co^
 @@||rjyjwq.com^
-@@||rkt.bio^
 @@||rli.io^
 @@||rls.my^
 @@||rlu.ru^
@@ -7540,7 +7537,6 @@
 @@||s.g123.jp^
 @@||s.gateway.messenger.live.com^$important
 @@||s.gdngs.de^
-@@||s.ggwp.be^
 @@||s.gy^
 @@||s.id^
 @@||s.kiot.io^
@@ -8596,7 +8592,6 @@
 @@||spti.fi^
 @@||spx.re^
 @@||spxl.ink^
-@@||spynger.net^
 @@||spyw.com^
 @@||sq6.ru^
 @@||sqex.to^
@@ -8901,7 +8896,6 @@
 @@||tap.urlklik.com^
 @@||tapetco.vn^
 @@||tapfiliate.com^
-@@||taplink.cc^
 @@||tapme.ink^
 @@||tapmy.app^
 @@||tapper.ai^
@@ -10054,7 +10048,6 @@
 @@||urlshortener.mahamafzar.com^
 @@||urlshortener.pro^
 @@||urlshortener.site^
-@@||urlshortenerr.live^
 @@||urlshortenertool.com^
 @@||urlshortenervip.com^
 @@||urlshortening.webalias.com^
@@ -10259,7 +10252,6 @@
 @@||vid4u.net^
 @@||vidcy.co^
 @@||video-stats.l.google.com^$important
-@@||videopro.live^
 @@||videos.pbi.tools^
 @@||videos.vidible.tv^$important
 @@||videyx.fun^
@@ -10880,7 +10872,6 @@
 @@||yourls.newstargeted.com^
 @@||yourls.org^
 @@||yourls.ph-freiburg.de^
-@@||yourls.website^
 @@||yourwish.es^
 @@||yous.ee^
 @@||youtu.be^$important
@@ -11079,6 +11070,7 @@
 @@||zyguer.com^
 @@||zynexly.com^
 @@||zynga.my^
+@@||zyp.to^
 @@||zywv.us^
 @@||zz-tw.co^
 @@||zz.gd^
