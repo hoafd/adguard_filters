@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-21 18:57:53
-! Rules: 9697
+! Updated: 2026-11-22 06:07:23
+! Rules: 9704
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -56,6 +56,7 @@
 @@||0vo.me^
 @@||0x.re^
 @@||0x3.me^
+@@||0xy.me^
 @@||1-aclk.net^
 @@||1000ps.to^
 @@||1001giris.com^
@@ -539,6 +540,7 @@
 @@||adservice.google.*^
 @@||adshort.click^
 @@||adshort.co^
+@@||adslinks.site^
 @@||adsmeasurement.com^
 @@||adsmoker.com^
 @@||adspeed.net^
@@ -627,7 +629,6 @@
 @@||akm.works^
 @@||akoo.ir^
 @@||akr.gr^
-@@||akses.digital^
 @@||akses.gg^
 @@||akses.me^
 @@||aktfclick.com^
@@ -668,7 +669,6 @@
 @@||alolink.com^
 @@||alpha.camp^
 @@||alphab.gr^
-@@||alpinehr.ca^
 @@||alsa.me^
 @@||alstr.in^
 @@||alter-kpi.app^
@@ -1201,6 +1201,7 @@
 @@||bittylink.com^
 @@||bittyvi.com^
 @@||biturl.app^
+@@||biturl.site^
 @@||biturl.top^
 @@||bitw.in^
 @@||bitx.bio^
@@ -1327,6 +1328,7 @@
 @@||brightcove.net^$important
 @@||brightestbeginning.me^
 @@||brightsci.io^
+@@||briidge.life^
 @@||brilink.me^
 @@||brisktopia.com^
 @@||briurl.com^
@@ -1389,6 +1391,7 @@
 @@||by.com.vn^
 @@||by1.eu^
 @@||by2.io^
+@@||bydqy.com^
 @@||byebye.pro^
 @@||byflexy.com^
 @@||bylink.me^
@@ -2229,6 +2232,7 @@
 @@||docthem.link^
 @@||dogelexus.win^
 @@||dogelexusin.store^
+@@||dohggte.com^
 @@||doiop.com^
 @@||dollinx-hyperlink.vercel.app^
 @@||domainsandlinks.com^
@@ -2271,6 +2275,7 @@
 @@||drnx.ir^
 @@||droidqr.com^
 @@||dronescapes.video^
+@@||drop.tf^
 @@||dropl.link.cutestat.com^
 @@||dropl.link^
 @@||droplr.net^
@@ -2350,6 +2355,7 @@
 @@||earnestwiles.com^
 @@||earnfly.net^
 @@||earnpays.com^
+@@||earnshort.site^
 @@||earnshorter.com^
 @@||earnshortly.com^
 @@||earnwithlink.com^
@@ -2971,7 +2977,6 @@
 @@||go.cwtv.com^
 @@||go.dave-wood.org^
 @@||go.dbs.com^
-@@||go.drnima.com^
 @@||go.dscuoa.nz^
 @@||go.e2language.com^
 @@||go.edh.tw^
@@ -3333,7 +3338,6 @@
 @@||hopklik.com^
 @@||hopla.to^
 @@||hopli.net^
-@@||hopp.co^
 @@||hops.me^
 @@||hopth.ru^
 @@||hostcafe.info^
@@ -3447,7 +3451,6 @@
 @@||idfk.lol^
 @@||idr108.link^
 @@||idtag.id^
-@@||idvip.us^
 @@||iea.li^
 @@||ieg.li^
 @@||ierp.co.nz^
@@ -3458,6 +3461,7 @@
 @@||ift.tt^
 @@||ifwni.com^
 @@||ige.li^
+@@||igit.me^
 @@||iherb.co^
 @@||ihnpo.com^
 @@||ihor.se^
@@ -3844,7 +3848,6 @@
 @@||klf.sk^
 @@||klickhier.at^
 @@||klicklink.info^
-@@||klik-ini.info^
 @@||klik-ini.one^
 @@||klik-me.chat^
 @@||klik.best^
@@ -4137,7 +4140,6 @@
 @@||link.freshmail.mx^
 @@||link.glasow.fr^
 @@||link.goglogo.com^
-@@||link.gy^
 @@||link.hexlet.io^
 @@||link.hritbot.com^
 @@||link.hxfb.org.au^
@@ -4454,7 +4456,6 @@
 @@||liscr.info^
 @@||list-manage.com^
 @@||list-unsubscribe.eservice.emarsys.net^
-@@||lit-url.com^
 @@||liteapi.ekatox.com^$important
 @@||litfuel.me^
 @@||litly.net^
@@ -4769,6 +4770,7 @@
 @@||mediaplex.com^
 @@||mediastream.am^
 @@||mediazotic.net^
+@@||medical-twin.com^
 @@||medusa88.online^
 @@||meelink.net^
 @@||meelinks.com^
@@ -5333,7 +5335,6 @@
 @@||oky.li^
 @@||oldmutualsa.com^
 @@||oli.vi^
-@@||oljxgv.com^
 @@||olympus1000.fyi^
 @@||om.cbsi.com^$important
 @@||om.ly^
@@ -6068,6 +6069,7 @@
 @@||redaz.in^
 @@||redilify.com^
 @@||redir.ec^
+@@||redir.fr^
 @@||redir.io^
 @@||redir.is^
 @@||redir.wargaming.net^
@@ -6091,6 +6093,7 @@
 @@||redtext.us^
 @@||redtolnk.com^
 @@||redu.it^
+@@||reduced.to^
 @@||reel.io^
 @@||reelsdownload.net^
 @@||ref.gs^
@@ -6212,6 +6215,7 @@
 @@||rt.se^
 @@||rtc.la^
 @@||rtedq.com^
+@@||rtfo.site^
 @@||rtk.tools^
 @@||rtrk.ca^
 @@||rtrk.co.nz^
@@ -6280,7 +6284,6 @@
 @@||s.gateway.messenger.live.com^$important
 @@||s.gdngs.de^
 @@||s.gy^
-@@||s.id^
 @@||s.kiot.io^
 @@||s.klinikpintar.id^
 @@||s.kode4u.tech^
@@ -6539,6 +6542,7 @@
 @@||shareaprofit.com^
 @@||shareasale-analytics.com^
 @@||shareasale.com^
+@@||shareease.link^
 @@||sharein.com^
 @@||sharelinkpro.com^
 @@||sharem.tech^
@@ -6776,8 +6780,10 @@
 @@||shorts.codes^
 @@||shortshare.app^
 @@||shortslinks.com^
+@@||shortslinks.site^
 @@||shortstat.com^
 @@||shortster.net^
+@@||shortsurl.site^
 @@||shortswitch.com^
 @@||shortsy.pro^
 @@||shortthis.app^
@@ -6948,7 +6954,6 @@
 @@||skp.la^
 @@||skr.sk^
 @@||skrbtfb.top^
-@@||skroc.pl^
 @@||skru.in^
 @@||skrun.ch^
 @@||sku.su^
@@ -7193,6 +7198,7 @@
 @@||starturl.com^
 @@||starz.tv^
 @@||static*.cleverpush.com^
+@@||static.monactive.net^
 @@||static.tv360.vn^$important
 @@||staticiv.com^
 @@||statistics4u.net^
@@ -7523,7 +7529,6 @@
 @@||themestub.com^
 @@||themoviedb.com^$important
 @@||theorist.media^
-@@||thesa.us^
 @@||theseotools.net^
 @@||thesne.ws^
 @@||thesocial.vip^
@@ -7611,7 +7616,6 @@
 @@||tinygo.co^
 @@||tinygo.net^
 @@||tinyl.ink^
-@@||tinyl.io^
 @@||tinylink.ca^
 @@||tinylink.fr^
 @@||tinylink.ir^
@@ -8010,6 +8014,7 @@
 @@||twm5g.co^
 @@||two.re^
 @@||twou.co^
+@@||twtr.in^
 @@||twurl.net^
 @@||twurl.nl^
 @@||tx0.org^
@@ -8021,6 +8026,7 @@
 @@||ty.gy^
 @@||tyasd.com^
 @@||tyns.me^
+@@||tyny.to^
 @@||tyurl.ch^
 @@||tyx.me^
 @@||tzbiolinks.com^
@@ -8137,7 +8143,6 @@
 @@||upld.in^
 @@||uplifter.ai^
 @@||upmchp.us^
-@@||upriserz.link^
 @@||upstriderlinks.com^
 @@||upt.sh^
 @@||uptoplink.com^
@@ -8349,6 +8354,7 @@
 @@||urlshort.co^
 @@||urlshort.dev^
 @@||urlshort.rest^
+@@||urlshort.xyz^
 @@||urlshort4.com^
 @@||urlshortener-client.vercel.app^
 @@||urlshortener-cyan-five.vercel.app^
@@ -8451,7 +8457,6 @@
 @@||v0.dev^
 @@||v1.ax^
 @@||v1m.net^
-@@||v3d.net^
 @@||v68.io^
 @@||v7c.cn^
 @@||va.lk^
@@ -8853,6 +8858,7 @@
 @@||x-shrtn.com^
 @@||x.bestcheck.de^
 @@||x.bndspn.com^
+@@||x.co^
 @@||x.gd^
 @@||x.nu^
 @@||x.se^
@@ -8868,6 +8874,7 @@
 @@||xav.cc^
 @@||xavo.wtf^
 @@||xb5.com^
+@@||xbig.info^
 @@||xbitly.com^
 @@||xbox.ipv6.microsoft.com^$important
 @@||xboxexperiencesprod.experimentation.xboxlive.com^$important
@@ -8919,6 +8926,7 @@
 @@||xoe.cz^
 @@||xor.tw^
 @@||xozap.com^
+@@||xplinks.com^
 @@||xpol.com.tr^
 @@||xpr.li^
 @@||xprrtupdate.com^
@@ -9114,7 +9122,6 @@
 @@||zhergrush.com^
 @@||zhort.link^
 @@||zhx.su^
-@@||zi.ma^
 @@||zi.pe^
 @@||ziadi.co^
 @@||zight-shortner.replit.app^
