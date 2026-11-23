@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-23 06:59:20
-! Rules: 11236
+! Updated: 2026-11-23 23:41:04
+! Rules: 11205
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -619,7 +619,6 @@
 @@||adosiz.net^
 @@||adpanel.com^
 @@||adpaylink.com^
-@@||adr.ec^
 @@||adr3.ir^
 @@||ads.revjet.com^
 @@||ads.so^
@@ -1493,7 +1492,6 @@
 @@||bose.life^
 @@||bosi.me^
 @@||boskale.me^
-@@||bosslinks.ai^
 @@||boston25.com^
 @@||bot.fi^
 @@||botemoda.com^
@@ -2407,7 +2405,6 @@
 @@||ddbfx.com^
 @@||ddlsu.com^
 @@||ddot.to^
-@@||ddp.net^
 @@||ddw.nu^
 @@||de2wa.com^
 @@||dealabs.digidip.net^
@@ -2556,7 +2553,6 @@
 @@||dntl.me^
 @@||do.co^
 @@||do.my^
-@@||doaistri.com^
 @@||doburl.com^
 @@||doc2link.vercel.app^
 @@||dockr.ly^
@@ -3236,7 +3232,6 @@
 @@||gacortangandewa.com^
 @@||gacortexas.co^
 @@||gacortexas.org^
-@@||gacorwak.xyz^
 @@||gafee.net^
 @@||gaftrad.com^
 @@||gallerylink.info^
@@ -3369,8 +3364,6 @@
 @@||gjw.cx^
 @@||gkurl.us^
 @@||gl.am^
-@@||glatt.io^
-@@||glattly.com^
 @@||glb.pw^
 @@||glbass.com^
 @@||glblctzn.co^
@@ -3594,7 +3587,6 @@
 @@||gooo.to^
 @@||goose.re^
 @@||gopjn.com^
-@@||gopreply.com^
 @@||goprotect.link^
 @@||gopvote.co^
 @@||goqr.me^
@@ -3743,7 +3735,6 @@
 @@||healthresources.co^
 @@||healthservices.help^
 @@||healthservicesrl.com.au^
-@@||heartofthenorthtours.link^
 @@||hec.su^
 @@||heilynk.com^
 @@||hellokity.xyz^
@@ -4010,9 +4001,7 @@
 @@||ikhti.ar^
 @@||ikwer.com^
 @@||iky.fr^
-@@||ikztf.com^
 @@||ilang.in^
-@@||ild.info^
 @@||ilinky.info^
 @@||ilix.in^
 @@||iljmp.com^
@@ -5465,7 +5454,6 @@
 @@||making.party^
 @@||makyo.io^
 @@||mamikale.me^
-@@||mamm.ie^
 @@||mampir.link^
 @@||man.ac.uk^
 @@||manager-magazin-de.manager-magazin.de^$important
@@ -5822,7 +5810,6 @@
 @@||mullin.ax^
 @@||mulltee.com^
 @@||multi.tips^
-@@||mumy.me^
 @@||munbyn.biz^
 @@||mupf.me^
 @@||murl.com^
@@ -6001,7 +5988,6 @@
 @@||neontools.io^
 @@||nepolls.com^
 @@||nerdleveltech.com^
-@@||net46.net^
 @@||netbet.gr^
 @@||netbet.livepartners.com^
 @@||netbetfr.livepartners.com^
@@ -6838,7 +6824,6 @@
 @@||qr1.be^
 @@||qr1.jp^
 @@||qr123reg.click^
-@@||qr2.bz^
 @@||qr4pro.com^
 @@||qra.se^
 @@||qrab.eu^
@@ -6886,7 +6871,6 @@
 @@||qrme.be^
 @@||qrmee.ru^
 @@||qrnamic.com^
-@@||qrnesign.com^
 @@||qrouton.jp^
 @@||qrpathway.com^
 @@||qrpol.com^
@@ -6900,7 +6884,6 @@
 @@||qrurl.co^
 @@||qrurl.us^
 @@||qry.kr^
-@@||qrybaan.com^
 @@||qs.rams-app.com^
 @@||qs1.it^
 @@||qt-tchallenge.vercel.app^
@@ -7180,7 +7163,6 @@
 @@||ritmarket.com^
 @@||rivablu.net^
 @@||riz.cz^
-@@||rizchi.com^
 @@||rizy.ir^
 @@||rj99.site^
 @@||rjpl.link^
@@ -7248,7 +7230,6 @@
 @@||rtvote.com^
 @@||rtxt.co^
 @@||rubsy.ingenious.cloud^
-@@||rubyurl.com^
 @@||rumahide.my.id^
 @@||rumahlink.com^
 @@||run.admost.com^
@@ -7392,7 +7373,6 @@
 @@||salone.it^
 @@||sam.am^
 @@||samcart.me^
-@@||sample-app.fluf.dev^
 @@||samsungcloud.com^$important
 @@||san.aq^
 @@||sanalytics.disneyplus.com^$important
@@ -7626,7 +7606,6 @@
 @@||sho.ae^
 @@||sho.cat^
 @@||sho.pe^
-@@||shoco.one^
 @@||shoort.ch^
 @@||shoort.io^
 @@||shop-links.co^
@@ -7672,7 +7651,6 @@
 @@||short.innews.gr^
 @@||short.io^
 @@||short.iuav.it^
-@@||short.ly^
 @@||short.ms^
 @@||short.mypaste.fun^
 @@||short.neos.eu^
@@ -8103,7 +8081,6 @@
 @@||skro.in^
 @@||skroc.pl^
 @@||skru.in^
-@@||skrun.ch^
 @@||sku.su^
 @@||skunk.im^
 @@||skx.vercel.app^
@@ -8413,7 +8390,6 @@
 @@||stnonline.com^
 @@||stoodsef.com^
 @@||stor.ee^
-@@||stor.live^
 @@||storagesch.com^
 @@||storals.com^
 @@||storeman.online^
@@ -8932,7 +8908,6 @@
 @@||tlpjyh.com^
 @@||tlrd.pl^
 @@||tlrk.it^
-@@||tls.tc^
 @@||tlsurl.com^
 @@||tlx.kr^
 @@||tly.getrewardful.com^
@@ -9671,7 +9646,6 @@
 @@||urlify-orcin.vercel.app^
 @@||urlify.cn^
 @@||urlify.eu^
-@@||urlify.link^
 @@||urlifypoint.com^
 @@||urlifys.com^
 @@||urlin.bio^
@@ -9703,7 +9677,6 @@
 @@||urlnova.com^
 @@||urlo.in^
 @@||urlo12x.com^
-@@||urlot.com^
 @@||urlpi.com^
 @@||urlpoints.com^
 @@||urlq.com^
@@ -9876,7 +9849,6 @@
 @@||vaddev.de^
 @@||vai.la^
 @@||vai.li^
-@@||vai.onl^
 @@||vaila.me^
 @@||valv.im^
 @@||vampyrejibmen.com^
@@ -10491,7 +10463,6 @@
 @@||yhoo.it^
 @@||yhqapp.com^
 @@||yidbio.com^
-@@||yigza.com^
 @@||yiii.de^
 @@||yji.tw^
 @@||ykbofo.com^
@@ -10566,7 +10537,6 @@
 @@||yuk.nu^
 @@||yukibio.com^
 @@||yul.is^
-@@||yun.ir^
 @@||yurl.bio^
 @@||yusite.my.id^
 @@||yvjycr.com^
@@ -10584,7 +10554,6 @@
 @@||z23.ru^
 @@||z2h.it^
 @@||z4sh.com^
-@@||z5h.cn^
 @@||z6c.de^
 @@||z9.fr^
 @@||z9n.net^
