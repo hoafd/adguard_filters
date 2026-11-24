@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-24 09:25:38
-! Rules: 11288
+! Updated: 2026-11-24 22:11:51
+! Rules: 11289
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -10942,6 +10942,7 @@ zdbb.net
 ||awswaf.com^
 ||axiom.co^
 ||bannerconnect.com^
+||bapi-*.moengage.com^
 ||bdad.123pan.cn^
 ||beanstock.com^
 ||benelph.de^
