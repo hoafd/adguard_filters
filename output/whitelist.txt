@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-24 22:11:51
-! Rules: 11289
+! Updated: 2026-11-25 07:57:28
+! Rules: 11292
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -3731,7 +3731,6 @@
 @@||gyntekbusiness.com^
 @@||h-ref.com^
 @@||h1.nu^
-@@||h2mhridayff.com^
 @@||h3x.ir^
 @@||h4g3z1-urlshortener.web.app^
 @@||h5bio.com^
@@ -4721,6 +4720,7 @@
 @@||lessnmore.net^
 @@||lesterchan.net^
 @@||lets.rok.biz^
+@@||letsconnect.fun^
 @@||letsencrypt.org^$important
 @@||letsharu.cc^
 @@||letx.be^
@@ -5474,6 +5474,7 @@
 @@||m2g.me^
 @@||m42.pw^
 @@||m4rk.org^
+@@||m5.gs^
 @@||m5.lt^
 @@||m7p.ir^
 @@||maac.io^
@@ -7795,6 +7796,7 @@
 @@||shortenme.me^
 @@||shortenmyurl.online^
 @@||shortenn.org^
+@@||shortenn.site^
 @@||shortenpay.com^
 @@||shortenpro.com^
 @@||shortenr-app.vercel.app^
@@ -9043,6 +9045,7 @@
 @@||toofficialwebsite.com^
 @@||toolaxy.com^
 @@||toolbites.com^
+@@||toolboxdaily.com^
 @@||toolify.link^
 @@||toolking.net^
 @@||toolkingo.com^
