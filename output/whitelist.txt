@@ -1,6 +1,6 @@
 ! Title: Final Whitelist
-! Updated: 2026-11-26 07:49:07
-! Rules: 11294
+! Updated: 2026-11-26 21:16:01
+! Rules: 11296
 !
 ! --- LINKS ---
 ! > Whitelist: https://raw.githubusercontent.com/hoafd/adguard_filters/main/output/whitelist.txt
@@ -1287,6 +1287,7 @@
 @@||bigcattracks.com^
 @@||bigcc.cc^
 @@||bigfi.sh^
+@@||bigfk.com^
 @@||biggo.tw^
 @@||bigolink.com^
 @@||bigurl.io^
@@ -5192,6 +5193,7 @@
 @@||linkverkorten.com^
 @@||linkvertise.com^
 @@||linkvertise.net^
+@@||linkvip88.org^
 @@||linkvp.com^
 @@||linkvs.com^
 @@||linkwede.vip^
